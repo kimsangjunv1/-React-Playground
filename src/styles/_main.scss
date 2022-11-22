@@ -109,7 +109,7 @@
     &:nth-child(1) {
       width: 80%;
       // background: rgb(255, 255, 255);
-      height: 700px;
+      // height: 700px;
       .videoView {
         width: 100%;
         // height: 700px;
@@ -130,19 +130,32 @@
           }
         }
       }
-      .videoDesc {
-        height: 300px;
-        background: #111111;
-        border-radius: 20px;
-      }
     }
     &:nth-child(2) {
       width: 20%;
       .videoList {
-        height: 100%;
+        // height: 100%;
         background: #111;
         border-radius: 20px;
         margin-left: 20px;
+        .list {
+          .list__box {
+            a {
+              .list__tit {
+                width: 100%;
+                white-space: nowrap;
+                text-overflow: ellipsis;
+                overflow: hidden;
+              }
+            }
+            .list__desc {
+              width: 100%;
+              white-space: nowrap;
+              text-overflow: ellipsis;
+              overflow: hidden;
+            }
+          }
+        }
       }
     }
   }
@@ -150,6 +163,114 @@
 
 @media (max-width: 1000px) {
   .videoList {
-    display: none;
+    // display: none;
+    display: flex;
+    overflow-x: scroll;
+    /* width: 100%; */
+    .list {
+      width: 510px;
+      a {
+        img {
+          width: auto;
+        }
+      }
+    }
+  }
+  .videoContainer {
+    flex-direction: column;
+    section {
+      &:nth-child(1),
+      &:nth-child(2) {
+        width: 100%;
+      }
+    }
+  }
+}
+
+.video__inner {
+  display: flex;
+  width: 1160px;
+  margin: 0 auto;
+  margin-top: 100px;
+
+  .videoView {
+    width: 70%;
+    margin-right: 20px;
+  }
+  .videoList {
+    width: 30%;
+  }
+}
+
+.videoConts {
+  .videoList {
+    .videos__inner {
+      flex-direction: column;
+      > div {
+        width: 100%;
+      }
+    }
+  }
+}
+
+// 채널 보기
+.channel-infor {
+  text-align: center;
+  margin-bottom: 70px;
+  h1 {
+    font-size: 32px;
+    margin-bottom: 10px;
+  }
+  .channel-infor-cont {
+    position: relative;
+    margin-bottom: 200px;
+
+    img {
+      &:nth-child(1) {
+        height: 400px;
+        object-fit: cover;
+      }
+    }
+
+    .profile {
+      position: absolute;
+      bottom: -139px;
+      left: 50%;
+      transform: translate(-50%, 0);
+      width: 300px;
+      border-radius: 100%;
+    }
+  }
+}
+.videoDesc {
+  background: #252525;
+  border-radius: 15px;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.videoView {
+  .play {
+    > div {
+      width: 100% !important;
+      height: 453px !important;
+    }
+  }
+  .count {
+    display: flex;
+    color: #ffffffa3;
+    font-size: 14px;
+  }
+}
+
+.videoConts-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  .channel {
+    a {
+      font-size: 16px !important;
+      font-weight: bold;
+    }
   }
 }

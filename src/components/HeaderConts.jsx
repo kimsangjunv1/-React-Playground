@@ -14,7 +14,7 @@ const HeaderConts = () => {
         <img src={imgA} alt="youtube logo" className="yt_logo" />
         <Link to="/">
           {/* <MdOutlineComputer className="icon" /> */}
-          JunTube
+          TechTube
         </Link>
       </h1>
       <SearchBar />

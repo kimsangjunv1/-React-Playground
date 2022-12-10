@@ -25,6 +25,9 @@
         background: #dc493e !important;
         color: #fff !important;
         border-radius: 100px;
+        span {
+          color: #fff !important;
+        }
       }
       span {
         color: #000;
@@ -32,7 +35,7 @@
 
         &:first-child {
           display: inline-block;
-          margin-right: 10px;
+          margin: 0 10px;
           vertical-align: -1px;
         }
       }
@@ -40,7 +43,7 @@
   }
   #contents {
     width: 85%;
-    padding: 30px;
+    padding: 0 30px;
     position: relative;
 
     &::before,
@@ -77,8 +80,11 @@
   gap: 10px;
 
   .box {
-    // background: red;
     transition: all 0.25s;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
     &:hover {
       transform: translateY(-10px);
       transition: all 0.25s;
@@ -100,14 +106,17 @@
   // display: flex;
   a {
     img {
-      // width: 200px;
-      // object-fit: cover;
+      height: 16vw;
       border-radius: 10px;
+      object-fit: cover;
     }
   }
   .boxInfo {
     padding: 10px;
-    // background: #ededed;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 35%;
     a {
       &:nth-child(1) {
         p {
@@ -116,14 +125,28 @@
         }
       }
       &:nth-child(2) {
+        display: flex;
+        align-items: center;
+        padding-right: 10px;
         p {
           color: rgba(0, 0, 0, 0.514);
+          &:nth-child(1) {
+            margin-right: 10px;
+            background: #e4e3ec;
+            color: #252544 !important;
+            border-radius: 100px;
+            color: #fff;
+            padding: 5px 10px;
+          }
+          &:nth-child(2) {
+            font-size: 12px;
+          }
         }
       }
     }
     p {
       text-overflow: ellipsis;
-      width: 100%;
+      // width: 100%;
       // white-space: nowrap;
       overflow: hidden;
       display: -webkit-box;
@@ -196,6 +219,46 @@
 }
 
 @media (max-width: 1000px) {
+  #main {
+    #contents {
+      width: 100% !important;
+      padding: 30px 30px 0px 30px !important;
+      .box {
+        a {
+          img {
+            height: 56vw;
+          }
+        }
+        .boxInfo {
+          height: auto;
+        }
+      }
+      .result {
+        top: auto;
+        bottom: 38px;
+        height: 58px;
+        left: 50%;
+        width: 252px;
+        transform: translatex(-50%);
+      }
+    }
+    #aside {
+      button {
+        span {
+          &:first-child {
+            margin: 0;
+          }
+        }
+        &:hover {
+          span {
+            &:first-child {
+              color: #000 !important;
+            }
+          }
+        }
+      }
+    }
+  }
   .channel-videos {
     display: flex;
     // margin: 0 auto;
@@ -251,16 +314,12 @@
     width: 100%;
     // margin-right: 20px;
     .play {
-      box-shadow: 0px 20px 40px -20px #0000004a;
+      box-shadow: 0px 40px 40px -20px #00000069;
       margin-bottom: 50px;
     }
     .title {
-      font-size: 20px;
-      /* padding: 0 20px; */
-      word-break: keep-all;
-      width: 80%;
-      /* display: inline-block; */
-      /* margin: 0 auto; */
+      font-size: 24px;
+      margin-bottom: 20px;
     }
     .count {
       display: flex;
@@ -277,6 +336,9 @@
 .videoConts {
   .videoView {
     width: 70%;
+    position: sticky;
+    top: 100px;
+    height: 100%;
   }
   .videoList {
     width: 30%;
@@ -376,7 +438,17 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  margin-top: 20px;
+  border-top: 1px solid #00000014;
+  border-bottom: 1px solid #00000014;
+  padding: 10px 0;
   .channel {
+    transition: 0.25s;
+    border-radius: 100px;
+    padding: 10px;
+    &:hover {
+      background: #f4f4f4;
+    }
     a {
       font-size: 16px !important;
       font-weight: bold;
@@ -390,8 +462,10 @@
   margin-bottom: 20px;
   position: fixed;
   z-index: 1;
-  bottom: 0;
+  top: 109px;
+  height: 58px;
   left: 50%;
+  transform: translatey(-50%);
   border: 1px solid #fff;
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
@@ -400,10 +474,10 @@
   color: #ff0000;
 }
 
-$color: #5c8df6;
-$colorRight: darken(#5c8df6, 15%);
-$colorLeft: darken(#5c8df6, 5%);
-$shadow: #4b4b4b;
+$color: #f65c5c;
+$colorRight: darken(#f65c5c, 15%);
+$colorLeft: darken(#f65c5c, 5%);
+$shadow: #4b4b4b69;
 
 .boxes {
   --size: 32px;

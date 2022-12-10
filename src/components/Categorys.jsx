@@ -14,8 +14,21 @@ const Categorys = ({ selectCategory, setSelectCategory }) => {
           key={category.name}
           onClick={() => setSelectCategory(category.name)}
         >
-          <span>{category.icon}</span>
-          <span className="channel_title">{category.name}</span>
+          <span
+            style={{
+              color: category.name === selectCategory ? "#fff" : "#000",
+            }}
+          >
+            {category.icon}
+          </span>
+          <span
+            style={{
+              color: category.name === selectCategory ? "#fff" : "#000",
+            }}
+            className="channel_title"
+          >
+            {category.name}
+          </span>
         </button>
       ))}
     </div>

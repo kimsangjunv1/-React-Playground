@@ -21,6 +21,7 @@
     justify-content: center;
     gap: 10px;
     align-items: center;
+    cursor: pointer;
 
     .yt_logo {
       width: 44px;
@@ -57,13 +58,11 @@
 
     input {
       width: 100%;
-      background: #ededed63;
+      background: #ffffff63;
       border-radius: 100px;
       padding: 10px 20px 10px 50px;
       margin: 0 auto;
       border: 1px solid #ededed;
-      backdrop-filter: blur(10px);
-      -webkit-backdrop-filter: blur(10px);
     }
   }
 }
@@ -109,6 +108,7 @@
       > div {
         display: flex;
         align-items: center;
+        gap: 20px;
         button {
           display: flex;
           // height: 40px;

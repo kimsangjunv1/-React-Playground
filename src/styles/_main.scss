@@ -305,7 +305,7 @@
 .video__inner {
   display: flex;
   margin: 0 auto;
-  width: 90vw;
+  max-width: calc(1280px + 480px);
   margin-top: 100px;
   justify-content: space-between;
   gap: 20px;
@@ -336,9 +336,9 @@
 .videoConts {
   .videoView {
     width: 70%;
-    position: sticky;
-    top: 100px;
-    height: 100%;
+    // position: sticky;
+    // top: 100px;
+    // height: 100%;
   }
   .videoList {
     width: 30%;
@@ -429,7 +429,7 @@
   .play {
     > div {
       width: 100% !important;
-      height: 580px !important;
+      height: 50vh !important;
     }
   }
 }

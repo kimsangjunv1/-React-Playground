@@ -30,7 +30,7 @@ const SearchBar = () => {
         type="text"
         id="searchInput"
         className="input__search"
-        placeholder="가수 유튜버를 검색하세요!"
+        placeholder="검색어를 이곳에 입력해주세요."
         title="검색"
         // 입력받은 값을 searchTerm에 넘김
         value={searchTerm || ""}

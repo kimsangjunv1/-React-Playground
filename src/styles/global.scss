@@ -8,19 +8,19 @@
   --white: #fff;
   --black: #000;
 
-  --bg-light: #f0eeeb;
-  --bg-light-border: #dad8d1;
+  --bg-light: #fff;
+  --bg-light-border: #e8e8ef;
 
   --bg-dark: #000;
   --bg-dark-border: #1a1a1a;
 
   --font-size: 16px;
   --font-height: 1.4;
-  --font-color: #fff;
+  --font-color: #000;
   --font-main: "NexonLv1Gothic";
 }
 
 body {
-  background-color: var(--bg-dark);
+  background-color: var(--bg-light);
   min-height: 100vh;
 }

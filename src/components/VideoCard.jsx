@@ -7,6 +7,7 @@ const VideoCard = ({
   video: {
     id: { videoId },
     snippet,
+    brandingSettings,
   },
 }) => {
   return (

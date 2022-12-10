@@ -9,13 +9,13 @@ const Categorys = ({ selectCategory, setSelectCategory }) => {
         <button
           style={{
             backgroundColor:
-              category.name === selectCategory ? "#e87122" : "transparent",
+              category.name === selectCategory ? "#DC493E" : "transparent",
           }}
           key={category.name}
           onClick={() => setSelectCategory(category.name)}
         >
           <span>{category.icon}</span>
-          <span>{category.name}</span>
+          <span className="channel_title">{category.name}</span>
         </button>
       ))}
     </div>

@@ -19,7 +19,7 @@ const VideoConts = () => {
   }, [id]);
   if (!videoDetail?.snippet) return <Loader />;
   const {
-    snippet: { title, channelId, channelTitle },
+    snippet: { title, channelId, channelTitle, description },
     statistics: { viewCount, likeCount },
   } = videoDetail;
   return (
@@ -43,7 +43,9 @@ const VideoConts = () => {
                 <div className="like">♥{likeCount}</div>
               </div>
             </div>
-            <div className="videoDesc"></div>
+            <div className="videoDesc">
+              <div className="view">{description}</div>
+            </div>
           </div>
           <div className="videoList">
             <Videos videos={videos} layout="column" />

@@ -44,12 +44,18 @@ const ChannelConts = () => {
             alt=""
           />
         </div>
-        <h1>{channelDetail?.brandingSettings?.channel?.title}</h1>
-        <p>{channelDetail?.brandingSettings?.channel?.description}</p>
-        <div>
-          <span>구독자 수 : {channelDetail?.statistics?.subscriberCount}</span>
-          <span>총 비디오 갯수 : {channelDetail?.statistics?.videoCount}</span>
-          <span>비디오 카운트 : {channelDetail?.statistics?.viewCount}</span>
+        <div className="channel-desc">
+          <h1>{channelDetail?.brandingSettings?.channel?.title}</h1>
+          <p>{channelDetail?.brandingSettings?.channel?.description}</p>
+          <div>
+            <span>
+              구독자 수 : {channelDetail?.statistics?.subscriberCount}
+            </span>
+            <span>
+              총 비디오 갯수 : {channelDetail?.statistics?.videoCount}
+            </span>
+            <span>비디오 카운트 : {channelDetail?.statistics?.viewCount}</span>
+          </div>
         </div>
       </div>
       <div className="channel-videos">

@@ -26,9 +26,9 @@ const SearchConts = () => {
       </aside>
       <section id="contents">
         <div className="result">
-          <em className="keyword">'{searchTerm}'</em> 키워드를 검색하였습니다.
+          <em className="keyword">'{searchTerm}'</em> 검색결과
         </div>
-        <div>
+        <div className="search">
           {/* 비디오를 넘겨줌 */}
           <Videos videos={videos} />
         </div>

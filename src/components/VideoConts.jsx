@@ -2,26 +2,37 @@ import React, { useEffect, useState } from "react";
 import ReactPlayer from "react-player";
 import { useParams, Link } from "react-router-dom";
 import { fetchAPI } from "../utils/fetchAPI";
-import { Videos, Loader } from ".";
+import { Videos, Comments, Loader } from ".";
 // import { FcLike } from '@react-icons/all-files/fc/FcLike'
 const VideoConts = () => {
   const [videoDetail, setVideoDetail] = useState(null);
   const [videos, setVideos] = useState(null);
+  const [comments, setComments] = useState(null);
   const { id } = useParams();
   useEffect(() => {
     fetchAPI(`videos?part=snippet,statistics&id=${id}`).then(
       (data) => setVideoDetail(data.items[0])
-      // console.log(data.items[0])
+      // (data) => console.log(data.items)
     );
     fetchAPI(`search?part=snippet&relatedToVideoId=${id}&type=video`).then(
       (data) => setVideos(data.items)
     );
+    fetchAPI(`commentThreads?maxResults=10&part=snippet&videoId=${id}`).then(
+      // (data) => setComments(data.items),
+      (data) => console.log(data.items[0])
+    );
   }, [id]);
   if (!videoDetail?.snippet) return <Loader />;
+
   const {
     snippet: { title, channelId, channelTitle, description },
     statistics: { viewCount, likeCount },
   } = videoDetail;
+  // if (!comments?.snippet) return <Loader />;
+  // const {
+  //   snippet: { videoId },
+  //   // statistics: { viewCount, likeCount },
+  // } = comments;
   return (
     <section className="videoConts">
       <div className="container">
@@ -45,6 +56,13 @@ const VideoConts = () => {
             </div>
             <div className="videoDesc">
               <div className="view">{description}</div>
+            </div>
+            {/* <div className="videoDesc">
+              <div className="view">{videoId}</div>
+            </div> */}
+            <div className="comments">COMMENTS</div>
+            <div className="commentsList">
+              <Comments comments={comments} layout="column" />
             </div>
           </div>
           <div className="videoList">

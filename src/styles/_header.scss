@@ -57,11 +57,11 @@
     }
 
     input {
-      width: 100%;
+      width: 50%;
       background: #ffffff63;
       border-radius: 100px;
       padding: 10px 20px 10px 50px;
-      margin: 0 auto;
+      // margin: 0 auto;
       border: 1px solid #ededed;
     }
   }
@@ -80,6 +80,9 @@
     }
     .search {
       width: 100%;
+      input {
+        width: 100% !important;
+      }
     }
   }
   #main {
@@ -135,6 +138,18 @@
     > div {
       width: 100% !important;
       margin-bottom: 25px !important;
+    }
+  }
+}
+
+// test
+iframe#widget2 {
+  border-radius: 20px !important;
+}
+.video__inner {
+  .videoView {
+    .play {
+      border-radius: 20px;
     }
   }
 }

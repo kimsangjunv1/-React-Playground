@@ -8,8 +8,10 @@ export { default as AsideConts } from "./AsideConts";
 
 export { default as Categorys } from "./Categorys";
 export { default as Videos } from "./Videos";
+export { default as Comments } from "./Comments";
 // export { default as Videos } from "./Videos";
 
 export { default as VideoCard } from "./VideoCard";
+export { default as CommentsCard } from "./CommentsCard";
 
 export { default as Loader } from "./Loader";

@@ -3,7 +3,7 @@ import ReactPlayer from "react-player";
 import { useParams, Link } from "react-router-dom";
 import { fetchAPI } from "../utils/fetchAPI";
 import { Videos, Comments, Loader } from ".";
-// import { FcLike } from '@react-icons/all-files/fc/FcLike'
+
 const VideoConts = () => {
   const [videoDetail, setVideoDetail] = useState(null);
   const [videos, setVideos] = useState(null);
@@ -18,8 +18,8 @@ const VideoConts = () => {
       (data) => setVideos(data.items)
     );
     fetchAPI(`commentThreads?maxResults=10&part=snippet&videoId=${id}`).then(
-      // (data) => setComments(data.items),
-      (data) => console.log(data.items[0])
+      (data) => setComments(data.items)
+      // (data) => console.log(data.items[0])
     );
   }, [id]);
   if (!videoDetail?.snippet) return <Loader />;
@@ -28,11 +28,6 @@ const VideoConts = () => {
     snippet: { title, channelId, channelTitle, description },
     statistics: { viewCount, likeCount },
   } = videoDetail;
-  // if (!comments?.snippet) return <Loader />;
-  // const {
-  //   snippet: { videoId },
-  //   // statistics: { viewCount, likeCount },
-  // } = comments;
   return (
     <section className="videoConts">
       <div className="container">

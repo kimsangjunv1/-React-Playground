@@ -23,7 +23,7 @@ const MainConts = () => {
       </aside>
       <section id="contents">
         <h2>
-          <em>{selectCategory}</em>'s videos
+          <em>{selectCategory}</em>'s videos
         </h2>
         <Videos videos={videos} />
       </section>

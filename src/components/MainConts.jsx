@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 
-import { fetchAPI } from "../utils/fetchAPI";
+import { fetchAPI } from "./utils/fetchAPI";
 import { Categorys, Videos } from "./";
 
 const MainConts = () => {

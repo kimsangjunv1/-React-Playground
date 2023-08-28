@@ -1,0 +1,86 @@
+{
+  "kind": "youtube#videoListResponse",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "id": "YEkoMJvRj6c",
+      "snippet": {
+        "publishedAt": "2023-08-17T11:30:12Z",
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "title": "애플 아이폰 15 출시까지 한 달? 지금까지 밝혀진 유력한 루머 총정리!",
+        "description": "이제 한달 뒤면 공개될 새로운 애플의 아이폰 15 시리즈. 지금 시점에서 플립과 폴드도 새롭게 나온지라 존버를 해야할지. 지금 갈아타야할지 고민되실텐데요, 그 고민을 조금이라도 해결하고자 지금까지 들려온 새로운 아이폰에 관한 루머를 총정리 해봤습니다!\n\n🔋 Info.\n모델명 : iPhone 15 Series\n공개예정일 : 2023년 9월 12~13일\n\n\n⏲️ Timestamps.\n00:00 인트로\n00:12 오프닝\n00:49 소재 변경\n03:36 초박형 베젤\n04:50 USB-C 탑재\n06:26 프로세서 변화\n08:54 카메라 변화\n10:32 공개일\n11:31 오늘의 결론\n\n\n🎵 Music.\nES_Replica (Instrumental Version) - I'MIN\n\n\n👕 Merch.\n지금 입고있는 옷? : https://abit.ly/blackcowlabs\n\n\n📧 Business contacts.\n itsub@itud.io\n#아이폰15 #루머 #총정리",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YEkoMJvRj6c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YEkoMJvRj6c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YEkoMJvRj6c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YEkoMJvRj6c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YEkoMJvRj6c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ITSub잇섭",
+        "tags": [
+          "아이폰",
+          "아이폰 15",
+          "아이폰15",
+          "아이폰15 출시일",
+          "아이폰15 c타입",
+          "아이폰15 루머",
+          "아이폰15 출시",
+          "아이폰15 잇섭",
+          "잇섭 아이폰",
+          "잇섭 아이폰15",
+          "아이폰15 미니",
+          "아이폰15 가격",
+          "아이폰15 색상",
+          "iphone 15"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "애플 아이폰 15 출시까지 한 달? 지금까지 밝혀진 유력한 루머 총정리!",
+          "description": "이제 한달 뒤면 공개될 새로운 애플의 아이폰 15 시리즈. 지금 시점에서 플립과 폴드도 새롭게 나온지라 존버를 해야할지. 지금 갈아타야할지 고민되실텐데요, 그 고민을 조금이라도 해결하고자 지금까지 들려온 새로운 아이폰에 관한 루머를 총정리 해봤습니다!\n\n🔋 Info.\n모델명 : iPhone 15 Series\n공개예정일 : 2023년 9월 12~13일\n\n\n⏲️ Timestamps.\n00:00 인트로\n00:12 오프닝\n00:49 소재 변경\n03:36 초박형 베젤\n04:50 USB-C 탑재\n06:26 프로세서 변화\n08:54 카메라 변화\n10:32 공개일\n11:31 오늘의 결론\n\n\n🎵 Music.\nES_Replica (Instrumental Version) - I'MIN\n\n\n👕 Merch.\n지금 입고있는 옷? : https://abit.ly/blackcowlabs\n\n\n📧 Business contacts.\n itsub@itud.io\n#아이폰15 #루머 #총정리"
+        },
+        "defaultAudioLanguage": "ko"
+      },
+      "contentDetails": {
+        "duration": "PT12M44S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "1002965",
+        "likeCount": "11147",
+        "favoriteCount": "0",
+        "commentCount": "1834"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

@@ -1,0 +1,1661 @@
+{
+    "kind": "youtube#searchListResponse",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+        "totalResults": 5539,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SXRiGbTiHWY"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-22T11:30:10Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "삼성페이의 가장 큰 적..구글 페이가 한국에 출시한다?",
+                "description": "아니 갑자기 애플페이 한국 정식 출시 후 구글페이 소식이 떴습니다! 사실 알고보면 구글도 아주 오래전부터 구글페이를 런칭하기위해 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SXRiGbTiHWY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SXRiGbTiHWY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SXRiGbTiHWY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-22T11:30:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YEkoMJvRj6c"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-17T11:30:12Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "애플 아이폰 15 출시까지 한 달? 지금까지 밝혀진 유력한 루머 총정리!",
+                "description": "이제 한달 뒤면 공개될 새로운 애플의 아이폰 15 시리즈. 지금 시점에서 플립과 폴드도 새롭게 나온지라 존버를 해야할지. 지금 갈아 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YEkoMJvRj6c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YEkoMJvRj6c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YEkoMJvRj6c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-17T11:30:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xB39Ep5OnLQ"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-09T11:00:46Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "8만원까지 떡락한 비운의 LG 홈로봇 CLOi를 사봤습니다. 근데 왜.. 괜찮지?",
+                "description": "LG전자에서 무려 6년 전 인공지능 로봇을 공개 했다는 사실을 아시나요? 출시된 것은 3년 정도 되었지만, 이 사업에 진심이었던 LG.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xB39Ep5OnLQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xB39Ep5OnLQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xB39Ep5OnLQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-09T11:00:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "mx8XrhDPQM4"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-01T11:00:28Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "EU 오피셜 떴습니다;;; 아이폰, 갤럭시 배터리 탈부착 의무화 법안 통과?",
+                "description": "로스트 테크놀로지.. EU에서 환경보호를 위해 스마트폰의 배터리를 손쉽게 탈부착할 수 있게 하라는 방침을 승인해버렸습니다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mx8XrhDPQM4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mx8XrhDPQM4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mx8XrhDPQM4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-01T11:00:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kwVYqdsJdEA"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-19T11:00:39Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "유부남 시청금지 ㅋㅋ 단순개봉 중고에 눈돌아가서 지른 드론 언빡싱 | DJI 매빅3 프로",
+                "description": "드론은 평소에도 항상 갖고싶었지만 활용도가 낮을 것 같아 고민만 했던 제품인데, 아는분께서 개봉은 했지만 거의 새것인 제품을 싸게 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kwVYqdsJdEA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kwVYqdsJdEA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kwVYqdsJdEA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-19T11:00:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "44WLBG9NmJI"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-23T11:45:00Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "의도적으로 그래픽카드 가격을 올린다? 엔비디아가 요새 민심 나락간 이유",
+                "description": "요즘 게이밍용 혹은 작업용 그래픽카드 시장에서 엔비디아가 독주하기 시작하면서부터 가격이.. 심상치 않아 졌습니다. 따로 알아볼 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/44WLBG9NmJI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/44WLBG9NmJI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/44WLBG9NmJI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-23T11:45:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TpnEeIYhqN4"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-22T11:30:10Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "스마트폰계의 스타트업일까? 89만원에 뒷면이 매우 특이한 낫싱 폰(2) 언빡싱&amp;첫 인상!",
+                "description": "제가 이때까지 Nothing이라는 브랜드의 제품이 나오더라도 따로 리뷰로 만들지는 않았지만 꾸준히 새로운 제품이 출시하고 독특한 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TpnEeIYhqN4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TpnEeIYhqN4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TpnEeIYhqN4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-22T11:30:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iYeX39SnmeY"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-26T11:30:14Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "그래서 둘 중 뭘 사야하죠?? 애플 M2 신형 맥북에어 15인치 언빡싱&amp;맥북프로 14인치와 비교해보기!",
+                "description": "M2를 탑재한 맥북에어 15인치가 출시되는 걸 미국에서 본 직후 바로 현질하여 구매했습니다. 시기가 시기인 지라 M3가 나오기 전 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iYeX39SnmeY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iYeX39SnmeY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iYeX39SnmeY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-26T11:30:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "u3GQuMK5IHk"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-06T11:00:45Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "커버 스크린에서 이런 것까지 되나요?;; 갤럭시 Z 플립5 플렉스 윈도우 완벽 활용법",
+                "description": "전작대비 엄청나게 크게 늘어난 갤럭시 Z 플립5의 커버 스크린. 대형 사이즈로 변화한 만큼 어느정도까지 사용가능한지 궁금했는데요, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/u3GQuMK5IHk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/u3GQuMK5IHk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/u3GQuMK5IHk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-06T11:00:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MsCIBhY-VS4"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-29T11:00:14Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "“요새는 다들 아이폰 쓴다”...? 모든 커뮤니티를 달군 소문의 진실 파헤치기",
+                "description": "작년에 이어 올해도 갤럽에서 조사한 한국 스마트폰 사용에 관한 리포트를 분석해 봤습니다. 특히 20대의 점유율에 관해 많은 사람들 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MsCIBhY-VS4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MsCIBhY-VS4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MsCIBhY-VS4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-29T11:00:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ktZ3XR887wk"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-06T10:00:36Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "직접 보고 왔습니다. 애플이 만든 500만원짜리 VR &#39;비전 프로&#39; 총정리!",
+                "description": "애플에서 처음으로 행사 초대 받았습니다. WWDC 2023을 보기 위해 미국에 와있는데, 크게 기대하지 않았지만 오랜 루머 끝에.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ktZ3XR887wk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ktZ3XR887wk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ktZ3XR887wk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-06T10:00:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MhDYiwelu_I"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-13T11:00:26Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "안드로이드 태블릿 1짱 복귀;; 갤럭시탭 S9 울트라 언빡싱&amp;첫 인상!",
+                "description": "이러니저러니 해도 안드로이드 태블릿 중 이게 대장은 맞는 것 같습니다. 다소 아쉬웠던 S7, S8 라인업들에 비해 상당히 보강을 해서 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MhDYiwelu_I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MhDYiwelu_I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MhDYiwelu_I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-13T11:00:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qGIewKHV7B8"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-01T11:30:17Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "한 편으로 끝내드립니다. 갤럭시 Z 플립 5 언빡싱&amp;간단 사용기",
+                "description": "삼성에서 대여해준 갤럭시 Z 플립 5를 뜯어보았습니다. 그전 영상에서 댓글 달아주신 궁금한 점을 최대한 미리 써보며 답해보려고 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qGIewKHV7B8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qGIewKHV7B8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qGIewKHV7B8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-01T11:30:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pfg6NVUp4ao"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-11T11:30:32Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "구글의 야심찬 첫 폴더블? 픽셀 폴드 처음 만져본 소감",
+                "description": "접는 폰이 인기가 좋긴 한가봅니다. 그래서 구글도 이에 질수 없어서인지 지난 5월 첫 번째 구글의 폴더블폰. 픽셀 폴드를 공개했습니다 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pfg6NVUp4ao/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pfg6NVUp4ao/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pfg6NVUp4ao/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-11T11:30:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WTuwB9LVxFs"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-26T11:00:29Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "드디어 꿈꿔왔던 형태의 태블릿이 나왔습니다!? 구글 픽셀 태블릿 첫 인상",
+                "description": "홈 IoT제어할 때 유용하게 썼던 구글 네스트 허브.. 단점은 화면이 작고 실용성이 좀 적다는 것이었는데, 태블릿 형태면서 독까지 달린 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WTuwB9LVxFs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WTuwB9LVxFs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WTuwB9LVxFs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-26T11:00:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0bpO53wmNj4"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-22T11:00:01Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "2023년 제품 맞음;; 음질 쩌는데 너무너무 못생겨서 유명한 헤드폰을 사봤습니다.",
+                "description": "1984년에 만든 디자인을 아직까지 쓰고 있는 전설의 회사... 디자인은 구리지만 음향 성능만은 좋다고 유명한 KOSS의 포타 프로를 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0bpO53wmNj4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0bpO53wmNj4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0bpO53wmNj4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-22T11:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ug6bei4Rwo8"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-27T11:00:45Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "이정도면 그냥 정품 아닌가요?? 7만원짜리 알리발 매직키보드에 놀란 이유",
+                "description": "애플의 매직키보드는 사악한 가격으로 유명한데.. 퀄리티는 좋아도 가격에 대한 악평이 많았습니다. 그런데 알리에서 유명한 유사 매직 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ug6bei4Rwo8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ug6bei4Rwo8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ug6bei4Rwo8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-27T11:00:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "q0vHehAaXFM"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-08T11:30:17Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "중국의 AI 기술 폼 미쳤나? 말만 하면 번역해준다는 마우스를 사봤습니다.",
+                "description": "우리나라에서는 생소한 브랜드이지만 중국에서는 모르는 사람이 없다는 iFLYTEK의 번역 마우스를 알게 됐습니다. 디자인은 진짜 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/q0vHehAaXFM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/q0vHehAaXFM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/q0vHehAaXFM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-08T11:30:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "djHfsSbq190"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-05T11:30:11Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "KT..이젠 진짜 안녕.. 통신사 갈아탔습니다.",
+                "description": "KT와의 기나긴 인연을 뒤로 하고 통신사를 드디어 바꿨습니다. 많은 분들이 그렇게 계속 바꿔라 바꿔라 하시기도 했고, 저빼고 모든 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/djHfsSbq190/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/djHfsSbq190/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/djHfsSbq190/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-05T11:30:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rjLmBxiLahY"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-26T11:15:04Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "2️⃣ 갤탭 이제 방수 된다?! 갤럭시탭 S9 &amp; 갤럭시워치6 실물 첫 인상!",
+                "description": "2023년 하반기 삼성의 새로운 신제품이 드디어 공개되었습니다! 저는 언팩이 진행되기 바로 직전, 짧게나마 미디어데이에 참석해서 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rjLmBxiLahY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rjLmBxiLahY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rjLmBxiLahY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-26T11:15:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kztkALjjTZg"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-14T11:30:15Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "&quot;가전제품 사기 전 미리 보면 좋은 영상 1위&quot;",
+                "description": "이사갈때 혹은 혼수가전을 준비하면서 어떠한 것을 구입하면 좋은지, 정해진 예산에서 여러 제품 중 고민이었다면 실제 제가 구입부터 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kztkALjjTZg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kztkALjjTZg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kztkALjjTZg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-14T11:30:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PkUPjI9o-vw"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-17T11:45:01Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "당신은 선택권이 없다니깐? 직원의 작업 PC를 애플 신형으로 싹다 맞춰줬습니다.",
+                "description": "새 직원분이 오시면 조립해주는 컴퓨터. 이번엔 반대로 기존 직원분의 PC를 업그레이드해주면 어떨까요? 현재 여러 업무와 서브채널 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PkUPjI9o-vw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PkUPjI9o-vw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PkUPjI9o-vw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-17T11:45:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Qk77K6XQfYs"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-24T11:45:01Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "아이폰14 일반/플러스 사면 호구 인증이다? 갈등하는 분들을 위한 아이폰14 선택 가이드",
+                "description": "아이폰 14 플러스가 새롭게 출시되었는데, 생각보다 프로 시리즈의 스펙 몰빵 때문에 의외로 인기가 없었습니다. 하지만? 이러한 비 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Qk77K6XQfYs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Qk77K6XQfYs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Qk77K6XQfYs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-24T11:45:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "r68su5nHiCA"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-24T11:00:42Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "아이폰 15에 USB-C를 탑재할 수 밖에 없는 이유? 하지만 애플의 인증 케이블 꼼수가...",
+                "description": "2023년 9월에 출시할 아이폰 15는 다른 모델보다 꽤 큰 변화가 이루어질 것이라고 합니다. 그 중에서도 많은 애플 팬분들이 기다린 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/r68su5nHiCA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/r68su5nHiCA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/r68su5nHiCA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-24T11:00:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UvkC5Y8wztg"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-20T11:00:24Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "등 뒤로 소름끼침;; 내 목소리를 그대로 카피하는 iOS 17 beta 숨겨진 기능 써봤습니다!",
+                "description": "피치 못할 사정으로 말할 수 없을 때를 위하여 애플이 iOS 17 Beta에서 놀라운 기능을 선보였습니다. 내 음성을 그대로 학습하여 자판 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UvkC5Y8wztg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UvkC5Y8wztg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UvkC5Y8wztg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-20T11:00:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Rf-LXrZgujs"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-16T11:00:15Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "세계 최초 무선 기술에 최대 크기 TV? 4천만원짜리 LG 시그니처 올레드 M 직접 보고 왔습니다.",
+                "description": "세계 최초 무선 기술을 적용한 OLED TV를 보셨나요? 최대 올레드TV 97형까지 적용된 LG 시그니처 올레드 M. CES 2023에서 공개된 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Rf-LXrZgujs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Rf-LXrZgujs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Rf-LXrZgujs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-16T11:00:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9g9DSHDFT24"
+            },
+            "snippet": {
+                "publishedAt": "2023-08-04T11:30:05Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "현존 폴더블 중에선 최고.. 그러나? 삼성 갤럭시 Z 폴드5 궁금한점 모두 해결하기!",
+                "description": "이번에 나온 새로운 제품은 무엇이 달라졌을까요? 생각보다 크게 변한듯 하면서 변하지 않은 듯한 느낌 때문에 갤럭시 Z 폴드5를 사야 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9g9DSHDFT24/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9g9DSHDFT24/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9g9DSHDFT24/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-08-04T11:30:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XV0UFjij6go"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-14T12:00:28Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "오만상사 | 5만원 이하 초특급 가성비 스피커 찾기 대작전",
+                "description": "디스코드가 유행하면서 컴퓨터를 살때 스피커보단 헤드셋이 필수가 되었는데요, 어느날 생각해보니 헤드셋을 사용하지않을때 스피커 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XV0UFjij6go/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XV0UFjij6go/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XV0UFjij6go/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-14T12:00:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jATxBhsJz6c"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-29T11:00:31Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "오만상사 | 초갓성비로 한국 뒤집어놓은 2만원짜리 LCD 달린 기계식 키보드 써봤습니다.",
+                "description": "얼마 전 기계식키보드인데 LCD가 달리고, 다이얼이 달린 키보드가 등장해 많은 논란이 된적이 있습니다. 유선으로는 2만원대.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jATxBhsJz6c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jATxBhsJz6c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jATxBhsJz6c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-29T11:00:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0RQ2Gr4EB18"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-21T11:30:00Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "애플이 숨겨놓은 기능까지 다찾음ㅋㅋ iOS 17에서 달라진 12가지 핵심 기능 총정리!",
+                "description": "9월에 출시될 아이폰 15에서는 어떠한 변화가 이루어질까요? 하드웨어는 아직 기다려봐야하지만 소프트웨어는 베타 버전으로 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0RQ2Gr4EB18/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0RQ2Gr4EB18/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0RQ2Gr4EB18/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-21T11:30:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Btr2l_pq7EA"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-24T11:00:12Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "주변에서 다 뜯어말린 이동식 에어컨..... 결국 샀더니? #2",
+                "description": "지난 번 이동식 에어컨 사려고 영상을 올리니 뜯어말리는 댓글만 한보따리 였습니다.. 그렇지만 궁금하잖아요? 그래서 일단 사고 덕트 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Btr2l_pq7EA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Btr2l_pq7EA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Btr2l_pq7EA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-24T11:00:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fh_GlHmeSYw"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-13T11:30:16Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "42만원에 이건 레전드입니다. 진짜진짜 마음에 드는 갤럭시 보급형 A34 5G 언빡싱!",
+                "description": "그 찐따같던 갤럭시 보급형이 맞냐? 플래그십이 절대적으로 많이 팔리는 한국 스마트폰 시장에서 한줄기 빛과 같은 A34가 등장 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fh_GlHmeSYw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fh_GlHmeSYw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fh_GlHmeSYw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-13T11:30:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "andZAenBIyI"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-26T12:00:02Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "1️⃣ 너무 예뻐서 무조건 살 겁니다. 갤럭시 Z 플립5&amp;폴드5 실물로 본 느낌은?",
+                "description": "자, 많은 분들이 기다리신 삼성의 하반기 플래그십. 플립5와 폴드5가 드디어 공개되었습니다. 이번에는 엄청나게 큰 변화는 아니지만 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/andZAenBIyI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/andZAenBIyI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/andZAenBIyI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-26T12:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "j6_sscrVx1I"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-31T12:00:38Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "SSD에 디스플레이가 달린다면 생기는일? 그냥 예쁘고 비쌈 끝.",
+                "description": "ㅋㅋㅋㅋㅋㅋ 내가 미쳤지. 신기해보이는 외장 SSD 인클로저에 15만원을 태웠습니다. 아니 정확하게... 넣어준 SSD까지 30만원이 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/j6_sscrVx1I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/j6_sscrVx1I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/j6_sscrVx1I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-31T12:00:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9vbgUGzq6qQ"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-29T11:00:06Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "진성 겜덕들이 만든 미친 휴대용 게임기 ASUS ROG ALLY 언빡싱&amp;첫 인상",
+                "description": "게이밍 전문 브랜드에서 스팀덱 같은 핸드 콘솔기기를 만든다면? ASUS ROG ALLY가 한국에 정식 발매하였습니다. 이미 콘솔류나 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9vbgUGzq6qQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9vbgUGzq6qQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9vbgUGzq6qQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-29T11:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2KU-jn4JvjA"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-15T11:30:00Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "갤럭시에도 곧 애플 맥세이프가 탑재되는걸까..? 무선충전 시장을 지배하려는 애플의 큰그림",
+                "description": "얼마전 새로운 무선 충전 표준이 발표된 것을 알고 계시나요? 기존 Qi 방식에서 2세대인 Qi가 공개되었는데, 중요한 것은! 애플에서 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2KU-jn4JvjA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2KU-jn4JvjA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2KU-jn4JvjA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-15T11:30:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4_RjUCvy3rE"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-09T11:00:02Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "HDMI 연결없이 무선으로 만들어준다? 게임할 수 있다길래 사봄",
+                "description": "TV나 모니터에 HDMI 케이블을 당연히 유선으로 연결해야했는데, 생각해보면 무선이 대중화된 시대에서 이것을 무선으로 만들어 줄 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4_RjUCvy3rE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4_RjUCvy3rE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4_RjUCvy3rE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-09T11:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "D68ez7oiaK0"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-17T11:30:03Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "맥북으로 디아블로4 or 윈도우게임 돌린다는 게 말이 됨? ㅇㅇ너무 잘됨;;",
+                "description": "게이밍 머신으로 최악이라는 macOS에서 애플이 칼을 갈았을까요? macOS 14 소노마가 공개되면서 애플은 게임 포팅 툴킷이라는 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/D68ez7oiaK0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/D68ez7oiaK0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/D68ez7oiaK0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-17T11:30:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UuUkI4RO2HI"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-03T11:30:17Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "특가 뜰때마다 동난다는 가성비 게이밍 노트북? AMD를 탑재한 HP 빅터스 16을 써봤습니다.",
+                "description": "여러 게이밍 노트북을 사용해봤지만, HP 빅터스 16은 이번에 처음 사용해봤습니다. 특가가 뜰때마다 엄청나게 많은 분들이 구입했던 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UuUkI4RO2HI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UuUkI4RO2HI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UuUkI4RO2HI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-03T11:30:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "h5-CW1DbsPE"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-14T11:15:03Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "테크충 꿀잼 장난감 등장 ㅋㅋ 갤럭시 셀프로 고치는 자가수리 키트 사봤습니다",
+                "description": "애플이 작년 이맘때쯤 자가 수리 키트를 내놓은 것에 이어 삼성전자에서도 갤럭시 스마트폰, 노트북, 그리고 일부 TV를 셀프로 수리할 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/h5-CW1DbsPE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/h5-CW1DbsPE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/h5-CW1DbsPE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-14T11:15:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JFTUzjW0fsI"
+            },
+            "snippet": {
+                "publishedAt": "2023-07-18T11:30:09Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "롤토체스 중독자를 위한 50만원대 미니 컴퓨터 조립하기. 역대급 쉽습니다?",
+                "description": "40~50만원대 컴퓨터 조립을 고민하셨던분들. 게임보단 사무용에 가까우면서 살짝(?) 가벼운 캐주얼한 게임을 원하셨던분들은 강력 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JFTUzjW0fsI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JFTUzjW0fsI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JFTUzjW0fsI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-07-18T11:30:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "O-xoUC9swhs"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-20T11:30:12Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "속보) 애플케어+ 영끌 최대 3년보증 된다?! 케이스없이 6개월간 쌩폰으로 사용해본 후기",
+                "description": "한국에 왠일이래요.. 애플케어 플러스가 기존에는 60일 이내에만 가능했지만, 이제 1년 이내에도 가능할 수 있도록 바뀌었습니다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/O-xoUC9swhs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/O-xoUC9swhs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/O-xoUC9swhs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-20T11:30:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5FMCVu8kcn4"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-03T11:45:00Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "굳이 프로콘 안 사도 되는 이유? 정품보다 미친 만족감이라는 5만원대 무선 컨트롤러 사봤습니다.",
+                "description": "최근 젤다의전설 왕눈이 출시된 이후 닌텐도 스위치에 대한 인기가 증가하고 있는데, 작년부터 유행한 8bitdo 컨트롤러가 갑자기 생각 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5FMCVu8kcn4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5FMCVu8kcn4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5FMCVu8kcn4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-03T11:45:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "awx0yAx-_vI"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-02T11:30:01Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "알리에서 할인하면 바로 품절되는 이유? 10만원 초반대 휴대용 보조모니터",
+                "description": "알리에서 보조모니터가 유행할때 대체 왜 유행하는지 몰랐습니다. 하지만 최근 해외 출장이 많아지면서 보조모니터에 대한 활용도가 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/awx0yAx-_vI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/awx0yAx-_vI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/awx0yAx-_vI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-02T11:30:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "A2-8IDBl6bk"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-19T11:45:01Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "이걸 단순 지도로만 쓴다면 손해보고 있는 겁니다. 500% 유용하게 쓸 수 있는 카카오맵 꿀팁 대방출",
+                "description": "이때까지 지도 앱을 단순히 위치 혹은 길찾기로만 사용하셨다구요? 실제로 알아보면 여러 유용한 꿀팁들이 있는데, 잘 모르시는분들이 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/A2-8IDBl6bk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/A2-8IDBl6bk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/A2-8IDBl6bk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-19T11:45:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "S76ZmGQ32XI"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-16T11:00:25Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "요즘 MZ 무섭네요;; PD님이 협박해서 모니터 바꿔드렸습니다...",
+                "description": "34인치 모니터를 쓰고 계신 PD님께서 모니터가 불편하다고 이야기 하셨습니다. 남는 모니터가 있으면 작은걸로 바꿔달라고 하셨는데.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/S76ZmGQ32XI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/S76ZmGQ32XI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/S76ZmGQ32XI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-16T11:00:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "K5HtManI3CU"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-12T11:30:12Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "구글에서 나온 첫 번째 폴더블 폰. 픽셀 폴드 살까 말까? 정해주세요 여러분",
+                "description": "구글에서 야심차게 내놓은 첫 폴더블 폰 픽셀 폴드가 구글 I/O 2023에서 공개되었습니다. 안드로이드의 본진이다 보니 아무래도 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K5HtManI3CU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K5HtManI3CU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K5HtManI3CU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-12T11:30:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "puSKd6d1vdA"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-25T11:00:38Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "요새 나의 관심을 끈 제품들? 브이로그 끝판왕 카메라 ZV-E1 뜯는 겸 밀린 택배깡",
+                "description": "사전예약으로 2개나 사버린 소니 ZV-E1 뜯을 겸.. 사놓고 한참동안 놔뒀거나 지인에게 받고 못뜯은 물건들을 뜯어봤습니다. 모아보니 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/puSKd6d1vdA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/puSKd6d1vdA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/puSKd6d1vdA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-25T11:00:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VgFSjwAGQN0"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-12T12:45:03Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "내가 애플 발표에서 유일하게 실망한 신제품? 새로운 맥북에어 15/맥스튜디오/맥프로 공개 총정리!",
+                "description": "비전프로에 너무 많은 관심이 쏠려 이..잊혀졌을 수도 있지만 애플은 새로운 하드웨어 3종을 WWDC 2023에서 공개했습니다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VgFSjwAGQN0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VgFSjwAGQN0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VgFSjwAGQN0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-12T12:45:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bTSkXj-S4xc"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-02T11:00:31Z",
+                "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+                "title": "대체 뭘 사야하죠? 애플페이 기념 애플워치 구입가이드 2023 ver 총정리!",
+                "description": "애플페이가 되면서 활용도가 올라간 애플워치. 막상 구입하려고 보면 수 많은 모델탓에 어떠한 것을 선택해야할지가 고민이실텐데요, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bTSkXj-S4xc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bTSkXj-S4xc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bTSkXj-S4xc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ITSub잇섭",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-02T11:00:31Z"
+            }
+        }
+    ]
+}

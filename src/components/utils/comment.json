@@ -1,0 +1,3210 @@
+{
+  "kind": "youtube#commentThreadListResponse",
+  "nextPageToken": "QURTSl9pMkM5ZHJVZWFHRVBlZ3ZCdDRtZ2Vob21MZEU0V01fRFZOOWJsS1JKRkFwVG9NSEJVSHktWm9DNjVLSnRLMjFHRVRtRnB5ZkpTbw==",
+  "pageInfo": {
+    "totalResults": 100,
+    "resultsPerPage": 100
+  },
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgxLazZGkqQNsAHxCZZ4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgxLazZGkqQNsAHxCZZ4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "다른애들이 C를 사용해서 그렇지<br>단자 모양만 놓고보면 라이트닝이 더 낫지 않나...(전문적인건 모름)<br><br>C단자 내부가 부러져서 고친 기억이 있어서.",
+            "textOriginal": "다른애들이 C를 사용해서 그렇지\n단자 모양만 놓고보면 라이트닝이 더 낫지 않나...(전문적인건 모름)\n\nC단자 내부가 부러져서 고친 기억이 있어서.",
+            "authorDisplayName": "진민규",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQhQZLnbikc6hiVayykflZP21cVuy3kV76GLw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCN-dW18vkSYfCwcy7bI4KDg",
+            "authorChannelId": {
+              "value": "UCN-dW18vkSYfCwcy7bI4KDg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-28T08:09:53Z",
+            "updatedAt": "2023-08-28T08:09:53Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgzW9QUjHJ_a_K3fjzh4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgzW9QUjHJ_a_K3fjzh4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "섭이형 미용실 가운 훔쳐오면 어떡해 ㅠ",
+            "textOriginal": "섭이형 미용실 가운 훔쳐오면 어떡해 ㅠ",
+            "authorDisplayName": "KJ Moon",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaTm_luKfVwE5CnAuFGXlGKoKbqavjuTlYD2-Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCySJUdXzUvSTRPFKHavYcJw",
+            "authorChannelId": {
+              "value": "UCySJUdXzUvSTRPFKHavYcJw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-28T06:50:44Z",
+            "updatedAt": "2023-08-28T06:50:44Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgzRzRxWU3NjaLn0zcd4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgzRzRxWU3NjaLn0zcd4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "미국은 14때부터 eSIM 전용기기 라던데... 15부터 한국도 eSIM 전용으로 나오나요?",
+            "textOriginal": "미국은 14때부터 eSIM 전용기기 라던데... 15부터 한국도 eSIM 전용으로 나오나요?",
+            "authorDisplayName": "James Bae",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQ2rSRsmMQRiQbTOXOwPCixSg2eTnThkJvSLdgTBd3UV1H2ytIG35XJBhg1aGkj=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC9V0WbzSrHrqM0FWCTtM3AQ",
+            "authorChannelId": {
+              "value": "UC9V0WbzSrHrqM0FWCTtM3AQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-28T05:57:53Z",
+            "updatedAt": "2023-08-28T05:57:53Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgzbmXzfer5sdbaxakt4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgzbmXzfer5sdbaxakt4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "모든 전자기기 유튜버님들은 똑같이 신제품 위주로 하 는데 이해는가지만 글쎄요. 부탁이 있는데 아이튠즈의 단점에대해서리뷰 부탁합니다. 몇십년전이랑 바뀐게없는거 같네요.",
+            "textOriginal": "모든 전자기기 유튜버님들은 똑같이 신제품 위주로 하 는데 이해는가지만 글쎄요. 부탁이 있는데 아이튠즈의 단점에대해서리뷰 부탁합니다. 몇십년전이랑 바뀐게없는거 같네요.",
+            "authorDisplayName": "두병",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaR1_3R8TT97_t6zzDS20Bbjl19SEYNfFpVh7W81=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCwxTqBsuVGL3hwjiIM-opMg",
+            "authorChannelId": {
+              "value": "UCwxTqBsuVGL3hwjiIM-opMg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-28T00:21:03Z",
+            "updatedAt": "2023-08-28T00:21:03Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgzWB9wRcOlJqzlaljZ4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgzWB9wRcOlJqzlaljZ4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "램8gb 는 내년에 달아주겠네요, 그러고 4~5년 또 8gb 유지",
+            "textOriginal": "램8gb 는 내년에 달아주겠네요, 그러고 4~5년 또 8gb 유지",
+            "authorDisplayName": "tony kim",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/wHm_7eBQpKB-ZcrmJ2YElC2ffJvL5pn-XJDEhCQjek0vSXkEzMW19rIWAw63mYBVq4wCkMcgz9o=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCizlLCewRp7ZONptADTupqw",
+            "authorChannelId": {
+              "value": "UCizlLCewRp7ZONptADTupqw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-27T12:50:24Z",
+            "updatedAt": "2023-08-27T12:57:08Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "Ugyv5AYYA1lXeyUNXvh4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "Ugyv5AYYA1lXeyUNXvh4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "실실 웃으며  장남치메..",
+            "textOriginal": "실실 웃으며  장남치메..",
+            "authorDisplayName": "chaski",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaTKYIFYNqeul_PxjXM8wXjcUfcYQDlnJ2JsLw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCnjE2qIXKXwL0Ufs6S5D5xA",
+            "authorChannelId": {
+              "value": "UCnjE2qIXKXwL0Ufs6S5D5xA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-27T12:50:22Z",
+            "updatedAt": "2023-08-27T12:50:22Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgwQ07FK5-EDbHLwOi14AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgwQ07FK5-EDbHLwOi14AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "구독취소 싫어요..",
+            "textOriginal": "구독취소 싫어요..",
+            "authorDisplayName": "chaski",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaTKYIFYNqeul_PxjXM8wXjcUfcYQDlnJ2JsLw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCnjE2qIXKXwL0Ufs6S5D5xA",
+            "authorChannelId": {
+              "value": "UCnjE2qIXKXwL0Ufs6S5D5xA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-27T12:49:05Z",
+            "updatedAt": "2023-08-27T12:49:05Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgzZWWvHKr-Xj1h46n94AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgzZWWvHKr-Xj1h46n94AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "그냥 14 계속 써야겠다",
+            "textOriginal": "그냥 14 계속 써야겠다",
+            "authorDisplayName": "Luison",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/lptiTfzp5u7jk851A8-PqGFFFSRn4HK--SvLvs3_IZLTUMqWXKJyW7f2GoL3z2abWSMYHIsWbA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCOCR5KElW2tYSCT0VssQkTw",
+            "authorChannelId": {
+              "value": "UCOCR5KElW2tYSCT0VssQkTw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-27T09:35:11Z",
+            "updatedAt": "2023-08-27T09:35:11Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgxINWV1QkayFzR1uTN4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgxINWV1QkayFzR1uTN4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "구독자가 늘면서 점점 잘 생겨지면서  벌크업이 되고 있네용",
+            "textOriginal": "구독자가 늘면서 점점 잘 생겨지면서  벌크업이 되고 있네용",
+            "authorDisplayName": "와이낫",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaT80fIDYPgulJBQgJUw6VVovanqRjVpONsmzuKEpA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC0jmQo0Imqjjp9ReT9MjL9w",
+            "authorChannelId": {
+              "value": "UC0jmQo0Imqjjp9ReT9MjL9w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-27T09:06:41Z",
+            "updatedAt": "2023-08-27T09:06:41Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgyuOR13fXLo5vTx1Zx4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgyuOR13fXLo5vTx1Zx4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "가격은 또오르겟지",
+            "textOriginal": "가격은 또오르겟지",
+            "authorDisplayName": "대횬김",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaTjIPtz52I21pTwOyqCAElWgTbzJfxs6jJ6o_G_qw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCtc_vs_GWRYnjXUZMjVJ2lw",
+            "authorChannelId": {
+              "value": "UCtc_vs_GWRYnjXUZMjVJ2lw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-08-27T04:30:10Z",
+            "updatedAt": "2023-08-27T04:30:10Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgzMO4wzWf_Z-vYshhF4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgzMO4wzWf_Z-vYshhF4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "아이폰 15프로랑 플립중에 고민된다... 플립은 모든게 맘에 드는데 샘숭이랑 겐신이 안된다는게 아쉽고 아이폰은 그냥 아이폰으로 맘에 드는데 코뮌이노...",
+            "textOriginal": "아이폰 15프로랑 플립중에 고민된다... 플립은 모든게 맘에 드는데 샘숭이랑 겐신이 안된다는게 아쉽고 아이폰은 그냥 아이폰으로 맘에 드는데 코뮌이노...",
+            "authorDisplayName": "papa papaya",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaTztcC7VgD63oWIZAgYxm6T8S27knhOBTZdTr4UCkxR9goOptFR54FqEz5f1Ik3=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC_hmXkc3xil4-yW7qSnjhhQ",
+            "authorChannelId": {
+              "value": "UC_hmXkc3xil4-yW7qSnjhhQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-27T03:51:47Z",
+            "updatedAt": "2023-08-27T03:51:47Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgymH0ISwmJwEw6OZ-x4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgymH0ISwmJwEw6OZ-x4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "작고 가벼운폰이 좋아서 미니12사용중인데 카메라때문에 15일반모델 고민중,,12미니에서 넘어가는거면 카메라만 보고 넘어갈 정도로 괜찮을까요?? 프로급의 카메라를 원하는 건 아니고 지금 사용하는거에 비해 확실히 차이를 느낄 수 있을까 해서요. 기기를 잘 몰라서,,알려주시면 감사하겠습니당",
+            "textOriginal": "작고 가벼운폰이 좋아서 미니12사용중인데 카메라때문에 15일반모델 고민중,,12미니에서 넘어가는거면 카메라만 보고 넘어갈 정도로 괜찮을까요?? 프로급의 카메라를 원하는 건 아니고 지금 사용하는거에 비해 확실히 차이를 느낄 수 있을까 해서요. 기기를 잘 몰라서,,알려주시면 감사하겠습니당",
+            "authorDisplayName": "yh_w",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSrHMo440WwTwRKr-esmwN0OutWwrLFi_hH8ae3Jw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCQChWiC1ggd_6a5rdAxjsOQ",
+            "authorChannelId": {
+              "value": "UCQChWiC1ggd_6a5rdAxjsOQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-27T02:22:29Z",
+            "updatedAt": "2023-08-27T02:22:29Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgxK_uBrfy5h6aLvptt4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgxK_uBrfy5h6aLvptt4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "인트로 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+            "textOriginal": "인트로 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+            "authorDisplayName": "라킷",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/6yALBc8UPgEqFncQZGxRVBu04fS1iBTD9fzm38PXBP2X9sEdp4-IIVZVw6UQ2kMuT5ajMw65=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC62lO4lNzYnQgwySBPVn2sg",
+            "authorChannelId": {
+              "value": "UC62lO4lNzYnQgwySBPVn2sg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-27T01:34:14Z",
+            "updatedAt": "2023-08-27T01:34:14Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "Ugyhdkc8fIm4gCUJOnp4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "Ugyhdkc8fIm4gCUJOnp4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "10년 지나면 1000만원짜리 아이폰을 사용하는 날이 올 것 같은데~",
+            "textOriginal": "10년 지나면 1000만원짜리 아이폰을 사용하는 날이 올 것 같은데~",
+            "authorDisplayName": "villaggio alto",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQolI1GK58QH2pgwRa9zvvj1ZWQ98L6HgH7nXyIqQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UChCpo522to6wO8B8LBV-G5w",
+            "authorChannelId": {
+              "value": "UChCpo522to6wO8B8LBV-G5w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-08-26T13:03:47Z",
+            "updatedAt": "2023-08-26T13:03:47Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgzuCfa-MidQWd-aWUV4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgzuCfa-MidQWd-aWUV4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "솔직히 요즘 지플립 디자인이 너무 예쁘게 나오고 성능도 좋게 나와서 애플 말고 삼성으로 갈아탈것 같음..애플은 너무 사골을 우려먹어서ㅜ",
+            "textOriginal": "솔직히 요즘 지플립 디자인이 너무 예쁘게 나오고 성능도 좋게 나와서 애플 말고 삼성으로 갈아탈것 같음..애플은 너무 사골을 우려먹어서ㅜ",
+            "authorDisplayName": "V 리뷰 TV",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRFzhklMOK3pvGnlWBs8N5jGXXgA9FFP82t_dzL=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC_ebkvvAZ9nkpVJFblWa4jQ",
+            "authorChannelId": {
+              "value": "UC_ebkvvAZ9nkpVJFblWa4jQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-26T12:33:31Z",
+            "updatedAt": "2023-08-26T12:33:31Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgzfFKM74SUUIqCBYSJ4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgzfFKM74SUUIqCBYSJ4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "난 단종된 아이폰7+ 집에 구석에 있는데 ㅋㅋㅋㅋㅋ",
+            "textOriginal": "난 단종된 아이폰7+ 집에 구석에 있는데 ㅋㅋㅋㅋㅋ",
+            "authorDisplayName": "마이곰 ",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/Ly-vJ_fPjCsv-TbuBocX2OB7VQDbTATuTGVuMXxfMnR1HmgA9Bl9-zdilh5BqwaSFI-IMKfoEs4=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC3fK1qLkLcqPchW15-po3yg",
+            "authorChannelId": {
+              "value": "UC3fK1qLkLcqPchW15-po3yg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-26T11:51:30Z",
+            "updatedAt": "2023-08-26T11:51:30Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgwSq4aOTyThVndtO1J4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgwSq4aOTyThVndtO1J4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "노트8 사용자인데 슬슬 바꿔야되지 않을까 싶어서 알아보고있는데, 아이폰15프로, 아이폰14프로, 갤23 고민중이에요.<br><br>안드로이드 특징이 2년 3년 쓰면 버벅이는거라 좀 짜증났는데, 아이폰의 미친최적화때매 이번엔 아이폰 살지 고민이네요. 9월에 15가 출시된다고 하면 한번 더 기다려보는게 나으려나요...",
+            "textOriginal": "노트8 사용자인데 슬슬 바꿔야되지 않을까 싶어서 알아보고있는데, 아이폰15프로, 아이폰14프로, 갤23 고민중이에요.\n\n안드로이드 특징이 2년 3년 쓰면 버벅이는거라 좀 짜증났는데, 아이폰의 미친최적화때매 이번엔 아이폰 살지 고민이네요. 9월에 15가 출시된다고 하면 한번 더 기다려보는게 나으려나요...",
+            "authorDisplayName": "NUNNA",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/F4FfE_KBjXTS8xDJl2hzog3vVfC6Y_IQTB3-CYwLnusHq2c7n2Swt8tgizpSQV7bxJ4BJJ8W_A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC_igT_RR3ivhdD5rsxrKYuw",
+            "authorChannelId": {
+              "value": "UC_igT_RR3ivhdD5rsxrKYuw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-26T04:42:40Z",
+            "updatedAt": "2023-08-26T04:42:40Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgwTlfnyqr9SVR4hB5d4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgwTlfnyqr9SVR4hB5d4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "맨날 느끼는거지만 뭔가 코막힌상태에서 코맹맹이 목소리라.. 듣기 힘듦..",
+            "textOriginal": "맨날 느끼는거지만 뭔가 코막힌상태에서 코맹맹이 목소리라.. 듣기 힘듦..",
+            "authorDisplayName": "Dorosy",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRWpvMD-Up3t-IpWBS0RVTvNNAkPZzlbMLPKqZE=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCrBKFNpNIzY7QQukvnyeYjA",
+            "authorChannelId": {
+              "value": "UCrBKFNpNIzY7QQukvnyeYjA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-26T02:58:09Z",
+            "updatedAt": "2023-08-26T02:58:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "Ugzkm5dXh7cJLYM7tTR4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "Ugzkm5dXh7cJLYM7tTR4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "캬~~ 잘 봤습니다",
+            "textOriginal": "캬~~ 잘 봤습니다",
+            "authorDisplayName": "김벽자",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/OqKO-wpjVWPhaL12jdf7_O-v5WZPUhN7652A91U_Zfh8BObfT2ziXhIk4R1l1y9256uHnf1LKA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCrUCYJXSRjWupmV4E7OZSBQ",
+            "authorChannelId": {
+              "value": "UCrUCYJXSRjWupmV4E7OZSBQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-25T23:56:29Z",
+            "updatedAt": "2023-08-25T23:56:29Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgxlDy_6snWSSYlzBr14AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgxlDy_6snWSSYlzBr14AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "가격이 어마무시할듯 . 15프로 256gb 185만원 이렇게 나오면, 그냥 13프로 쓸듯",
+            "textOriginal": "가격이 어마무시할듯 . 15프로 256gb 185만원 이렇게 나오면, 그냥 13프로 쓸듯",
+            "authorDisplayName": "파도",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQCjz6FefBodGqIk0pjsY75vFY9kFTBQKeTUQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UChIj_KbfxpGb8G5aaD5xJyA",
+            "authorChannelId": {
+              "value": "UChIj_KbfxpGb8G5aaD5xJyA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-25T23:02:56Z",
+            "updatedAt": "2023-08-25T23:02:56Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgyD7TnZ5YzM8RLLxjt4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgyD7TnZ5YzM8RLLxjt4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "마침 프로 12인데 출시 소문을 들으니 자연스럽게 생각나는 잇섭님 아니나다를까 달려오니깐 역시 갓잇섭님👍",
+            "textOriginal": "마침 프로 12인데 출시 소문을 들으니 자연스럽게 생각나는 잇섭님 아니나다를까 달려오니깐 역시 갓잇섭님👍",
+            "authorDisplayName": "RI _",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/wn1GGlLB_EGjdMaMum-6jZxT39ULdZRkM6p9AHPIqzBvcEUnTbMfmhO8__047pdiN9QHV1R-aMQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCr7xkXOLP9bsttYz8T3rTTw",
+            "authorChannelId": {
+              "value": "UCr7xkXOLP9bsttYz8T3rTTw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-25T18:52:52Z",
+            "updatedAt": "2023-08-25T18:52:52Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgwEMqbxMOUtR1jrF9t4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgwEMqbxMOUtR1jrF9t4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "S22쓰고 있는데 아이폰 나오면 바로 사전예약 할 예정입니다 도저히 못쓰겠어요 ㅋㅋ",
+            "textOriginal": "S22쓰고 있는데 아이폰 나오면 바로 사전예약 할 예정입니다 도저히 못쓰겠어요 ㅋㅋ",
+            "authorDisplayName": "ㅁㄴㅇㄹ",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ott74APuLBiTjELKzhS7zJKE30PyKTjBy1xqfzvls-_K0Fjs3cfAKYnTr-qFXL_uBbxIZz0ESg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCpl5Rv26F-yo0y5ZN-xfVBw",
+            "authorChannelId": {
+              "value": "UCpl5Rv26F-yo0y5ZN-xfVBw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-25T18:15:19Z",
+            "updatedAt": "2023-08-25T18:15:28Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "Ugy0DQYQ8wjbNSc7nSB4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "Ugy0DQYQ8wjbNSc7nSB4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "애플 빠님들은 좋다고 살거야.<br>난 프로 맥스가 이름 바꿔서 울트라가 나와서 티타늄으로 가볍게 나오든 화면도 0.1인치 더 커져서 6.8인치가 되도 안사...<br>삼상도 울트라가 0.1인치 커져서 6.9인치 S25 울트라 나와도 안사.<br><br>난 몰라. 애플이랑은 연을 끊은지 오래라서 영원히 안녕이야.<br>한번 발 담그면 큰일남. 개호구 됨. <br><br>삼성 폰도 비싸서 사도 샤오미 폰이나 사야지. 삼성도 장난 아니에요. 가격이... ㅎㅎㅎ 😆 무서움.",
+            "textOriginal": "애플 빠님들은 좋다고 살거야.\n난 프로 맥스가 이름 바꿔서 울트라가 나와서 티타늄으로 가볍게 나오든 화면도 0.1인치 더 커져서 6.8인치가 되도 안사...\n삼상도 울트라가 0.1인치 커져서 6.9인치 S25 울트라 나와도 안사.\n\n난 몰라. 애플이랑은 연을 끊은지 오래라서 영원히 안녕이야.\n한번 발 담그면 큰일남. 개호구 됨. \n\n삼성 폰도 비싸서 사도 샤오미 폰이나 사야지. 삼성도 장난 아니에요. 가격이... ㅎㅎㅎ 😆 무서움.",
+            "authorDisplayName": "김성도vlog",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/hdp7HW9nFZUVc9gJTemqx8yXJvmQyzmt8oh0GcjuQvZqOxBuU26z3ShMnQ9biEWvHckeZpOVCQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC6bTKJfoG2Ws-uuMgQuaDNg",
+            "authorChannelId": {
+              "value": "UC6bTKJfoG2Ws-uuMgQuaDNg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-25T08:58:12Z",
+            "updatedAt": "2023-08-25T08:58:12Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 3,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "Ugykx5eGLzqtNHCiEPd4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "Ugykx5eGLzqtNHCiEPd4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "잇섭님!! 죄송하지만 제가 이 고민때문에 일주일째 잠도 못 자고 있어서… 😢😢😢 아이패드 에어 3 - 배터리효율 88%인 제품 24만원에 구매하면 괜찮은 가격인가요? 배터리 88퍼센트면 체감상 어떤 정도인지도 궁금해용 ㅠㅠ",
+            "textOriginal": "잇섭님!! 죄송하지만 제가 이 고민때문에 일주일째 잠도 못 자고 있어서… 😢😢😢 아이패드 에어 3 - 배터리효율 88%인 제품 24만원에 구매하면 괜찮은 가격인가요? 배터리 88퍼센트면 체감상 어떤 정도인지도 궁금해용 ㅠㅠ",
+            "authorDisplayName": "끄적끄적일기장",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQiiB-42gKIJTagWx4utsMzyjfFxbEqnADmt35h=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCb-9maz2taBsxbccgnher1g",
+            "authorChannelId": {
+              "value": "UCb-9maz2taBsxbccgnher1g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-25T08:25:39Z",
+            "updatedAt": "2023-08-25T08:25:39Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgyTZVYvAiZH4cbtERR4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgyTZVYvAiZH4cbtERR4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "잇섭님 저랑 바람펴요",
+            "textOriginal": "잇섭님 저랑 바람펴요",
+            "authorDisplayName": "코코",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/PYz_WcJ5dc-fKMt1T3ewhE4nuHn1INVVnjTWvZUffDJOaO47VFzBHL8Sy2dzvX8p0_s1oEbHjA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UChopeRmDZaq0Vn6Vfq_Smrw",
+            "authorChannelId": {
+              "value": "UChopeRmDZaq0Vn6Vfq_Smrw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-25T05:13:02Z",
+            "updatedAt": "2023-08-25T05:13:02Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgwEHnlVH7TdYJMtuZh4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgwEHnlVH7TdYJMtuZh4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "아이폰은 3 4년 써도 될 듯 별로 메리트가 없음 새로운 모델이",
+            "textOriginal": "아이폰은 3 4년 써도 될 듯 별로 메리트가 없음 새로운 모델이",
+            "authorDisplayName": "인용현",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRGA5QJl3MKYdjM_JJcrRAN_sUPOldEgq0lRA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCBPI_1y2rHq4GwUWgf9W7-Q",
+            "authorChannelId": {
+              "value": "UCBPI_1y2rHq4GwUWgf9W7-Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-25T01:34:52Z",
+            "updatedAt": "2023-08-25T01:34:52Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "Ugw6pUOUKqHXcPT1m8F4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "Ugw6pUOUKqHXcPT1m8F4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "티타늄 제발 쓰지마…",
+            "textOriginal": "티타늄 제발 쓰지마…",
+            "authorDisplayName": "글라슈테",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQCuO-KDiue99pQ3iBoPvpRpCOl9ekR6zJHLwsH=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC7zTSlzIFBh6f9OTZXoEOAg",
+            "authorChannelId": {
+              "value": "UC7zTSlzIFBh6f9OTZXoEOAg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-24T16:38:13Z",
+            "updatedAt": "2023-08-24T16:38:13Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "Ugy2G073ny5fLvq9QnJ4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "Ugy2G073ny5fLvq9QnJ4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "에에팟은… 무선 충전으로… 아! 라인별로 안되는게 있긴하지… 암튼 전 휴대용 기기는 무조건 애플쪽이다.. 무지성은 아니고 여러가지 고려할 점을 보면 애플이 게임 분야빼고 너무 좋음",
+            "textOriginal": "에에팟은… 무선 충전으로… 아! 라인별로 안되는게 있긴하지… 암튼 전 휴대용 기기는 무조건 애플쪽이다.. 무지성은 아니고 여러가지 고려할 점을 보면 애플이 게임 분야빼고 너무 좋음",
+            "authorDisplayName": "Just_Kidding",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/YflsAhHIU3Hk6hSILmQfk3RKSqWLxqCFCaIB3GAq8ii6HY_W5C-FmIMjr3sE6-027mlLuVbHhLg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCuxY_TjBlCpOT39MfvMI7eg",
+            "authorChannelId": {
+              "value": "UCuxY_TjBlCpOT39MfvMI7eg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-24T15:34:47Z",
+            "updatedAt": "2023-08-24T15:34:47Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "Ugwq5giiAT60GiaOx0Z4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "Ugwq5giiAT60GiaOx0Z4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "그렇다면 15프로를 기다리는게 좋을까요 14프로를 사는게 좋을까요??",
+            "textOriginal": "그렇다면 15프로를 기다리는게 좋을까요 14프로를 사는게 좋을까요??",
+            "authorDisplayName": "강신재",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSSUio1tgV0O3XdGEaXD1VD7ZS00QUVdULIty2TvJuYSA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC2NRnuLJ_SNRT6y4_hPWDUA",
+            "authorChannelId": {
+              "value": "UC2NRnuLJ_SNRT6y4_hPWDUA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-24T13:32:58Z",
+            "updatedAt": "2023-08-24T13:32:58Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgwcSCNYheo9kpOok7N4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgwcSCNYheo9kpOok7N4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "지금 8 쓰고 있는데..이 애가 자기 좀 놔달라고 요새 용을 쓰고 있어서 바꿀까 하는데 14프로 살지..15 존버할지 고민되네요...",
+            "textOriginal": "지금 8 쓰고 있는데..이 애가 자기 좀 놔달라고 요새 용을 쓰고 있어서 바꿀까 하는데 14프로 살지..15 존버할지 고민되네요...",
+            "authorDisplayName": "mm",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaS1jqoIHI2QnNTdZvIZWp95aeVvRMna5vx3Gw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCGPk_SGel-G2C72VrW2xXqQ",
+            "authorChannelId": {
+              "value": "UCGPk_SGel-G2C72VrW2xXqQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-24T12:01:20Z",
+            "updatedAt": "2023-08-24T12:01:20Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "Ugx--TvIh9LENUqFux14AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "Ugx--TvIh9LENUqFux14AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "에어팟....",
+            "textOriginal": "에어팟....",
+            "authorDisplayName": "BG K",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaT4PGHaZ6-V9Ra-1vw0JFWFC134PsBcWc7nJypOmg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCl3cXIyPleA98MECqui10AQ",
+            "authorChannelId": {
+              "value": "UCl3cXIyPleA98MECqui10AQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-24T09:24:54Z",
+            "updatedAt": "2023-08-24T09:24:54Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "Ugx5WeT4tuoHcg4Ulzd4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "Ugx5WeT4tuoHcg4Ulzd4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "6기가면,,, 존버해야게쒀여,,,",
+            "textOriginal": "6기가면,,, 존버해야게쒀여,,,",
+            "authorDisplayName": "도지코인",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/81r0J_yk7n-tF4pyC5gpK7YMIuwlj2GCvvXQMhBeGVehnuyiEG0S0r21R0CTg0vg2qwhveXgjg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCkHSImQSDVxPvtAWWdekpuw",
+            "authorChannelId": {
+              "value": "UCkHSImQSDVxPvtAWWdekpuw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-08-24T05:18:28Z",
+            "updatedAt": "2023-08-24T05:18:28Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgxgYdg6wBc3lHX2oQN4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgxgYdg6wBc3lHX2oQN4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "13 핑크색 너무 예뻐서 구매했다가 카메라 진짜 너무 별로여서 이번에 프로로 바꾸려고요.. ㅠㅠ 카메라만 따지면 삼성 개부러운데 애플 연동성 못잃어.. 에어팟맥스까지 있는 와중에 삼성으론 절대 못갈 것 같아여 이왕 사는거 맥스살까 생각중",
+            "textOriginal": "13 핑크색 너무 예뻐서 구매했다가 카메라 진짜 너무 별로여서 이번에 프로로 바꾸려고요.. ㅠㅠ 카메라만 따지면 삼성 개부러운데 애플 연동성 못잃어.. 에어팟맥스까지 있는 와중에 삼성으론 절대 못갈 것 같아여 이왕 사는거 맥스살까 생각중",
+            "authorDisplayName": "리미",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRSZEZ_I_dINYNKdMvDJpEBMIOkl5QivrlJonCIsw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC1yGHknsmodedFfLD680fcg",
+            "authorChannelId": {
+              "value": "UC1yGHknsmodedFfLD680fcg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-24T03:04:51Z",
+            "updatedAt": "2023-08-24T03:04:51Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgzOeWxeehMvEdf85c54AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgzOeWxeehMvEdf85c54AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "갤럭시에서 넘어가려던 저한테 c탑입은 참을수넚네요❤",
+            "textOriginal": "갤럭시에서 넘어가려던 저한테 c탑입은 참을수넚네요❤",
+            "authorDisplayName": "오리온",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/zM4_VI2J8g_Tx2Yo2n_I_Qb6mwkEGxSb85HORQy1v_6MpmNpHkL6Ydqpmbc1U2DCYe-vi83K=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCHFKjfGy6i-99CA5tMNulAg",
+            "authorChannelId": {
+              "value": "UCHFKjfGy6i-99CA5tMNulAg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-24T02:34:09Z",
+            "updatedAt": "2023-08-24T02:34:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "Ugyvv1XSSsOnWcThH0N4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "Ugyvv1XSSsOnWcThH0N4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "하지만 14프로 사전예구로 구매해서 16사야...",
+            "textOriginal": "하지만 14프로 사전예구로 구매해서 16사야...",
+            "authorDisplayName": "chankyu han",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSwP9PNW-PVxlJGjcyJwCkOkSo7U1nUHdOTC06X7Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCMqFrRo01K0t2vezpJWfg1w",
+            "authorChannelId": {
+              "value": "UCMqFrRo01K0t2vezpJWfg1w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-24T02:13:27Z",
+            "updatedAt": "2023-08-24T02:13:27Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgwGfX6-kKODyqiWVHd4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgwGfX6-kKODyqiWVHd4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "이번에 15나오면 아이폰15를 사는게 나을까요? 아니면 14pro를 사는것이 나을까요? 그리고 15가 나온다면 14시리즈는 구매가 불가능한가요?",
+            "textOriginal": "이번에 15나오면 아이폰15를 사는게 나을까요? 아니면 14pro를 사는것이 나을까요? 그리고 15가 나온다면 14시리즈는 구매가 불가능한가요?",
+            "authorDisplayName": "juhwan0101",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/fg147AMLLI3ApIh64aY46BnBRHuFyIQeg2w9k712pPmD37EleHwOxCBXQ1Ft5pdOP8h2HlCbKg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCbJfmJYOTFPeChJCgKgTB4A",
+            "authorChannelId": {
+              "value": "UCbJfmJYOTFPeChJCgKgTB4A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-23T17:54:19Z",
+            "updatedAt": "2023-08-23T17:54:19Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgwhRu6Pm5HEBR-J53h4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgwhRu6Pm5HEBR-J53h4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 처음에 에어팟 던지는거 개웃김",
+            "textOriginal": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 처음에 에어팟 던지는거 개웃김",
+            "authorDisplayName": "hun yy",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/5coUlg_ikAmQBKG6GgPOwGyWzLkMltCUwaQfoubJR9KCs5xjGWDVnnYoQsh_9OXPeXl1BlJrAQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC7OiZ5pPqHIvK0P53zhJUug",
+            "authorChannelId": {
+              "value": "UC7OiZ5pPqHIvK0P53zhJUug"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-23T17:45:15Z",
+            "updatedAt": "2023-08-23T17:45:15Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgxHqwX98WoHFkVXwjt4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgxHqwX98WoHFkVXwjt4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "맥세이프 보급이 씨타입 도입을 최대한 늦춘 이유인 것 같습니다...성공적이었고요",
+            "textOriginal": "맥세이프 보급이 씨타입 도입을 최대한 늦춘 이유인 것 같습니다...성공적이었고요",
+            "authorDisplayName": "Roro Go",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/nEwlb0WZafanHxEcyhOvgoByfPAHtmi4wlwg06Cw0hLoIZdWSVl1dzSzAFLb0aOpcGfAiFKZ7w4=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCQ-w7hA5RGs_LS6WT87myUQ",
+            "authorChannelId": {
+              "value": "UCQ-w7hA5RGs_LS6WT87myUQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-23T16:40:40Z",
+            "updatedAt": "2023-08-23T16:40:40Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "Ugya90_4Mc2sUwR01X94AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "Ugya90_4Mc2sUwR01X94AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "이거이거 갱 무선으로 갈아타야죠 ㅎㅎ",
+            "textOriginal": "이거이거 갱 무선으로 갈아타야죠 ㅎㅎ",
+            "authorDisplayName": "히커미'HKM",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/JroZObnx6n3aMhFOWPRH2pATh1qD6zJTXJTyczAx78S4WoXtY0xPo1Xtv24lkbrvPV_NcWR8GQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCQbZDEJWIpHJlRK3VX3BcZA",
+            "authorChannelId": {
+              "value": "UCQbZDEJWIpHJlRK3VX3BcZA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-23T16:13:31Z",
+            "updatedAt": "2023-08-23T16:13:31Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgxaRSFlGmYAm08ALDp4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgxaRSFlGmYAm08ALDp4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "이번에 애플로 넘어간다",
+            "textOriginal": "이번에 애플로 넘어간다",
+            "authorDisplayName": "2 pizza",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/bFRFxQWCX0OFbj25VFhmNI0T7rZnGbLN9pE2j9--e_aI2zTxveCrj3-fgIjGW0FqP0hreJo2-JY=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC3NFnYUtHt_RkFKyEEg1cSw",
+            "authorChannelId": {
+              "value": "UC3NFnYUtHt_RkFKyEEg1cSw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-08-23T15:25:55Z",
+            "updatedAt": "2023-08-23T15:25:55Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgyL8WV8Rft8W7uLDIx4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgyL8WV8Rft8W7uLDIx4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "thích xem hàn quốc",
+            "textOriginal": "thích xem hàn quốc",
+            "authorDisplayName": "HÀN QUỐC VÀ VIỆT NAM",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/bwHR6_I5CrWeim9VUuyXC9xYb3BZNAX8XsniG5xoIFxw_DOfuWCZWGPRxCwfNHlfZ5rDwfl3GQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCgWk2a-6qUYShRdXahOPG8A",
+            "authorChannelId": {
+              "value": "UCgWk2a-6qUYShRdXahOPG8A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-23T12:52:13Z",
+            "updatedAt": "2023-08-23T12:52:13Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "Ugw5afwnwKs8YdKaLPZ4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "Ugw5afwnwKs8YdKaLPZ4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "아오 에어팟시치",
+            "textOriginal": "아오 에어팟시치",
+            "authorDisplayName": "bukuga",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/G1CQnqEyS2KWt5ZHPe6jP1Y3418Fuano7sM-SpxM9cCc4olrL1XL9vASv9pgpVpx5PLfnbDoHGc=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCxr9DgdYHr_OTlpCGe4lZpQ",
+            "authorChannelId": {
+              "value": "UCxr9DgdYHr_OTlpCGe4lZpQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-23T09:14:01Z",
+            "updatedAt": "2023-08-23T09:14:01Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "Ugz_YvgcEcJym5xMITF4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "Ugz_YvgcEcJym5xMITF4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "11쓰는데 존버간다",
+            "textOriginal": "11쓰는데 존버간다",
+            "authorDisplayName": "D upB",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSpo_7geEG-DM4FoU1TJ3Z3kzMbsXD5tqEj1Jxc6g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCo0gFrzFhUG13CY-YqAEHRg",
+            "authorChannelId": {
+              "value": "UCo0gFrzFhUG13CY-YqAEHRg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-23T08:50:02Z",
+            "updatedAt": "2023-08-23T08:50:02Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "Ugw04ZMAMT3jXE4Xrnp4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "Ugw04ZMAMT3jXE4Xrnp4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "c타입 미니도 제발...",
+            "textOriginal": "c타입 미니도 제발...",
+            "authorDisplayName": "7octaveCAT",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/O_rWev7XYoz2ANzvsGaHPSQX5feQWRu_c_dFh29WAEr8DoqNG1FJPB6o8FEAfclFIyYrbePn0w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCH9Cj8EUNOaXnhBPDtUlSxw",
+            "authorChannelId": {
+              "value": "UCH9Cj8EUNOaXnhBPDtUlSxw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-23T05:52:40Z",
+            "updatedAt": "2023-08-23T05:52:40Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgwyIVGOFwmJiafQCg94AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgwyIVGOFwmJiafQCg94AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "노트 20 쓰고 있는데 기변할지 고민이에요! 영상 감사해요 ㅎㅎ",
+            "textOriginal": "노트 20 쓰고 있는데 기변할지 고민이에요! 영상 감사해요 ㅎㅎ",
+            "authorDisplayName": "우유버블",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRAS9nUwRn6VCn00aJb_sH-UDxbS41fY1sdyA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCsPZaw90A8fnJ5rjck1Ji0A",
+            "authorChannelId": {
+              "value": "UCsPZaw90A8fnJ5rjck1Ji0A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-23T04:54:15Z",
+            "updatedAt": "2023-08-23T04:54:15Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgwdViGeN-z60elTZYZ4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgwdViGeN-z60elTZYZ4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "다른건 모르겠는데 램은 등급 나눠서<br>최상급에는 12GB 급 정도는 넣어줘야 하는거 아닌가 싶음",
+            "textOriginal": "다른건 모르겠는데 램은 등급 나눠서\n최상급에는 12GB 급 정도는 넣어줘야 하는거 아닌가 싶음",
+            "authorDisplayName": "WER LISM",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaTzllLMUNAARKfVNoRHxvuBPoz2ZkahHIu6eybwEA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCPHyzz6eMiIhnDGL3_UwkyA",
+            "authorChannelId": {
+              "value": "UCPHyzz6eMiIhnDGL3_UwkyA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-23T04:24:28Z",
+            "updatedAt": "2023-08-23T04:24:28Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "Ugy7PXmfEMkdsb_Bpit4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "Ugy7PXmfEMkdsb_Bpit4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "<a href=\"https://www.youtube.com/watch?v=YEkoMJvRj6c&amp;t=4m12s\">4:12</a> 삼성이 하면 아무나 하는거고\r<br>애플이하면 혁신인거임 ㅋㅋㅋ",
+            "textOriginal": "4:12 삼성이 하면 아무나 하는거고\r\n애플이하면 혁신인거임 ㅋㅋㅋ",
+            "authorDisplayName": "WER LISM",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaTzllLMUNAARKfVNoRHxvuBPoz2ZkahHIu6eybwEA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCPHyzz6eMiIhnDGL3_UwkyA",
+            "authorChannelId": {
+              "value": "UCPHyzz6eMiIhnDGL3_UwkyA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-23T04:22:36Z",
+            "updatedAt": "2023-08-23T04:22:36Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgxpJljktZIasJ1QvGN4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgxpJljktZIasJ1QvGN4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "요즘 팔달 홍지승 폼 진짜 미쳤네",
+            "textOriginal": "요즘 팔달 홍지승 폼 진짜 미쳤네",
+            "authorDisplayName": "조우영",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaR--5VaJh8Ej1JbfJkdxQFL5I6gTvlR0PA56g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCNFTN0NbFjKeMNvY920LikA",
+            "authorChannelId": {
+              "value": "UCNFTN0NbFjKeMNvY920LikA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-23T03:09:09Z",
+            "updatedAt": "2023-08-23T03:09:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgzYLn4ebtg6vkatfMJ4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgzYLn4ebtg6vkatfMJ4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "형 요즘 뭐 먹고 운동해유? 벌크가 좋네유",
+            "textOriginal": "형 요즘 뭐 먹고 운동해유? 벌크가 좋네유",
+            "authorDisplayName": "Lyon Kim",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQ0IPlRT46zI4g_tCRE07IYsZeZ3KarHNku-LcPIQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCmOv3pL0BpAlyQqLeWi9r3w",
+            "authorChannelId": {
+              "value": "UCmOv3pL0BpAlyQqLeWi9r3w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-22T16:57:02Z",
+            "updatedAt": "2023-08-22T16:57:02Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgxyHNhFaUpoYEPhdJ94AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgxyHNhFaUpoYEPhdJ94AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "인트로 공감간다.. 올해 에어팟 프로2샀는데...ㅅㅂ",
+            "textOriginal": "인트로 공감간다.. 올해 에어팟 프로2샀는데...ㅅㅂ",
+            "authorDisplayName": "핑쿠르트",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/Abw1KTeTJIfI6dindZD4VxWKUrG_E45Z-Eq4Kg90Xac66bcpbawgrj3AMv2dQE2MW0qsCe-sxCE=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCKpYUK8Owi3M0U9EjDgoGwg",
+            "authorChannelId": {
+              "value": "UCKpYUK8Owi3M0U9EjDgoGwg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-22T16:06:42Z",
+            "updatedAt": "2023-08-22T16:06:42Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgzFzi8GrNNZj3JbWBR4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgzFzi8GrNNZj3JbWBR4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "갤럭시도 동영상 광학줌 되는건가요?  사진만 된다고 알고있는데",
+            "textOriginal": "갤럭시도 동영상 광학줌 되는건가요?  사진만 된다고 알고있는데",
+            "authorDisplayName": "호잇둘리",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQaDpOGOaEWK3aZDdCuNuoIiwBZ93SrUcrQLaFqM0BILQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCrBJKSeTzg5LuJzx3bPffuw",
+            "authorChannelId": {
+              "value": "UCrBJKSeTzg5LuJzx3bPffuw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-22T14:23:35Z",
+            "updatedAt": "2023-08-22T14:23:35Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgxR-BnWkYHODKRE4sd4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgxR-BnWkYHODKRE4sd4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "12pro 쫌만 더 버틸까 싶습니다. 16때까지 버텨질려나...",
+            "textOriginal": "12pro 쫌만 더 버틸까 싶습니다. 16때까지 버텨질려나...",
+            "authorDisplayName": "Zeany Channel",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaT-2Eyc79HZKQKQDlGNRn9V0dFo6nSa6c9XaqPL=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCJFLbnXYNEtWTsWO9j3iXbg",
+            "authorChannelId": {
+              "value": "UCJFLbnXYNEtWTsWO9j3iXbg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-22T13:47:48Z",
+            "updatedAt": "2023-08-22T13:47:48Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgwK43oyIIbxJc8nf0V4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgwK43oyIIbxJc8nf0V4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "C 타입으로 바뀌기만 해도 충분히 살만함",
+            "textOriginal": "C 타입으로 바뀌기만 해도 충분히 살만함",
+            "authorDisplayName": "수정",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaTaBLxjF3OvEl7QDn4-3ltFP8UQpEH3PXyOLOQb6tmEA0pzzucNUibSn-Y6us86EuCtRUU=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCOzhnRkHrW_KHyjRflnQj2g",
+            "authorChannelId": {
+              "value": "UCOzhnRkHrW_KHyjRflnQj2g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-22T13:00:26Z",
+            "updatedAt": "2023-08-22T13:00:26Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgwHCXhHJ8l1gnRJLLV4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgwHCXhHJ8l1gnRJLLV4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "이번에 11 3년 반 쓰고 14 프로로 바꿧는데 베젤이나 카메라 등 생각보다 많이 바껴서 만족했는데 15는 더 바뀌는거 보면 후회되다가도,, 15 출고가 생각하면 14 프로 하길 잘한 것 같아요 😂",
+            "textOriginal": "이번에 11 3년 반 쓰고 14 프로로 바꿧는데 베젤이나 카메라 등 생각보다 많이 바껴서 만족했는데 15는 더 바뀌는거 보면 후회되다가도,, 15 출고가 생각하면 14 프로 하길 잘한 것 같아요 😂",
+            "authorDisplayName": "ss",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRHz7LlWGhRhf85YyEZNWItWRCEt-FJOXhcxRZ791et-9fIiJ3l323TNSD1gH_b7w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCJW9FKz8mrJCowpP5JYYBpw",
+            "authorChannelId": {
+              "value": "UCJW9FKz8mrJCowpP5JYYBpw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-08-22T12:33:30Z",
+            "updatedAt": "2023-08-22T12:33:30Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgwFESdpWNnaHTCr9ip4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgwFESdpWNnaHTCr9ip4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "<a href=\"https://www.youtube.com/watch?v=YEkoMJvRj6c&amp;t=3m19s\">3:19</a> 제발 일반도 무광…😢😢",
+            "textOriginal": "3:19 제발 일반도 무광…😢😢",
+            "authorDisplayName": "서쿤",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/D9Jdi0fZUjGXoRCfbQVvzRjimFAUEP_nvDuQfM-JdQElzCoNMnVTYyXC-ZXPL2P_xl0Ad4Yk2g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCqqu-c3BgQR3v_s3O70q-gg",
+            "authorChannelId": {
+              "value": "UCqqu-c3BgQR3v_s3O70q-gg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-08-22T12:33:21Z",
+            "updatedAt": "2023-08-22T12:33:21Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "Ugz-R2SmF34sNF43jIZ4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "Ugz-R2SmF34sNF43jIZ4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "아이폰8 5년째 사용중입니다<br>14살까했눈데 15가 나오네요..<br>256기가로 둘중 뭐사는게 이득일까요?",
+            "textOriginal": "아이폰8 5년째 사용중입니다\n14살까했눈데 15가 나오네요..\n256기가로 둘중 뭐사는게 이득일까요?",
+            "authorDisplayName": "정띠션",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/JkpTT63upqg9kPsl5XStZ0tOXAh-LsvIyIrt0ZZFYsFJt9hPXUhHPlDdB3X-VuBj6dLeDj51Gg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCaEbPKL4YkRO7G0DHCKmWpg",
+            "authorChannelId": {
+              "value": "UCaEbPKL4YkRO7G0DHCKmWpg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-22T10:36:38Z",
+            "updatedAt": "2023-08-22T10:36:38Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgwCWgeKm7aylFEr5EN4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgwCWgeKm7aylFEr5EN4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "형님 왜 미용실 가운 입고 오셨어요? 머리 컷트 하다 오셨.......",
+            "textOriginal": "형님 왜 미용실 가운 입고 오셨어요? 머리 컷트 하다 오셨.......",
+            "authorDisplayName": "토마토",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQaDpOGOaEWK3aZDdCuNuoIiwBZ93SrUcrQLaFqM0BILQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCPFg11RDIk04WEkLD9ulWbQ",
+            "authorChannelId": {
+              "value": "UCPFg11RDIk04WEkLD9ulWbQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-08-22T10:15:58Z",
+            "updatedAt": "2023-08-22T10:15:58Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgxsnOJmTssVUw63XoR4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgxsnOJmTssVUw63XoR4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "큰 변화가 없을꺼라는걸 알면서도 출시일 기다리는 저는......ㅋㅋㅋㅋㅋ쉬운 설명 너무 감사해요^^",
+            "textOriginal": "큰 변화가 없을꺼라는걸 알면서도 출시일 기다리는 저는......ㅋㅋㅋㅋㅋ쉬운 설명 너무 감사해요^^",
+            "authorDisplayName": "응징캠핑",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/pCwH6yqPKuGIi9_uJVysQphYPQS1IT_-CSIf6vQGolrZapU-h74QYyj6jAZ1CrdPmPKdCj8F=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCT5aVff24t1033qOkywnrng",
+            "authorChannelId": {
+              "value": "UCT5aVff24t1033qOkywnrng"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-08-22T07:15:31Z",
+            "updatedAt": "2023-08-22T07:15:31Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgwYxAzl10RjwIYobjd4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgwYxAzl10RjwIYobjd4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "아이폰에 최근 실망을 많이 했는데 서비스 처리 하는거 라든지  그렇네요<br>아이폰4, 아이패드, 맥북에어 이후 안드로이드계열만 쓰다 오랜만에 14pro 돌아 갔는데 완전실망입니다 <br>14pro, pro max에서 카메라 성능이 완전 ㅜㅜ  카메라 자체 성능이라기보다 운용하는 ios나 그외 앱에서 문제 일듯한데<br>카메라 앱을 제외한 아이폰에 기본앱인 번역앱이나 코드스캐너 는 물론이고 그외 파파고 네이버qr스캐너등에서 <br>근거리나 작은 글씨등 접사렌즈(아이폰의 초광각렌즈)로 전환이 되어야 하는데 전환이 안되어 정상사용이 안되고<br>초점을 못잡습니다. <br>초광각 렌즈를 사용하지 않는 거리에서만 초첨을 겨우 잡는 문제가 있는데 이에 대한 안내도 없고 <br>아이폰은 전화통화와 카메라 순전히 사진과 동영상 찍는 용도만 쓰는 사람들은 전혀 못느끼는 문제겠지만<br>그외 qr코드를 스캔해서 결제하거 나 하는 페이 서비스, 번역앱 바코드 스캐너 등 이런 앱에서는 무용지물이 되버리네요<br>아이폰 15는 이런 문제가 없을런지 모르겠네요",
+            "textOriginal": "아이폰에 최근 실망을 많이 했는데 서비스 처리 하는거 라든지  그렇네요\n아이폰4, 아이패드, 맥북에어 이후 안드로이드계열만 쓰다 오랜만에 14pro 돌아 갔는데 완전실망입니다 \n14pro, pro max에서 카메라 성능이 완전 ㅜㅜ  카메라 자체 성능이라기보다 운용하는 ios나 그외 앱에서 문제 일듯한데\n카메라 앱을 제외한 아이폰에 기본앱인 번역앱이나 코드스캐너 는 물론이고 그외 파파고 네이버qr스캐너등에서 \n근거리나 작은 글씨등 접사렌즈(아이폰의 초광각렌즈)로 전환이 되어야 하는데 전환이 안되어 정상사용이 안되고\n초점을 못잡습니다. \n초광각 렌즈를 사용하지 않는 거리에서만 초첨을 겨우 잡는 문제가 있는데 이에 대한 안내도 없고 \n아이폰은 전화통화와 카메라 순전히 사진과 동영상 찍는 용도만 쓰는 사람들은 전혀 못느끼는 문제겠지만\n그외 qr코드를 스캔해서 결제하거 나 하는 페이 서비스, 번역앱 바코드 스캐너 등 이런 앱에서는 무용지물이 되버리네요\n아이폰 15는 이런 문제가 없을런지 모르겠네요",
+            "authorDisplayName": "sea sea sea j",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaS8CvJ8a5EG3A862scx0Y7beckX7wnZdjEJuftzOw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCC3QcCNpilAllP-GcEAY6jQ",
+            "authorChannelId": {
+              "value": "UCC3QcCNpilAllP-GcEAY6jQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-22T07:11:33Z",
+            "updatedAt": "2023-08-22T07:11:33Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "Ugz6XBEHCN99ikVTY9t4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "Ugz6XBEHCN99ikVTY9t4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "미니 시리즈 아니면.. 업그레이드에 관심 없습니다😂",
+            "textOriginal": "미니 시리즈 아니면.. 업그레이드에 관심 없습니다😂",
+            "authorDisplayName": "귀인오류",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSgctiAKczdRk2KWJDpky6s6h-3ut7u1fk0vDFL=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCeWWpa7oD0A3N4rXiuAZlEA",
+            "authorChannelId": {
+              "value": "UCeWWpa7oD0A3N4rXiuAZlEA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-22T04:18:19Z",
+            "updatedAt": "2023-08-22T04:18:19Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "Ugz3eo-6mufaFTkOEOB4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "Ugz3eo-6mufaFTkOEOB4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "헐,,,, 사고싶다ㅜㅜㅜ",
+            "textOriginal": "헐,,,, 사고싶다ㅜㅜㅜ",
+            "authorDisplayName": "이도유",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaTyQw5ZMnd05dzoPLJ0YleJGNWJY_-KhHS680zCpi9INw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCS-EXGarisn4WTCLZfIPSEg",
+            "authorChannelId": {
+              "value": "UCS-EXGarisn4WTCLZfIPSEg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-22T03:34:16Z",
+            "updatedAt": "2023-08-22T03:34:16Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgyL1j4M3qav4x7Edst4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgyL1j4M3qav4x7Edst4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "아이폰....13미니 현재쓰고있는데 미니가 나왔으면 좋겠는데...커서 너무 싫은디...ㅎ 카메라 성능은 좋고...흠",
+            "textOriginal": "아이폰....13미니 현재쓰고있는데 미니가 나왔으면 좋겠는데...커서 너무 싫은디...ㅎ 카메라 성능은 좋고...흠",
+            "authorDisplayName": "골프레슨장인(실시간레슨)",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/qcMhWHHCPIwkM9Ln1mJrr93bmZdsr-sdJWBSvrorcpbfs75AUHm0yggWGCk01kpq_UuQVGkcGA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCXyeuG8z2Xl84tpM0q1eJUA",
+            "authorChannelId": {
+              "value": "UCXyeuG8z2Xl84tpM0q1eJUA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2023-08-22T02:48:17Z",
+            "updatedAt": "2023-08-22T02:48:17Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "Ugxa7d3PlT5icjp8TuF4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "Ugxa7d3PlT5icjp8TuF4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "아이폰 x인데 14로 바꿀까요 15로 바꿀까요?",
+            "textOriginal": "아이폰 x인데 14로 바꿀까요 15로 바꿀까요?",
+            "authorDisplayName": "JS Roh",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaT5Zo3q9M6PVHI8mgDT6cM8g9t_pMD6NJxzq7W3=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCY-BarOl3skqnmoZGPVYbfw",
+            "authorChannelId": {
+              "value": "UCY-BarOl3skqnmoZGPVYbfw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-22T01:32:39Z",
+            "updatedAt": "2023-08-22T01:32:39Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgwBWQ5wCcwgQ3crc7F4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgwBWQ5wCcwgQ3crc7F4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "ㅎㅎㅎ 난 무조건 15산다. 다른거 필요없고 애플 칩성능 기반에 c타입, 베젤, 잠망경이면 난 바꿀 이유 충분해서. 티타늄? 뭐 이것도 좋은거면 좋은거겠지만 소재까지는 딱히 관심은",
+            "textOriginal": "ㅎㅎㅎ 난 무조건 15산다. 다른거 필요없고 애플 칩성능 기반에 c타입, 베젤, 잠망경이면 난 바꿀 이유 충분해서. 티타늄? 뭐 이것도 좋은거면 좋은거겠지만 소재까지는 딱히 관심은",
+            "authorDisplayName": "Yu",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRmTufMyJHrtVywHUO9wBVKBrFqsjXNIZvLpT6NyUJ-yu0f746KIwl7RRbCs1yomw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC3l9H4Ba3IoUXnWs-3RyTbA",
+            "authorChannelId": {
+              "value": "UC3l9H4Ba3IoUXnWs-3RyTbA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-22T00:04:37Z",
+            "updatedAt": "2023-08-22T00:04:37Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgxIbBMYRaq-1ZXDMT54AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgxIbBMYRaq-1ZXDMT54AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "케이스 안끼는 외관좀 만들어주시오",
+            "textOriginal": "케이스 안끼는 외관좀 만들어주시오",
+            "authorDisplayName": "Durigogo Meem",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/OglhDFLBYt2mb5QITXAdyBPNtt21dNDDSmnvf10OuSFm3I6pTKgdrUzdDDZ4tjJS4asq80dlTNg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCLmHAL2lL9rZHJmge79svmQ",
+            "authorChannelId": {
+              "value": "UCLmHAL2lL9rZHJmge79svmQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-21T23:53:23Z",
+            "updatedAt": "2023-08-21T23:53:23Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgyM-784b-M_mCeHqEh4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgyM-784b-M_mCeHqEh4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "지금 아이폰14사면 흑우인가요?",
+            "textOriginal": "지금 아이폰14사면 흑우인가요?",
+            "authorDisplayName": "고건우",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRopcFCTV_2i1Sjva-6hO4ncRmQS24TGzax7yoETz3B1g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC0Q48frnAW-qDHqrDX89XUw",
+            "authorChannelId": {
+              "value": "UC0Q48frnAW-qDHqrDX89XUw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-21T23:12:54Z",
+            "updatedAt": "2023-08-21T23:12:54Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgwO52LdfHbpQlTMa-R4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgwO52LdfHbpQlTMa-R4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "아이폰12 유저인데 바꾸는게 좋겠죠?",
+            "textOriginal": "아이폰12 유저인데 바꾸는게 좋겠죠?",
+            "authorDisplayName": "또복이 또봇",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/4l0F1cVn3UBRQ8cyPrm_ru0TJujdu6KarcYuybJT6ZgeeL7XfdtpL54uhFqoIZ4_9GiINJObeA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCFMgl3RNDmLslbaBwA0HlVA",
+            "authorChannelId": {
+              "value": "UCFMgl3RNDmLslbaBwA0HlVA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-21T22:36:58Z",
+            "updatedAt": "2023-08-21T22:36:58Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgzqNNx45CQlGgwmXsR4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgzqNNx45CQlGgwmXsR4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "아이폰  일주일 사용하고 개쌍욕 박고 다시 갤럭시로 넘어왔어요<br>업무때문에 하루 통화  많을땐 30통 넘게 할때도 있는데  통화목록 100개 실화??<br>기본적으로 폰이 주용도인데 기본 조차 안된폰이 아이폰이라고 봅니다 <br>도대체 이해를 못하겠음   통화목록을  왜  100개로 제한하는거임",
+            "textOriginal": "아이폰  일주일 사용하고 개쌍욕 박고 다시 갤럭시로 넘어왔어요\n업무때문에 하루 통화  많을땐 30통 넘게 할때도 있는데  통화목록 100개 실화??\n기본적으로 폰이 주용도인데 기본 조차 안된폰이 아이폰이라고 봅니다 \n도대체 이해를 못하겠음   통화목록을  왜  100개로 제한하는거임",
+            "authorDisplayName": "Wee Ki",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRPRIbKaahOX4738tBrFS2OgJhn4XpAhY1of33GxDDrittYW9_nSniu8TrrjWLc=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC6FMFFxo2MUBr4f7eLg6pGA",
+            "authorChannelId": {
+              "value": "UC6FMFFxo2MUBr4f7eLg6pGA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-21T20:13:12Z",
+            "updatedAt": "2023-08-21T20:13:12Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgwdaFB3X9JmHkzx2JN4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgwdaFB3X9JmHkzx2JN4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "아이폰11인데 아직도 존버중이다..<br>분명.. 16쯤에는 바꾸겠지..음...",
+            "textOriginal": "아이폰11인데 아직도 존버중이다..\n분명.. 16쯤에는 바꾸겠지..음...",
+            "authorDisplayName": "Frk Dear",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRiHCY6iYYMWX1RaMy3owQOhQJ5Nrz1d8AnKw-Jog=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCX-bILxTzBOezOhvdzJFroQ",
+            "authorChannelId": {
+              "value": "UCX-bILxTzBOezOhvdzJFroQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-21T18:06:49Z",
+            "updatedAt": "2023-08-21T18:06:49Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgzjP2jqMx1E6sAVyMl4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgzjP2jqMx1E6sAVyMl4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "아이폰4도 스뎅으로 알고 있슴미당",
+            "textOriginal": "아이폰4도 스뎅으로 알고 있슴미당",
+            "authorDisplayName": "청량음료",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRQbQd0G-9bg7WU2x-RBSr8h_DgDGvqtoGAy4i3ug=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC_mkgMW13RREOugQ8ffgbKw",
+            "authorChannelId": {
+              "value": "UC_mkgMW13RREOugQ8ffgbKw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-21T16:46:04Z",
+            "updatedAt": "2023-08-21T16:46:04Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgzSvJmgQwgrBjmp11V4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgzSvJmgQwgrBjmp11V4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "12프로써서 딱 바꾸고 싶었는데 콕 찝어서 바꾸라 해주시네요 ㅋㅋ",
+            "textOriginal": "12프로써서 딱 바꾸고 싶었는데 콕 찝어서 바꾸라 해주시네요 ㅋㅋ",
+            "authorDisplayName": "취미+쉼",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/YdW76k1D4JRFD8O_0wQbUSOkeJKxExsu0UjQCuHUbE7jieWz17i5eUHwS5zUWmZigM4ngfiIpvw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCgPGQi7JFEzuQSNMa7-NgGw",
+            "authorChannelId": {
+              "value": "UCgPGQi7JFEzuQSNMa7-NgGw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-21T15:35:53Z",
+            "updatedAt": "2023-08-21T15:35:53Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "Ugza1FfvFSgljS5MPi14AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "Ugza1FfvFSgljS5MPi14AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "저 노트10 플러스인데 바꾸면 체감이 클 까요?",
+            "textOriginal": "저 노트10 플러스인데 바꾸면 체감이 클 까요?",
+            "authorDisplayName": "YOHAN LEE",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaTo3kHFgWe3gEzeLiKAc_e9RIe_CmVDJiYh0UCAxw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC-1cR8dyYQJZrbPNfbebnkg",
+            "authorChannelId": {
+              "value": "UC-1cR8dyYQJZrbPNfbebnkg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-21T14:33:44Z",
+            "updatedAt": "2023-08-21T14:33:44Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgwZvRkP3KFCdHLrktN4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgwZvRkP3KFCdHLrktN4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "15랑 프로랑프로맥스 차이가 적어지는거같은데... 프로를 살 필요가 없는건가....😢",
+            "textOriginal": "15랑 프로랑프로맥스 차이가 적어지는거같은데... 프로를 살 필요가 없는건가....😢",
+            "authorDisplayName": "llliilalllllll",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ObBfnCqLU0mWzHWX_peZ5nqUjjKNs2rUF-GMwmlIjALGzJCCvPoTlIA6aO9P5WjmrRzxEfaA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC9L-t-2f7WvCpiWPV77t_yA",
+            "authorChannelId": {
+              "value": "UC9L-t-2f7WvCpiWPV77t_yA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-21T14:02:52Z",
+            "updatedAt": "2023-08-21T14:02:52Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgzdRG_q_sVoOcQtfO54AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgzdRG_q_sVoOcQtfO54AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "오우우 c타입으로 꼭 나오길!!<br>노트10에서 넘어갑니다....",
+            "textOriginal": "오우우 c타입으로 꼭 나오길!!\n노트10에서 넘어갑니다....",
+            "authorDisplayName": "Tragedy",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQMp5la-yj-NQEza-UWa6F-a1vRxsMWawS9jXSF=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCSgWcYx_pcbLZeCTwuEJaZg",
+            "authorChannelId": {
+              "value": "UCSgWcYx_pcbLZeCTwuEJaZg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-21T13:32:36Z",
+            "updatedAt": "2023-08-21T13:32:36Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "Ugx9F-lHk5hyM_Eic2N4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "Ugx9F-lHk5hyM_Eic2N4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "오씨;; 7 고대유물 쓰고 있는 나는 다음달에 14pro 살려고 했는데 가만히 있어봐야겠다...........",
+            "textOriginal": "오씨;; 7 고대유물 쓰고 있는 나는 다음달에 14pro 살려고 했는데 가만히 있어봐야겠다...........",
+            "authorDisplayName": "날위한 각성제",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/YvhP5Q3fOTe184VNYfMWbLipZWSyF5NhNTR2EJMhGTyXTxSKcD9IYhNO04nqISOk89c2E25h=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC2kALx40sTGp0ka2OZ9itKg",
+            "authorChannelId": {
+              "value": "UC2kALx40sTGp0ka2OZ9itKg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-21T13:04:08Z",
+            "updatedAt": "2023-08-21T13:04:08Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgwIOiTS-0_8syzAQh94AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgwIOiTS-0_8syzAQh94AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "이제 아이폰을 떠날때가 왔다 점점 호구가 되는 기분 ㅠㅠ",
+            "textOriginal": "이제 아이폰을 떠날때가 왔다 점점 호구가 되는 기분 ㅠㅠ",
+            "authorDisplayName": "JINY",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/oIL55nhsjc5E_g1JpANDoZvUeaaZd_MTpAjphupB3cV3k5K0Q84tbbdnVlkNPCVRAsqEw8-qgw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCVoYjfUyg2_zYfz9rZldtFg",
+            "authorChannelId": {
+              "value": "UCVoYjfUyg2_zYfz9rZldtFg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-21T12:48:46Z",
+            "updatedAt": "2023-08-21T12:48:46Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgwFzBDmigxQWK1NYlN4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgwFzBDmigxQWK1NYlN4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "잇섭님 미용실 머리카락 막이 입고 찍으신거 보면 너무 급하게 만드신거 아닌가요.",
+            "textOriginal": "잇섭님 미용실 머리카락 막이 입고 찍으신거 보면 너무 급하게 만드신거 아닌가요.",
+            "authorDisplayName": "DoUKnowKRP",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQKhpfIZYEm-hcD2uI0Nd-8QF-GCseExVY26A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC38gOfSJWB_SPcmEhmUbKFg",
+            "authorChannelId": {
+              "value": "UC38gOfSJWB_SPcmEhmUbKFg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-21T11:45:08Z",
+            "updatedAt": "2023-08-21T11:45:08Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgzLIJSbRFhdOferjGB4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgzLIJSbRFhdOferjGB4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "<a href=\"https://www.youtube.com/watch?v=YEkoMJvRj6c&amp;t=01m02s\">01:02</a>  사실관계 틀림     아이폰 1  알류미늄,    아이폰 4/4s 스테인레스 스틸,      플라스틱은  아이폰 3G/3G/5C",
+            "textOriginal": "01:02  사실관계 틀림     아이폰 1  알류미늄,    아이폰 4/4s 스테인레스 스틸,      플라스틱은  아이폰 3G/3G/5C",
+            "authorDisplayName": "Traktor NI",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRF88TnI9h5dz3_Me4GNu7wu_P2dPJTxzcyMXG-MXtHn07ULGQHAAOEIzMKQH98=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCDbba33rVr6vRvily3ch26g",
+            "authorChannelId": {
+              "value": "UCDbba33rVr6vRvily3ch26g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-08-21T11:06:20Z",
+            "updatedAt": "2023-08-21T11:09:14Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgyAeKjjoTiZamfR-PZ4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgyAeKjjoTiZamfR-PZ4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "미래엔 카본으로는 안나오나??",
+            "textOriginal": "미래엔 카본으로는 안나오나??",
+            "authorDisplayName": "나는너무잘생겼어",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/d-Gd2RH3ZklM-w8rWpxeW5_HF2wDO34Dl2le5wUZBKn0eeCgGZSCR6WLLZoWn8MLIk4NcC3xjQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCOgnIc_-iz3n8BeXf0cBU8w",
+            "authorChannelId": {
+              "value": "UCOgnIc_-iz3n8BeXf0cBU8w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-08-21T10:37:46Z",
+            "updatedAt": "2023-08-21T10:37:46Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "Ugxx6OPDG-CdpesO-w94AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "Ugxx6OPDG-CdpesO-w94AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "12미니 배터리 타임이 너무 답답해서 15로 바꿀까 싶은데 제발 잘나오면 좋겠음",
+            "textOriginal": "12미니 배터리 타임이 너무 답답해서 15로 바꿀까 싶은데 제발 잘나오면 좋겠음",
+            "authorDisplayName": "공공이",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRxXeQyOXLLklxABMjPGO3rBUd2RAVwmzq0GXZ5=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC4unzAqnb3_Gzddyz_tCZBQ",
+            "authorChannelId": {
+              "value": "UC4unzAqnb3_Gzddyz_tCZBQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-21T10:11:26Z",
+            "updatedAt": "2023-08-21T10:11:26Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgzcCM86QXPvYOohIyx4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgzcCM86QXPvYOohIyx4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "2배속으로 봤더니 기억에 남는건 야스와 초박형 뿐🙄",
+            "textOriginal": "2배속으로 봤더니 기억에 남는건 야스와 초박형 뿐🙄",
+            "authorDisplayName": "동수와 함께",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQLROeuCZd2fWtRvpL-pKkwRY5YVckKJMGyFiV7=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCHv0szxv_WhGu_ToifaWbCQ",
+            "authorChannelId": {
+              "value": "UCHv0szxv_WhGu_ToifaWbCQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-21T10:04:56Z",
+            "updatedAt": "2023-08-21T10:04:56Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgwXixoU5IbjknrEt2B4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgwXixoU5IbjknrEt2B4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "졸귀닼ㅋㅋ 애어팟 던지는 거보고 빵터졌네요",
+            "textOriginal": "졸귀닼ㅋㅋ 애어팟 던지는 거보고 빵터졌네요",
+            "authorDisplayName": "초가집",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/oPSTJxB_ZM9Rse8gKsRet8u8E7lkvCVZy9H_hvfKoo5twcr5JZJMmVZyb9WIseIPnFiOvWO1jg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCKOrQ2_hM8ZAmewjOTbHSbA",
+            "authorChannelId": {
+              "value": "UCKOrQ2_hM8ZAmewjOTbHSbA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-21T09:55:51Z",
+            "updatedAt": "2023-08-21T09:55:51Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgzhKxK7ZkQs6H1_YD54AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgzhKxK7ZkQs6H1_YD54AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "12인데..1년만 더 버텨서16으로~!!",
+            "textOriginal": "12인데..1년만 더 버텨서16으로~!!",
+            "authorDisplayName": "웃어!",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSezOooSIEyrVRs6hQtSAGJgRKsOTsJUPBdRnJ3nQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCHUHe2Ag7DU9mll7dqFL5wA",
+            "authorChannelId": {
+              "value": "UCHUHe2Ag7DU9mll7dqFL5wA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-21T08:55:33Z",
+            "updatedAt": "2023-08-21T08:55:33Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgxKcdwQQjkb2mVCp_R4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgxKcdwQQjkb2mVCp_R4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "10월을 십월이라 한게 충격이다 ㅋㅋㅋ",
+            "textOriginal": "10월을 십월이라 한게 충격이다 ㅋㅋㅋ",
+            "authorDisplayName": "호찡빵찡",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQJgh-HL87-F_FJOc0xdYv1nHbZavzZXUFmwoWI0vNfqg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCkrF13Hx_LTN33C01SePTfQ",
+            "authorChannelId": {
+              "value": "UCkrF13Hx_LTN33C01SePTfQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-21T08:36:18Z",
+            "updatedAt": "2023-08-21T08:36:18Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "Ugx4yAgDyWcDtwQHwQ54AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "Ugx4yAgDyWcDtwQHwQ54AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "일반 시리즈 주사율 120hz좀 넣어줘라 팀쿡…",
+            "textOriginal": "일반 시리즈 주사율 120hz좀 넣어줘라 팀쿡…",
+            "authorDisplayName": "David Deacon Kay",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSJKAyseqVKzjMOLvOn_EmgyZ0HgyaEfUSp0ke_0A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCHItaijrtcLbmKs4ly4LcZA",
+            "authorChannelId": {
+              "value": "UCHItaijrtcLbmKs4ly4LcZA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-21T08:18:09Z",
+            "updatedAt": "2023-08-21T08:18:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgzBWxPdGnSiM4nW6HV4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgzBWxPdGnSiM4nW6HV4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "갤럭시 노트9쓰는 사람입니다 이제 던져버릴 때가 됐네요",
+            "textOriginal": "갤럭시 노트9쓰는 사람입니다 이제 던져버릴 때가 됐네요",
+            "authorDisplayName": "댓글용이름",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQEBM_qDe_kIPmrgeSynKJpnBBdLnV-hwO4ug=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCKLzmCZ5IMtm51NkYdQY0VQ",
+            "authorChannelId": {
+              "value": "UCKLzmCZ5IMtm51NkYdQY0VQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-08-21T07:20:32Z",
+            "updatedAt": "2023-08-21T07:20:32Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgzWQLthQ5TPpKPzlTd4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgzWQLthQ5TPpKPzlTd4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "잇섭님… 궁금한게 아이폰15나오면, 아이패드에어6도 같이 나올까요?…",
+            "textOriginal": "잇섭님… 궁금한게 아이폰15나오면, 아이패드에어6도 같이 나올까요?…",
+            "authorDisplayName": "김성곤",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQ7xA4VH7OcHM1MwD0fCIGHHIjkVaFmUksBXE1z=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCbM8hLKFq9JZ7-uEjKqr1bQ",
+            "authorChannelId": {
+              "value": "UCbM8hLKFq9JZ7-uEjKqr1bQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-21T05:47:00Z",
+            "updatedAt": "2023-08-21T05:47:00Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "Ugw-ndrwU3WLJU4m2sZ4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "Ugw-ndrwU3WLJU4m2sZ4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "크게 바뀌는게 없네",
+            "textOriginal": "크게 바뀌는게 없네",
+            "authorDisplayName": "가령",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQcA4ggUKQWqzSc60k-gZUNvV-cw_augTHD-DTvzw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCjMmV-fpN_-TizhJh0cnVjw",
+            "authorChannelId": {
+              "value": "UCjMmV-fpN_-TizhJh0cnVjw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-21T04:33:52Z",
+            "updatedAt": "2023-08-21T04:33:52Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgzKGMBNoylRbRJYO_94AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgzKGMBNoylRbRJYO_94AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "솔직히 요즘 누가 c타입 연결해서 쓰나 대부분 무선으로 쓰는데, 11프로부터 지금까지 무선으로만 충전함 그런데 폰도 아직 11프로임..",
+            "textOriginal": "솔직히 요즘 누가 c타입 연결해서 쓰나 대부분 무선으로 쓰는데, 11프로부터 지금까지 무선으로만 충전함 그런데 폰도 아직 11프로임..",
+            "authorDisplayName": "Earendel",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQPRt_mWuS80OwN4Js0yr9doVRjIV3qQYbV1vqIyEqoXdJjeuekErftKUiShLjL=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCecKo156v1VADa0WSPoLYRA",
+            "authorChannelId": {
+              "value": "UCecKo156v1VADa0WSPoLYRA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-21T03:58:50Z",
+            "updatedAt": "2023-08-21T03:58:50Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgzhD_vHkI5QYtrSVBB4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgzhD_vHkI5QYtrSVBB4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "C타입은 충전 문제도 있겠지만 데이터 전송 속도가 더 영향이 크다고 봅니다. 100기가 넘는 용량에서 사진 기타 자료 이동시키는데 usb급 속도로 하면 속 터지죠...ㅎ",
+            "textOriginal": "C타입은 충전 문제도 있겠지만 데이터 전송 속도가 더 영향이 크다고 봅니다. 100기가 넘는 용량에서 사진 기타 자료 이동시키는데 usb급 속도로 하면 속 터지죠...ㅎ",
+            "authorDisplayName": "Plato",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaTxjU7LMfiXH-Odnv87KEy0IZJLE9uvOZyzCKO09epI1PGtizxyGO2eDAITdAUk=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCnXn-fxZzDOvM6y4B7RyN9g",
+            "authorChannelId": {
+              "value": "UCnXn-fxZzDOvM6y4B7RyN9g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2023-08-21T03:28:17Z",
+            "updatedAt": "2023-08-21T03:28:47Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgxipzGOUzJaSylyT5V4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgxipzGOUzJaSylyT5V4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "2분 정도 보다가 바로 구독했어요. 핸드폰 소개 영상은 봐도 어려운 용어들만 가득해서 보다 마는데 전 시리즈들과 비교 해주시고 설명 영상도 정확하게 띄워주시니 잘 모르는 일반인도 이해하기 쉽게 말씀해주시네요.",
+            "textOriginal": "2분 정도 보다가 바로 구독했어요. 핸드폰 소개 영상은 봐도 어려운 용어들만 가득해서 보다 마는데 전 시리즈들과 비교 해주시고 설명 영상도 정확하게 띄워주시니 잘 모르는 일반인도 이해하기 쉽게 말씀해주시네요.",
+            "authorDisplayName": "아보카도",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaT2GvPEMplT_m1AudhUlO6DipblH9gdH_zCJw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCNvJZD-eTwwskIEbdO7ZTaQ",
+            "authorChannelId": {
+              "value": "UCNvJZD-eTwwskIEbdO7ZTaQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 6,
+            "publishedAt": "2023-08-21T01:32:32Z",
+            "updatedAt": "2023-08-21T01:32:32Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "Ugx1ZfINUF2dTFxz1zB4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "Ugx1ZfINUF2dTFxz1zB4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "아이폰 12인데 배터리 78%면 바꿔야할까요?",
+            "textOriginal": "아이폰 12인데 배터리 78%면 바꿔야할까요?",
+            "authorDisplayName": "먕규",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/hi-BEZf1uqGgCmTG_FSCzUaz-ZcKBoov4df3PFAtyxV7LcxLVFXPInBOMBxDstNMwt_-RsAM=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCv2ehKlWW-yfUMWcN6Qq4Yg",
+            "authorChannelId": {
+              "value": "UCv2ehKlWW-yfUMWcN6Qq4Yg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-08-21T01:11:09Z",
+            "updatedAt": "2023-08-21T01:11:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 3,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgwQo_LJ7WhGGTUJhXl4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgwQo_LJ7WhGGTUJhXl4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "아이폰 일반라인업은 디스플레이 14프로꺼쓸듯",
+            "textOriginal": "아이폰 일반라인업은 디스플레이 14프로꺼쓸듯",
+            "authorDisplayName": "김장환",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaRnKEs9FZFFEpBkvAOkDQY_j0hiWS0Ab-c-NV-S2nF9Og=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCQoU2C3rNA4QEWM54g7eJzA",
+            "authorChannelId": {
+              "value": "UCQoU2C3rNA4QEWM54g7eJzA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-20T23:00:16Z",
+            "updatedAt": "2023-08-20T23:00:16Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgyLH_6alcIwfo44a7Z4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgyLH_6alcIwfo44a7Z4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "Se2유저인데 기다리는데 맞을까요?",
+            "textOriginal": "Se2유저인데 기다리는데 맞을까요?",
+            "authorDisplayName": "mean",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaTbU0d86uckzHKx0x1vnJUsT1OS45MkYkjJ8w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCcvAP8x66hPfveAkdZsBCHg",
+            "authorChannelId": {
+              "value": "UCcvAP8x66hPfveAkdZsBCHg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-08-20T22:40:00Z",
+            "updatedAt": "2023-08-20T22:40:00Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgzCREyLTzg3cc3hqG14AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgzCREyLTzg3cc3hqG14AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "중국 설비라인 철수하면서 이번에 라인 우리나라를 포함해서 신설하면서 라인을  중국이 기존 라인활용 못하게 소재들도 변한것같네요 설비이용하면서 짭퉁 부품 계속 만들어 낼테니까요 뭐 지극히 개인적인 생각입니다 ㅎㅎ...",
+            "textOriginal": "중국 설비라인 철수하면서 이번에 라인 우리나라를 포함해서 신설하면서 라인을  중국이 기존 라인활용 못하게 소재들도 변한것같네요 설비이용하면서 짭퉁 부품 계속 만들어 낼테니까요 뭐 지극히 개인적인 생각입니다 ㅎㅎ...",
+            "authorDisplayName": "정수호",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQt6-WIyiAMtg8f3GjB8dHPMyxpvnS-XDoNwm_N=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCFwyKCIidK8GYoXD9RC0PJw",
+            "authorChannelId": {
+              "value": "UCFwyKCIidK8GYoXD9RC0PJw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-08-20T20:29:57Z",
+            "updatedAt": "2023-08-20T20:30:20Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgxKe25g0IOt1U4BVqx4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgxKe25g0IOt1U4BVqx4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "변화라고 할만한건 A17 3나노<br>나머지는 뒤쳐진상태에서 따라가는 수준",
+            "textOriginal": "변화라고 할만한건 A17 3나노\n나머지는 뒤쳐진상태에서 따라가는 수준",
+            "authorDisplayName": "공정하다는 착각",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/Mtqjo347lAcI0FseU68LLeq-Sf4Vza6FmhmB2y2hewycJuF9OHUN7MadRJp7J2DcQTdf3SRHfw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC5IGdmrBsFLfPK_PnCCAVZg",
+            "authorChannelId": {
+              "value": "UC5IGdmrBsFLfPK_PnCCAVZg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-20T17:15:29Z",
+            "updatedAt": "2023-08-20T17:15:29Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "Ugzsb6yoTPdgIq06a6V4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "Ugzsb6yoTPdgIq06a6V4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "프로에 6램이면 그냥 13계속 쓸란다<br>여전히 카메라만 켜면 앱 다 리프레시인데",
+            "textOriginal": "프로에 6램이면 그냥 13계속 쓸란다\n여전히 카메라만 켜면 앱 다 리프레시인데",
+            "authorDisplayName": "공정하다는 착각",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/Mtqjo347lAcI0FseU68LLeq-Sf4Vza6FmhmB2y2hewycJuF9OHUN7MadRJp7J2DcQTdf3SRHfw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC5IGdmrBsFLfPK_PnCCAVZg",
+            "authorChannelId": {
+              "value": "UC5IGdmrBsFLfPK_PnCCAVZg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-20T17:09:37Z",
+            "updatedAt": "2023-08-20T17:09:37Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "Ugws8l3Bn7zQAuj_9VJ4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "Ugws8l3Bn7zQAuj_9VJ4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "아이폰 8 플러스!<br>너는 올해도 내년도 함께한다.",
+            "textOriginal": "아이폰 8 플러스!\n너는 올해도 내년도 함께한다.",
+            "authorDisplayName": "뱅구뱅구",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaSXIuBiWvFaMc5mETgxTm-hGZ6kcWtDh4Nn3FEo-A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCkPrlHI9HcXYSc1E9SV6H9A",
+            "authorChannelId": {
+              "value": "UCkPrlHI9HcXYSc1E9SV6H9A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-20T16:41:34Z",
+            "updatedAt": "2023-08-20T16:41:34Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgyJo1UBw3zUxKLYyq54AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgyJo1UBw3zUxKLYyq54AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "기본모델 주사율은 60으로 동일할까요?ㅠㅠ",
+            "textOriginal": "기본모델 주사율은 60으로 동일할까요?ㅠㅠ",
+            "authorDisplayName": "레고라고",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaQcaFQwBNPSsCcZwu0EK62EPw2fEoZ8Ul-ORJ6AwOFfvw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCoc8AawW986-dSkCkSsr1Hw",
+            "authorChannelId": {
+              "value": "UCoc8AawW986-dSkCkSsr1Hw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-08-20T16:28:28Z",
+            "updatedAt": "2023-08-20T16:28:28Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "id": "UgwjMTWORyIhi6nkjTh4AaABAg",
+      "snippet": {
+        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+        "videoId": "YEkoMJvRj6c",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "id": "UgwjMTWORyIhi6nkjTh4AaABAg",
+          "snippet": {
+            "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+            "videoId": "YEkoMJvRj6c",
+            "textDisplay": "X 7년째 쓰고있어요…이제 보내줄때가 된 거 같아서 15 엄청 알아보고있습니다",
+            "textOriginal": "X 7년째 쓰고있어요…이제 보내줄때가 된 거 같아서 15 엄청 알아보고있습니다",
+            "authorDisplayName": "기묭",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AOPolaTpr_AaqJsYcO5iq5IEHGZ-ooKXoa_69NsPUQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCFHYIIJGOaMNWL7PHltKlkA",
+            "authorChannelId": {
+              "value": "UCFHYIIJGOaMNWL7PHltKlkA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-08-20T15:01:44Z",
+            "updatedAt": "2023-08-20T15:01:44Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    }
+  ]
+}

@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 
 import { fetchAPI } from "../utils/fetchAPI";
 import { Categorys, Videos } from "..";
+import Banner from "../common/Banner";
 
 const MainConts = () => {
   const [selectCategory, setSelectCategory] = useState("ITsub");
@@ -31,6 +32,7 @@ const MainConts = () => {
         />
       </aside>
       <section id="contents">
+        <Banner />
         <h2>
           <em>{selectCategory}</em>'s videos
         </h2>

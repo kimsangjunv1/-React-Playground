@@ -2,22 +2,21 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 import { SearchBar } from "..";
-
-// import logo from "./../assets/img/youtube_logo.png";
-
-// import { MdOutlineComputer } from "react-icons/md";
+import logo from "./../../assets/img/main_logo.svg";
 
 const HeaderConts = () => {
   return (
-    <header id="header">
-      <h1 className="logo">
-        {/* <img src={logo} alt="youtube logo" className="yt_logo" /> */}
+    <header id="header" className="header_inner">
+      <div className="header_inner">
         <Link to="/">
-          {/* <MdOutlineComputer className="icon" /> */}
-          TechTube
+          <img
+            src={logo}
+            alt="플레이그라운드 로고 이미지"
+            className="header_logo"
+          />
         </Link>
-      </h1>
-      <SearchBar />
+        <SearchBar />
+      </div>
     </header>
   );
 };

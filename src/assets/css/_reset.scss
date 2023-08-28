@@ -1,3 +1,33 @@
+:root {
+  --light-bg: #fff;
+  --dark-bg: #181a20;
+
+  --bg-light: #fff;
+  --bg-light-border: #e8e8ef;
+
+  --bg-dark: #000;
+  --bg-dark-border: #1a1a1a;
+
+  --font-size: 16px;
+  --font-height: 1.4;
+  --font-color: #000;
+  --font-main: "Pretendard";
+
+  font-family: var(--font-main), Inter, system-ui, Avenir, Helvetica, Arial,
+    sans-serif;
+
+  font-weight: 400;
+  font-size: var(--font-size);
+  line-height: var(--font-height);
+  color: var(--font-color);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
 // border-box 초기화
 *,
 *::before,
@@ -48,23 +78,6 @@ figcaption {
   padding: 0;
 }
 
-//폰트 초기화
-body,
-button,
-input,
-select,
-table,
-textarea {
-  font-size: var(--font-size);
-  line-height: var(--font-height);
-  color: var(--font-color);
-  font-family: var(--font-main), -apple-system, "Malgun Gothic", "맑은 고딕",
-    BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell,
-    "Open Sans", "Helvetica Neue", sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
 //링크 초기화
 a,
 a:hover,
@@ -72,15 +85,6 @@ a:focus {
   color: var(--font-color);
   text-decoration: none;
 }
-
-//버튼 초기화
-// button,
-// html input[type="button"],
-// input[type="reset"],
-// input[type="submit"] {
-//   -webkit-appearance: button;
-//   cursor: pointer;
-// }
 
 input,
 textarea,

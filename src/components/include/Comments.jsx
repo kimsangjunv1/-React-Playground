@@ -1,6 +1,7 @@
 import React from "react";
 
-import { CommentsCard, Loader } from ".";
+import CommentsCard from "./../common/CommentsCard";
+import Loader from "../utils/Loader";
 
 const Comments = ({ comments }) => {
   if (!comments?.length) return <Loader />;

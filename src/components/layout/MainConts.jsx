@@ -1,16 +1,25 @@
 import React, { useEffect, useState } from "react";
 
-import { fetchAPI } from "./utils/fetchAPI";
-import { Categorys, Videos } from "./";
+import { fetchAPI } from "../utils/fetchAPI";
+import { Categorys, Videos } from "..";
 
 const MainConts = () => {
   const [selectCategory, setSelectCategory] = useState("ITsub");
   const [videos, setVideos] = useState(null);
 
+  // useEffect(() => {
+  //   fetchAPI(`search?part=snippet&q=${selectCategory}&type=video`).then(
+  //     (data) => setVideos(data.items)
+  //   );
+  // }, [selectCategory]);
   useEffect(() => {
-    fetchAPI(`search?part=snippet&q=${selectCategory}&type=video`).then(
-      (data) => setVideos(data.items)
-    );
+    fetch(
+      `https://raw.githubusercontent.com/kimsangjunv1/-React-Tech-Tube/main/src/components/utils/main.json`
+    )
+      .then((res) => res.json())
+      .then((res) => {
+        setVideos(res.items);
+      });
   }, [selectCategory]);
 
   return (

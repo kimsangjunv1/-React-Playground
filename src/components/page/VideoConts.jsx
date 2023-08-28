@@ -1,8 +1,9 @@
 import React, { useEffect, useState } from "react";
 import ReactPlayer from "react-player";
 import { useParams, Link } from "react-router-dom";
-import { fetchAPI } from "./utils/fetchAPI";
-import { Videos, Comments, Loader } from ".";
+import { fetchAPI } from "../utils/fetchAPI";
+import { Videos, Comments, Loader } from "..";
+// import { Comments } from "..";
 
 const VideoConts = () => {
   const [videoDetail, setVideoDetail] = useState(null);

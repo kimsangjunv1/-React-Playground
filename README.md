@@ -1,25 +1,24 @@
-# Getting Started with Create React App
+# 포트폴리오
 
-## react start
+### 사용한것
 
-npx create-react-app [이름]
+```
+React
+Redux Toolkit
+React Router
+SCSS
 
-## axios 설치
+```
 
-npm i axios
+### 소개
 
-## router 설치 (가상의 주소 만들어줌)
+```
+주인이 추천한 유튜브 소개 사이트
+```
 
-npm i react-router-dom
+### 접속방법
 
-## react-player 설치
-
-npm i react-player
-
-## scss 설치
-
-npm i node-sass
-
-##react icon 설치
-npm install react-icons -save
-https://react-icons.github.io/react-icons/icons?name=ai
+```
+네트리파이
+https://react-techtube.netlify.app
+```

@@ -4,7 +4,7 @@ import { fetchAPI } from "../utils/fetchAPI";
 import { Categorys, Videos } from "./";
 
 const MainConts = () => {
-  const [selectCategory, setSelectCategory] = useState("webstoryboy");
+  const [selectCategory, setSelectCategory] = useState("ITsub");
   const [videos, setVideos] = useState(null);
 
   useEffect(() => {

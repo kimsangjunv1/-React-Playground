@@ -16,19 +16,30 @@ import {
   AiOutlineTrophy,
 } from "react-icons/ai";
 
+import Seoulian from "./../../assets/img/profile_seoulian.jpg";
+import Itsub from "./../../assets/img/profile_itsub.jpg";
+import Thedit from "./../../assets/img/profile_thedit.jpg";
+import Spooky from "./../../assets/img/profile_spooky.jpg";
+import Eyejoker from "./../../assets/img/profile_eyejoker.jpg";
+import Nomad from "./../../assets/img/profile_nomad.jpg";
+import Dragonlake from "./../../assets/img/profile_dragonlake.jpg";
+import Upsub from "./../../assets/img/profile_upsub.jpg";
+import Bgsreview from "./../../assets/img/profile_bgsreview.jpg";
+import Onemcoding from "./../../assets/img/profile_1mcoding.jpg";
+
 export const categories = [
-  { name: "ITsub", icon: <AiFillBulb /> },
+  { name: "ITsub", icon: <AiFillBulb />, profile: Itsub },
   { name: "underKG", icon: <AiFillDribbbleCircle /> },
-  { name: "서울리안", icon: <AiFillFormatPainter /> },
-  { name: "theEDIT", icon: <AiFillSafetyCertificate /> },
-  { name: "방구석리뷰룸", icon: <AiFillBook /> },
-  { name: "UPsub", icon: <AiFillAliwangwang /> },
-  { name: "DragonLake", icon: <AiFillCrown /> },
-  { name: "1분코딩", icon: <AiFillUsb /> },
-  { name: "노마드코더", icon: <AiFillApi /> },
+  { name: "서울리안", icon: <AiFillFormatPainter />, profile: Seoulian },
+  { name: "theEDIT", icon: <AiFillSafetyCertificate />, profile: Thedit },
+  { name: "방구석리뷰룸", icon: <AiFillBook />, profile: Bgsreview },
+  { name: "UPsub", icon: <AiFillAliwangwang />, profile: Upsub },
+  { name: "DragonLake", icon: <AiFillCrown />, profile: Dragonlake },
+  { name: "1분코딩", icon: <AiFillUsb />, profile: Onemcoding },
+  { name: "노마드코더", icon: <AiFillApi />, profile: Nomad },
   { name: "코딩애플", icon: <AiFillApple /> },
-  { name: "눈쟁이", icon: <AiOutlineTrophy /> },
-  { name: "허수아비", icon: <AiOutlineReddit /> },
+  { name: "눈쟁이", icon: <AiOutlineTrophy />, profile: Eyejoker },
+  { name: "허수아비", icon: <AiOutlineReddit />, profile: Spooky },
   { name: "딴트공 실험실", icon: <AiOutlineHeart /> },
   { name: "도레", icon: <AiOutlineClear /> },
   { name: "뻘짓연구소", icon: <AiOutlineBarcode /> },

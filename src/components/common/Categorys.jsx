@@ -21,6 +21,10 @@ const Categorys = ({ selectCategory, setSelectCategory }) => {
           >
             {category.icon}
           </span> */}
+
+          {category.profile && (
+            <img src={category.profile} alt="프로파일 이미지" />
+          )}
           <span
             style={{
               color: category.name === selectCategory ? "white" : "white",

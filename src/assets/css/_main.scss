@@ -6,10 +6,19 @@
     width: 12vw;
     min-width: 200px;
     border-right: 1px solid var(--dark-border-color);
+    position: fixed;
+    left: 0;
+    z-index: 100;
+    top: 70px;
+    background: var(--transparent-dark);
+    backdrop-filter: blur(var(--backdrop-filter));
+    -webkit-backdrop-filter: blur(var(--backdrop-filter));
     button {
       font-size: 14px;
       transition: 0.25s;
-      display: block;
+      display: flex;
+      align-items: center;
+      gap: 10px;
       cursor: pointer;
       color: white;
       background: transparent;
@@ -18,16 +27,22 @@
       text-align: left;
       border-radius: var(--radius);
       margin-bottom: 10px;
+      img {
+        border-radius: 100px;
+        width: 20px;
+        height: 20px;
+        object-fit: cover;
+      }
       &:hover {
         background: var(--dark-hover-color);
       }
     }
   }
   #contents {
-    width: 88vw;
-    // background: red;
+    width: 100vw;
+    padding-left: 200px;
     .section_inner {
-      width: 1100px;
+      width: 1300px;
       margin: 0 auto;
       margin-top: 70px;
       padding: 0 20px;
@@ -41,6 +56,46 @@
           gap: 10px;
           .box {
             width: 32.7%;
+            padding: 10px;
+            transition: 0.25s;
+            border-radius: var(--radius);
+
+            &:hover {
+              background: var(--dark-hover-color);
+            }
+            img {
+              border-radius: var(--radius);
+              margin-bottom: 20px;
+            }
+
+            .boxInfo {
+              p {
+                color: white;
+              }
+              .title {
+                font-size: 18px;
+                font-weight: bold;
+              }
+              .desc {
+                width: 100%;
+                white-space: nowrap;
+                overflow: hidden;
+                text-overflow: ellipsis;
+                font-size: 14px;
+                color: var(--transparent-white);
+              }
+              a {
+                display: flex;
+                align-items: center;
+                gap: 5px;
+                .channel_title {
+                  color: var(--transparent-white);
+                }
+                img {
+                  width: 18px;
+                }
+              }
+            }
           }
         }
       }

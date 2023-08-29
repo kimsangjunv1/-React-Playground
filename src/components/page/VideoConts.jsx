@@ -11,18 +11,48 @@ const VideoConts = () => {
   const [comments, setComments] = useState(null);
   const { id } = useParams();
   useEffect(() => {
-    fetchAPI(`videos?part=snippet,statistics&id=${id}`).then(
-      (data) => setVideoDetail(data.items[0])
-      // (data) => console.log(data.items)
-    );
-    fetchAPI(`search?part=snippet&relatedToVideoId=${id}&type=video`).then(
-      (data) => setVideos(data.items)
-    );
-    fetchAPI(`commentThreads?maxResults=10&part=snippet&videoId=${id}`).then(
-      (data) => setComments(data.items)
-      // (data) => console.log(data.items[0])
-    );
+    // fetchAPI(`videos?part=snippet,statistics&id=${id}`).then(
+    //   (data) => setVideoDetail(data.items[0])
+    //   // (data) => console.log(data.items)
+    // );
+    // fetchAPI(`search?part=snippet&relatedToVideoId=${id}&type=video`).then(
+    //   (data) => setVideos(data.items)
+    // );
+    // fetchAPI(`commentThreads?&part=snippet&videoId=${id}`).then(
+    //   (data) => setComments(data.items)
+    //   // (data) => console.log(data.items[0])
+    // );
+
+    // 더미
+    const test = () => {
+      fetch(
+        `https://raw.githubusercontent.com/kimsangjunv1/-React-Tech-Tube/main/src/components/utils/video.json`
+      )
+        .then((res) => res.json())
+        .then((res) => {
+          setVideoDetail(res.items[0]);
+        });
+
+      fetch(
+        `https://raw.githubusercontent.com/kimsangjunv1/-React-Tech-Tube/main/src/components/utils/search.json`
+      )
+        .then((res) => res.json())
+        .then((res) => {
+          setVideos(res.items);
+        });
+
+      fetch(
+        `https://raw.githubusercontent.com/kimsangjunv1/-React-Tech-Tube/main/src/components/utils/comment.json`
+      )
+        .then((res) => res.json())
+        .then((res) => {
+          setComments(res.items);
+        });
+    };
+    test();
+    // .then((res) => console.log("?? : ,", videoDetail));
   }, [id]);
+
   if (!videoDetail?.snippet) return <Loader />;
 
   const {

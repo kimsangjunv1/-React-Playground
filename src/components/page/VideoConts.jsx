@@ -60,40 +60,42 @@ const VideoConts = () => {
     statistics: { viewCount, likeCount },
   } = videoDetail;
   return (
-    <section className="videoConts">
-      <div className="container">
-        <div className="video__inner">
-          <div className="videoView">
-            <div className="play">
-              <ReactPlayer
-                url={`https://www.youtube.com/watch?v=${id}`}
-                controls
-              />
+    <section className="vid_page_container">
+      <div className="vid_page_container_inner">
+        <div className="videoView">
+          <div className="play">
+            <ReactPlayer
+              url={`https://www.youtube.com/watch?v=${id}`}
+              controls
+            />
+            <ReactPlayer
+              url={`https://www.youtube.com/watch?v=${id}`}
+              controls
+            />
+          </div>
+          <span className="title">{title}</span>
+          <div className="videoConts-info">
+            <div className="channel">
+              <Link to={`/channel/${channelId}`}>{channelTitle}</Link>
             </div>
-            <span className="title">{title}</span>
-            <div className="videoConts-info">
-              <div className="channel">
-                <Link to={`/channel/${channelId}`}>{channelTitle}</Link>
-              </div>
-              <div className="count">
-                <div className="view">조회수 : {viewCount}회</div>
-                <div className="like">♥{likeCount}</div>
-              </div>
+            <div className="count">
+              <div className="view">조회수 : {viewCount}회</div>
+              <div className="like">♥{likeCount}</div>
             </div>
-            <div className="videoDesc">
-              <div className="view">{description}</div>
-            </div>
-            {/* <div className="videoDesc">
+          </div>
+          <div className="videoDesc">
+            <div className="view">{description}</div>
+          </div>
+          {/* <div className="videoDesc">
               <div className="view">{videoId}</div>
             </div> */}
-            <div className="comments">COMMENTS</div>
-            <div className="commentsList">
-              <Comments comments={comments} layout="column" />
-            </div>
+          <div className="comments">COMMENTS</div>
+          <div className="commentsList">
+            <Comments comments={comments} layout="column" />
           </div>
-          <div className="videoList">
-            <Videos videos={videos} layout="column" />
-          </div>
+        </div>
+        <div className="videoList">
+          <Videos videos={videos} layout="column" />
         </div>
       </div>
     </section>

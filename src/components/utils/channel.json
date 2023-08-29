@@ -1,0 +1,65 @@
+{
+  "kind": "youtube#channelListResponse",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "id": "UCdUcjkyZtf-1WJyPPiETF1g",
+      "snippet": {
+        "title": "ITSub잇섭",
+        "description": "궁금한 것은 절대 못참는 테크 크리에이터 잇섭(ITSub)입니다. \n테크에 관련된, 관심있는 것은 무엇이든 리뷰합니다\n\n#전자기기\n#IT이슈\n#자동차\n#테크\n",
+        "customUrl": "@itsub",
+        "publishedAt": "2016-08-07T10:23:41Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AOPolaSDWSZx4d60b-6TOkL85nxP8xcMXPK7sjLjsUE_dA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AOPolaSDWSZx4d60b-6TOkL85nxP8xcMXPK7sjLjsUE_dA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AOPolaSDWSZx4d60b-6TOkL85nxP8xcMXPK7sjLjsUE_dA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "ITSub잇섭",
+          "description": "궁금한 것은 절대 못참는 테크 크리에이터 잇섭(ITSub)입니다. \n테크에 관련된, 관심있는 것은 무엇이든 리뷰합니다\n\n#전자기기\n#IT이슈\n#자동차\n#테크\n"
+        },
+        "country": "KR"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUdUcjkyZtf-1WJyPPiETF1g"
+        }
+      },
+      "statistics": {
+        "viewCount": "974257672",
+        "subscriberCount": "2410000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "1096"
+      },
+      "brandingSettings": {
+        "channel": {
+          "title": "ITSub잇섭",
+          "description": "궁금한 것은 절대 못참는 테크 크리에이터 잇섭(ITSub)입니다. \n테크에 관련된, 관심있는 것은 무엇이든 리뷰합니다\n\n#전자기기\n#IT이슈\n#자동차\n#테크\n",
+          "keywords": "it 전자제품 리뷰 일상 전자기기 스마트폰 컴퓨터 게이밍 테크 Tech",
+          "unsubscribedTrailer": "andZAenBIyI",
+          "country": "KR"
+        },
+        "image": {
+          "bannerExternalUrl": "https://lh3.googleusercontent.com/3Lr_vx-NeD5bpQg_gCCmxAHEu6fgyGfaQsampcTCkO8djZ0cyKPZh5oy_Ke4DyArha-kTGbOAA"
+        }
+      }
+    }
+  ]
+}

@@ -6,8 +6,8 @@ import Banner from "../common/Banner";
 import Section from "../common/Section";
 import SectionSpace from "../common/SectionSpace";
 
-const MainConts = () => {
-  const [selectCategory, setSelectCategory] = useState("ITsub");
+const MainConts = ({ selectCategory }) => {
+  // const [selectCategory, setSelectCategory] = useState("ITsub");
   const [videos, setVideos] = useState(null);
 
   // Rapid
@@ -30,10 +30,10 @@ const MainConts = () => {
 
   return (
     <main id="main">
-      <Categorys
+      {/* <Categorys
         selectCategory={selectCategory}
         setSelectCategory={setSelectCategory}
-      />
+      /> */}
 
       <Section>
         <Banner />

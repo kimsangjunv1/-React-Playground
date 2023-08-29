@@ -18,3 +18,21 @@ body {
     transform: translate(-50%, -50%);
   }
 }
+
+.title_container {
+  margin-bottom: 20px;
+  .title_container_inner {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    img {
+      width: 24px;
+    }
+    h2 {
+      font-weight: bold;
+    }
+    p {
+      color: #ffffffb2;
+    }
+  }
+}

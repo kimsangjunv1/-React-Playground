@@ -4,7 +4,7 @@ import { categories } from "../utils/content";
 
 const Categorys = ({ selectCategory, setSelectCategory }) => {
   return (
-    <div>
+    <aside id="aside">
       {categories.map((category) => (
         <button
           style={{
@@ -31,7 +31,7 @@ const Categorys = ({ selectCategory, setSelectCategory }) => {
           </span>
         </button>
       ))}
-    </div>
+    </aside>
   );
 };
 

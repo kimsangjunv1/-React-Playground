@@ -3,6 +3,7 @@ import React, { useEffect, useState } from "react";
 import { fetchAPI } from "../utils/fetchAPI";
 import { Categorys, Videos } from "..";
 import Banner from "../common/Banner";
+import Section from "../common/Section";
 
 const MainConts = () => {
   const [selectCategory, setSelectCategory] = useState("ITsub");
@@ -25,19 +26,15 @@ const MainConts = () => {
 
   return (
     <main id="main">
-      <aside id="aside">
-        <Categorys
-          selectCategory={selectCategory}
-          setSelectCategory={setSelectCategory}
-        />
-      </aside>
-      <section id="contents">
+      <Categorys
+        selectCategory={selectCategory}
+        setSelectCategory={setSelectCategory}
+      />
+
+      <Section>
         <Banner />
-        <h2>
-          <em>{selectCategory}</em>'s videos
-        </h2>
-        <Videos videos={videos} />
-      </section>
+        <Videos videos={videos} categorys={selectCategory} />
+      </Section>
     </main>
   );
 };

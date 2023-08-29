@@ -1,0 +1,33 @@
+#main {
+  display: flex;
+  #aside {
+    width: 200px;
+    // background: blue;
+    border-right: 1px solid var(--dark-border-color);
+    button {
+      display: block;
+    }
+  }
+  #contents {
+    width: 100%;
+    // background: red;
+    .section_inner {
+      width: 1100px;
+      margin: 0 auto;
+      margin-top: 70px;
+
+      .banner_container {
+      }
+      .video_container {
+        .video_container_inner {
+          display: flex;
+          flex-wrap: wrap;
+          gap: 10px;
+          .box {
+            width: 32.7%;
+          }
+        }
+      }
+    }
+  }
+}

@@ -2,14 +2,19 @@ import React from "react";
 
 import { VideoCard, Loader } from "..";
 
-const Videos = ({ videos }) => {
+import Title from "../common/Title";
+
+const Videos = ({ videos, categorys }) => {
   if (!videos?.length) return <Loader />;
 
   return (
-    <article className="videos__inner">
-      {videos.map((item, idx) => (
-        <VideoCard video={item} key={idx} />
-      ))}
+    <article className="video_container">
+      <Title categorys={categorys} />
+      <div className="video_container_inner">
+        {videos.map((item, idx) => (
+          <VideoCard video={item} key={idx} />
+        ))}
+      </div>
     </article>
   );
 };

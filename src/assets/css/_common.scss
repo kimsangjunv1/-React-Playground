@@ -2,3 +2,19 @@ body {
   background: var(--dark-bg);
   color: white;
 }
+
+// 메인 배너
+.banner_container {
+  border-radius: var(--radius);
+  height: 400px;
+  overflow: hidden;
+  width: 100%;
+  position: relative;
+  background: var(--dark-button);
+  img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+}

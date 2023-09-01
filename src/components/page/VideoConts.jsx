@@ -9,7 +9,7 @@ const VideoConts = () => {
   const [videoDetail, setVideoDetail] = useState(null);
   const [videos, setVideos] = useState(null);
   const [comments, setComments] = useState(null);
-  const [channelInfo, setChannelInfo] = useState(null);
+  // const [channelInfo, setChannelInfo] = useState(null);
   const { id } = useParams();
   useEffect(() => {
     // fetchAPI(`videos?part=snippet,statistics&id=${id}`).then(
@@ -49,14 +49,14 @@ const VideoConts = () => {
         .then((res) => {
           setComments(res.items);
         });
-      fetch(
-        `https://raw.githubusercontent.com/kimsangjunv1/-React-Tech-Tube/main/src/components/utils/channel.json`
-      )
-        .then((res) => res.json())
-        .then((res) => {
-          setChannelInfo(res.items[0]);
-          console.log("여기? : ", res);
-        });
+      // fetch(
+      //   `https://raw.githubusercontent.com/kimsangjunv1/-React-Tech-Tube/main/src/components/utils/channel.json`
+      // )
+      //   .then((res) => res.json())
+      //   .then((res) => {
+      //     setChannelInfo(res.items[0]);
+      //     console.log("여기? : ", res);
+      //   });
     };
     test();
     // .then((res) => console.log("?? : ,", videoDetail));

@@ -36,10 +36,6 @@ const VideoCard = ({
     return "방금 전";
   };
 
-  const test = (date) => {
-    console.log("date : ", date.slice(0, 10));
-  };
-
   // elapsedTime('2022-11-15');
   return (
     <Link to={`/video/${videoId}`} className="box">

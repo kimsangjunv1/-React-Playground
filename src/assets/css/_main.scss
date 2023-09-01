@@ -29,12 +29,23 @@
             }
             img {
               border-radius: var(--radius);
-              margin-bottom: 20px;
+              margin-bottom: 5px;
             }
 
             .boxInfo {
               p {
                 color: white;
+              }
+              a {
+                display: flex;
+                align-items: center;
+                gap: 5px;
+                .channel_title {
+                  color: var(--transparent-white);
+                }
+                img {
+                  width: 18px;
+                }
               }
               .title {
                 font-size: 18px;
@@ -48,15 +59,11 @@
                 font-size: 14px;
                 color: var(--transparent-white);
               }
-              a {
+              .date_container {
                 display: flex;
                 align-items: center;
-                gap: 5px;
-                .channel_title {
+                p {
                   color: var(--transparent-white);
-                }
-                img {
-                  width: 18px;
                 }
               }
             }

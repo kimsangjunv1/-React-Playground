@@ -19,8 +19,13 @@
             position: absolute;
             top: 0;
             left: 0;
-            filter: blur(200px) opacity(0.5);
+            filter: blur(40px) opacity(0.6);
             z-index: -1;
+          }
+          > div {
+            > iframe {
+              border-radius: 10px;
+            }
           }
         }
       }

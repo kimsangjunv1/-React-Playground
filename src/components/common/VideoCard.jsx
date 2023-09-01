@@ -45,8 +45,12 @@ const VideoCard = ({
     <Link to={`/video/${videoId}`} className="box">
       <img src={snippet?.thumbnails?.medium?.url} alt={snippet?.title} />
       <div className="boxInfo">
-        <p className="date">{elapsedTime(snippet?.publishedAt.slice(0, 10))}</p>
-        <p className="date">{snippet?.publishedAt.slice(0, 10)}</p>
+        <div className="date_container">
+          <p className="date">
+            {elapsedTime(snippet?.publishedAt.slice(0, 10))}
+          </p>
+          <p className="date">・{snippet?.publishedAt.slice(0, 10)}</p>
+        </div>
         <p className="title">{snippet?.title}</p>
         <p className="desc">{snippet?.description}</p>
         <Link to={`/channel/${snippet.channelId}`}>

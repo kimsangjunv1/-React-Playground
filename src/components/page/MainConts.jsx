@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 
-import { fetchAPI } from "../utils/fetchAPI";
-import { Categorys, Videos } from "..";
+// import { fetchAPI } from "../utils/fetchAPI";
+import { Videos } from "..";
 import Banner from "../common/Banner";
 import Section from "../common/Section";
 import SectionSpace from "../common/SectionSpace";

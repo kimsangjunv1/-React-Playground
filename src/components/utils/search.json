@@ -1,640 +1,640 @@
 {
-  "kind": "youtube#searchListResponse",
-  "nextPageToken": "CBQSDRILWUVrb01KdlJqNmMYACqKBjJzNkw2d3pBQkFxOUJBb0Q4ajRBQ2czQ1Bnb0k1cnFJcDV2RG1McEpDZ1B5UGdBS0RzSS1Dd2l5d0t6V3Y5SzB6TU1CQ2dQeVBnQUtEc0ktQ3dqQTZLWFluWlhXZ3BNQkNnUHlQZ0FLRGNJLUNnanZvY2lza3ZYVW1tUUtBX0ktQUFvT3dqNExDUE91enRlZDNvckw4UUVLQV9JLUFBb053ajRLQ0puUTZlYmF0UGVQTndvRDhqNEFDZzdDUGdzSTBickdxdmVNcXJDWUFRb0Q4ajRBQ2czQ1Bnb0l3djNScmVPWnRhb2tDZ1B5UGdBS0RjSS1DZ2lXOUlEZHZvci05VUlLQV9JLUFBb093ajRMQ05la3c5X1VycWJfeEFFS0FfSS1BQW9Pd2o0TENQbWE3NnZybHBmYm5RRUtBX0ktQUFvT3dqNExDSl9ZMTQ2SzJJZXhxQUVLQV9JLUFBb093ajRMQ1BHSnZmLWVsczNCeUFFS0FfSS1BQW9Pd2o0TENPaWdob3ZJODhyYTNRRUtBX0ktQUFvTndqNEtDTnVJMTViOWdPeWRXUW9EOGo0QUNnM0NQZ29JcnFyNXNlR0FvdUF5Q2dQeVBnQUtEY0ktQ2dqUGdmQ3o2ZUthbkFZS0FfSS1BQW9Od2o0S0NKMnEtLWJPaE12eEl3b0Q4ajRBQ2czQ1Bnb0k1OTdCd1p5SnVwQkpDZ1B5UGdBS0RjSS1DZ2p5OTVhOXNKRzJpRElTRkFBQ0JBWUlDZ3dPRUJJVUZoZ2FIQjRnSWlRbUdnUUlBQkFCR2dRSUFoQURHZ1FJQkJBRkdnUUlCaEFIR2dRSUNCQUpHZ1FJQ2hBTEdnUUlEQkFOR2dRSURoQVBHZ1FJRUJBUkdnUUlFaEFUR2dRSUZCQVZHZ1FJRmhBWEdnUUlHQkFaR2dRSUdoQWJHZ1FJSEJBZEdnUUlIaEFmR2dRSUlCQWhHZ1FJSWhBakdnUUlKQkFsR2dRSUpoQW5LaFFBQWdRR0NBb01EaEFTRkJZWUdod2VJQ0lrSmdqD3dhdGNoLW5leHQtZmVlZA%3D%3D",
-  "pageInfo": {
-    "totalResults": 150,
-    "resultsPerPage": 20
-  },
-  "items": [
-    {
-      "kind": "youtube#searchResult",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "SXRiGbTiHWY"
-      },
-      "snippet": {
-        "publishedAt": "2023-08-23T00:00:00Z",
-        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
-        "title": "삼성페이의 가장 큰 적..구글 페이가 한국에 출시한다?",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https =>//i.ytimg.com/vi/SXRiGbTiHWY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https =>//i.ytimg.com/vi/SXRiGbTiHWY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https =>//i.ytimg.com/vi/SXRiGbTiHWY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "ITSub잇섭",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-08-23T00:00:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "w5jSk_rLIDI"
-      },
-      "snippet": {
-        "publishedAt": "2022-08-28T00:00:00Z",
-        "channelId": "UCIVJRXlM6pJQuv42na2x7-w",
-        "title": "갤럭시에서 아이폰으로 넘어오면 느끼는 단점 20가지",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https =>//i.ytimg.com/vi/w5jSk_rLIDI/default.jpg",
-            "width": 120,
-            "height": 90
-          }
-        },
-        "channelTitle": "오리뷰 : 오늘의 리뷰",
-        "liveBroadcastContent": "none",
-        "publishTime": "2022-08-28T00:00:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "kwVYqdsJdEA"
-      },
-      "snippet": {
-        "publishedAt": "2023-08-20T00:00:00Z",
-        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
-        "title": "유부남 시청금지 ㅋㅋ 단순개봉 중고에 눈돌아가서 지른 드론 언빡싱 | DJI 매빅3 프로",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https =>//i.ytimg.com/vi/kwVYqdsJdEA/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https =>//i.ytimg.com/vi/kwVYqdsJdEA/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https =>//i.ytimg.com/vi/kwVYqdsJdEA/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "ITSub잇섭",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-08-20T00:00:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "ZDVTqSWSEO8"
-      },
-      "snippet": {
-        "publishedAt": "2023-08-28T00:00:00Z",
-        "channelId": "UCKBzr20577Xcn0LJoRVES_A",
-        "title": "드디어 이 형이 마블에 뜬다..! ≪고스트 라이더≫ 복귀 루머 총정리",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https =>//i.ytimg.com/vi/ZDVTqSWSEO8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https =>//i.ytimg.com/vi/ZDVTqSWSEO8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https =>//i.ytimg.com/vi/ZDVTqSWSEO8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "무비띵크_Movie Think",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-08-28T00:00:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "8ZYq8drzl3M"
-      },
-      "snippet": {
-        "publishedAt": "2023-08-14T00:00:00Z",
-        "channelId": "UCVVPoZxyZOXiGYd3bqbJm9Q",
-        "title": "갤럭시와 비교한 아이폰 불편한 점 (통화녹음, 지문인식 없음, 숫자키보드, 통화목록 100개 제한, 팝업알림없음, 애플페이 미지원, 클립보드 기능 등)",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https =>//i.ytimg.com/vi/8ZYq8drzl3M/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https =>//i.ytimg.com/vi/8ZYq8drzl3M/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https =>//i.ytimg.com/vi/8ZYq8drzl3M/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "잇츠 매거진",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-08-14T00:00:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "Nx_dpazaaBk"
-      },
-      "snippet": {
-        "publishedAt": "2023-08-27T00:00:00Z",
-        "channelId": "UCT29dZNPg6exiMyMrVLL0fg",
-        "title": "신형 X6... M50i가 M60i 됐다? 출력도 그대로인데?? // G06, LCI, 마일드하이브리드",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https =>//i.ytimg.com/vi/Nx_dpazaaBk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https =>//i.ytimg.com/vi/Nx_dpazaaBk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https =>//i.ytimg.com/vi/Nx_dpazaaBk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "mediaAUTO 미디어오토",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-08-27T00:00:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "mGCoZ3VRnVE"
-      },
-      "snippet": {
-        "publishedAt": "2023-05-28T00:00:00Z",
-        "channelId": "UCV77qil5hUvWrMGgWaZa5Tw",
-        "title": "아이폰15 울트라 실물 디자인 공개?! 아이폰 15 디자인, 출시일, 가격 1분정리",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https =>//i.ytimg.com/vi/mGCoZ3VRnVE/default.jpg",
-            "width": 120,
-            "height": 90
-          }
-        },
-        "channelTitle": "아정당",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-05-28T00:00:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "JFTUzjW0fsI"
-      },
-      "snippet": {
-        "publishedAt": "2023-07-28T00:00:00Z",
-        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
-        "title": "롤토체스 중독자를 위한 50만원대 미니 컴퓨터 조립하기. 역대급 쉽습니다?",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https =>//i.ytimg.com/vi/JFTUzjW0fsI/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https =>//i.ytimg.com/vi/JFTUzjW0fsI/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https =>//i.ytimg.com/vi/JFTUzjW0fsI/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "ITSub잇섭",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-07-28T00:00:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "Quv4U-ugOhY"
-      },
-      "snippet": {
-        "publishedAt": "2023-08-27T00:00:00Z",
-        "channelId": "UClzB2iZ5jPoTNz0S-QU6Wiw",
-        "title": "24시간동안 미터 VS 센티미터!! 편히 자려면 몇 미터(m)가 필요할까?!",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https =>//i.ytimg.com/vi/Quv4U-ugOhY/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https =>//i.ytimg.com/vi/Quv4U-ugOhY/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https =>//i.ytimg.com/vi/Quv4U-ugOhY/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "파뿌리",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-08-27T00:00:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "xP6ZdUvw0lc"
-      },
-      "snippet": {
-        "publishedAt": "2023-03-28T00:00:00Z",
-        "channelId": "UCWELVAfgzwhHVkQGdlcuIwg",
-        "title": "아이폰 15 지금부터 존버 해야하는 이유 #shorts",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https =>//i.ytimg.com/vi/xP6ZdUvw0lc/default.jpg",
-            "width": 120,
-            "height": 90
-          }
-        },
-        "channelTitle": "티노",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-03-28T00:00:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "nbZctrV7zXk"
-      },
-      "snippet": {
-        "publishedAt": "2023-08-24T00:00:00Z",
-        "channelId": "UCUj6rrhMTR9pipbAWBAMvUQ",
-        "title": "문서작업용 노트북 쇼핑",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https =>//i.ytimg.com/vi/nbZctrV7zXk/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https =>//i.ytimg.com/vi/nbZctrV7zXk/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https =>//i.ytimg.com/vi/nbZctrV7zXk/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "침착맨",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-08-24T00:00:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "qGIewKHV7B8"
-      },
-      "snippet": {
-        "publishedAt": "2023-08-07T00:00:00Z",
-        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
-        "title": "한 편으로 끝내드립니다. 갤럭시 Z 플립 5 언빡싱&간단 사용기",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https =>//i.ytimg.com/vi/qGIewKHV7B8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https =>//i.ytimg.com/vi/qGIewKHV7B8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https =>//i.ytimg.com/vi/qGIewKHV7B8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "ITSub잇섭",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-08-07T00:00:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "yIM0se_vRPE"
-      },
-      "snippet": {
-        "publishedAt": "2023-08-17T00:00:00Z",
-        "channelId": "UCJKZoVf3RIMfFffjdseqdEg",
-        "title": "요즘 폴더폰이 다시 유행하는 이유",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https =>//i.ytimg.com/vi/yIM0se_vRPE/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https =>//i.ytimg.com/vi/yIM0se_vRPE/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https =>//i.ytimg.com/vi/yIM0se_vRPE/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "디에디트 THE EDIT",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-08-17T00:00:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "3bUrnIFhkGg"
-      },
-      "snippet": {
-        "publishedAt": "2023-08-18T00:00:00Z",
-        "channelId": "UCdpbqw5DPdBfaeByMF2Re0g",
-        "title": "오펜하이머 용아맥이 뭔데 십덕아 ㅋㅋ",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https =>//i.ytimg.com/vi/3bUrnIFhkGg/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https =>//i.ytimg.com/vi/3bUrnIFhkGg/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https =>//i.ytimg.com/vi/3bUrnIFhkGg/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "UPSub없섭",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-08-18T00:00:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "WTuwB9LVxFs"
-      },
-      "snippet": {
-        "publishedAt": "2023-08-27T00:00:00Z",
-        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
-        "title": "드디어 꿈꿔왔던 형태의 태블릿이 나왔습니다!? 구글 픽셀 태블릿 첫 인상",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https =>//i.ytimg.com/vi/WTuwB9LVxFs/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https =>//i.ytimg.com/vi/WTuwB9LVxFs/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https =>//i.ytimg.com/vi/WTuwB9LVxFs/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "ITSub잇섭",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-08-27T00:00:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "MsCIBhY-VS4"
-      },
-      "snippet": {
-        "publishedAt": "2023-07-31T00:00:00Z",
-        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
-        "title": "“요새는 다들 아이폰 쓴다”...? 모든 커뮤니티를 달군 소문의 진실 파헤치기",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https =>//i.ytimg.com/vi/MsCIBhY-VS4/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https =>//i.ytimg.com/vi/MsCIBhY-VS4/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https =>//i.ytimg.com/vi/MsCIBhY-VS4/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "ITSub잇섭",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-07-31T00:00:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "BjhrFpZ8AM8"
-      },
-      "snippet": {
-        "publishedAt": "2023-08-21T00:00:00Z",
-        "channelId": "UCUyci4TwNYWEUK8tOG-N-gw",
-        "title": "Samsung Galaxy Z Flip 5💜 aesthetic unboxing | Samsung Case | backbone | Genshin Impact",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https =>//i.ytimg.com/vi/BjhrFpZ8AM8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https =>//i.ytimg.com/vi/BjhrFpZ8AM8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https =>//i.ytimg.com/vi/BjhrFpZ8AM8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "apple tree girl unboxing",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-08-21T00:00:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "I-MsJOze1R0"
-      },
-      "snippet": {
-        "publishedAt": "2023-08-15T00:00:00Z",
-        "channelId": "UCV77qil5hUvWrMGgWaZa5Tw",
-        "title": "아이폰 15, 이번에는 무조건 일반을 구매하시는 게 이득입니다!",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https =>//i.ytimg.com/vi/I-MsJOze1R0/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https =>//i.ytimg.com/vi/I-MsJOze1R0/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https =>//i.ytimg.com/vi/I-MsJOze1R0/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "아정당",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-08-15T00:00:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "SSDoScgwb2c"
-      },
-      "snippet": {
-        "publishedAt": "2023-08-25T00:00:00Z",
-        "channelId": "UCJKZoVf3RIMfFffjdseqdEg",
-        "title": "아이폰 vs 갤럭시 싸우는 게 의미없는 이유...",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https =>//i.ytimg.com/vi/SSDoScgwb2c/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https =>//i.ytimg.com/vi/SSDoScgwb2c/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https =>//i.ytimg.com/vi/SSDoScgwb2c/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "디에디트 THE EDIT",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-08-25T00:00:00Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "MhDYiwelu_I"
-      },
-      "snippet": {
-        "publishedAt": "2023-08-14T00:00:00Z",
-        "channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
-        "title": "안드로이드 태블릿 1짱 복귀;; 갤럭시탭 S9 울트라 언빡싱&첫 인상!",
-        "description": "",
-        "thumbnails": {
-          "default": {
-            "url": "https =>//i.ytimg.com/vi/MhDYiwelu_I/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https =>//i.ytimg.com/vi/MhDYiwelu_I/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https =>//i.ytimg.com/vi/MhDYiwelu_I/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "ITSub잇섭",
-        "liveBroadcastContent": "none",
-        "publishTime": "2023-08-14T00:00:00Z"
-      }
-    }
-  ]
+	"kind": "youtube#searchListResponse",
+	"nextPageToken": "CBQSDRILWUVrb01KdlJqNmMYACqKBjJzNkw2d3pBQkFxOUJBb0Q4ajRBQ2czQ1Bnb0k1cnFJcDV2RG1McEpDZ1B5UGdBS0RzSS1Dd2l5d0t6V3Y5SzB6TU1CQ2dQeVBnQUtEc0ktQ3dqQTZLWFluWlhXZ3BNQkNnUHlQZ0FLRGNJLUNnanZvY2lza3ZYVW1tUUtBX0ktQUFvT3dqNExDUE91enRlZDNvckw4UUVLQV9JLUFBb053ajRLQ0puUTZlYmF0UGVQTndvRDhqNEFDZzdDUGdzSTBickdxdmVNcXJDWUFRb0Q4ajRBQ2czQ1Bnb0l3djNScmVPWnRhb2tDZ1B5UGdBS0RjSS1DZ2lXOUlEZHZvci05VUlLQV9JLUFBb093ajRMQ05la3c5X1VycWJfeEFFS0FfSS1BQW9Pd2o0TENQbWE3NnZybHBmYm5RRUtBX0ktQUFvT3dqNExDSl9ZMTQ2SzJJZXhxQUVLQV9JLUFBb093ajRMQ1BHSnZmLWVsczNCeUFFS0FfSS1BQW9Pd2o0TENPaWdob3ZJODhyYTNRRUtBX0ktQUFvTndqNEtDTnVJMTViOWdPeWRXUW9EOGo0QUNnM0NQZ29JcnFyNXNlR0FvdUF5Q2dQeVBnQUtEY0ktQ2dqUGdmQ3o2ZUthbkFZS0FfSS1BQW9Od2o0S0NKMnEtLWJPaE12eEl3b0Q4ajRBQ2czQ1Bnb0k1OTdCd1p5SnVwQkpDZ1B5UGdBS0RjSS1DZ2p5OTVhOXNKRzJpRElTRkFBQ0JBWUlDZ3dPRUJJVUZoZ2FIQjRnSWlRbUdnUUlBQkFCR2dRSUFoQURHZ1FJQkJBRkdnUUlCaEFIR2dRSUNCQUpHZ1FJQ2hBTEdnUUlEQkFOR2dRSURoQVBHZ1FJRUJBUkdnUUlFaEFUR2dRSUZCQVZHZ1FJRmhBWEdnUUlHQkFaR2dRSUdoQWJHZ1FJSEJBZEdnUUlIaEFmR2dRSUlCQWhHZ1FJSWhBakdnUUlKQkFsR2dRSUpoQW5LaFFBQWdRR0NBb01EaEFTRkJZWUdod2VJQ0lrSmdqD3dhdGNoLW5leHQtZmVlZA%3D%3D",
+	"pageInfo": {
+		"totalResults": 150,
+		"resultsPerPage": 20
+	},
+	"items": [
+		{
+			"kind": "youtube#searchResult",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "SXRiGbTiHWY"
+			},
+			"snippet": {
+				"publishedAt": "2023-08-23T00:00:00Z",
+				"channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+				"title": "삼성페이의 가장 큰 적..구글 페이가 한국에 출시한다?",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/SXRiGbTiHWY/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/SXRiGbTiHWY/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/SXRiGbTiHWY/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "ITSub잇섭",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-08-23T00:00:00Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "w5jSk_rLIDI"
+			},
+			"snippet": {
+				"publishedAt": "2022-08-28T00:00:00Z",
+				"channelId": "UCIVJRXlM6pJQuv42na2x7-w",
+				"title": "갤럭시에서 아이폰으로 넘어오면 느끼는 단점 20가지",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/w5jSk_rLIDI/default.jpg",
+						"width": 120,
+						"height": 90
+					}
+				},
+				"channelTitle": "오리뷰 : 오늘의 리뷰",
+				"liveBroadcastContent": "none",
+				"publishTime": "2022-08-28T00:00:00Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "kwVYqdsJdEA"
+			},
+			"snippet": {
+				"publishedAt": "2023-08-20T00:00:00Z",
+				"channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+				"title": "유부남 시청금지 ㅋㅋ 단순개봉 중고에 눈돌아가서 지른 드론 언빡싱 | DJI 매빅3 프로",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/kwVYqdsJdEA/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/kwVYqdsJdEA/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/kwVYqdsJdEA/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "ITSub잇섭",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-08-20T00:00:00Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "ZDVTqSWSEO8"
+			},
+			"snippet": {
+				"publishedAt": "2023-08-28T00:00:00Z",
+				"channelId": "UCKBzr20577Xcn0LJoRVES_A",
+				"title": "드디어 이 형이 마블에 뜬다..! ≪고스트 라이더≫ 복귀 루머 총정리",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/ZDVTqSWSEO8/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/ZDVTqSWSEO8/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/ZDVTqSWSEO8/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "무비띵크_Movie Think",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-08-28T00:00:00Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "8ZYq8drzl3M"
+			},
+			"snippet": {
+				"publishedAt": "2023-08-14T00:00:00Z",
+				"channelId": "UCVVPoZxyZOXiGYd3bqbJm9Q",
+				"title": "갤럭시와 비교한 아이폰 불편한 점 (통화녹음, 지문인식 없음, 숫자키보드, 통화목록 100개 제한, 팝업알림없음, 애플페이 미지원, 클립보드 기능 등)",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/8ZYq8drzl3M/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/8ZYq8drzl3M/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/8ZYq8drzl3M/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "잇츠 매거진",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-08-14T00:00:00Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "Nx_dpazaaBk"
+			},
+			"snippet": {
+				"publishedAt": "2023-08-27T00:00:00Z",
+				"channelId": "UCT29dZNPg6exiMyMrVLL0fg",
+				"title": "신형 X6... M50i가 M60i 됐다? 출력도 그대로인데?? // G06, LCI, 마일드하이브리드",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/Nx_dpazaaBk/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/Nx_dpazaaBk/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/Nx_dpazaaBk/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "mediaAUTO 미디어오토",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-08-27T00:00:00Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "mGCoZ3VRnVE"
+			},
+			"snippet": {
+				"publishedAt": "2023-05-28T00:00:00Z",
+				"channelId": "UCV77qil5hUvWrMGgWaZa5Tw",
+				"title": "아이폰15 울트라 실물 디자인 공개?! 아이폰 15 디자인, 출시일, 가격 1분정리",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/mGCoZ3VRnVE/default.jpg",
+						"width": 120,
+						"height": 90
+					}
+				},
+				"channelTitle": "아정당",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-05-28T00:00:00Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "JFTUzjW0fsI"
+			},
+			"snippet": {
+				"publishedAt": "2023-07-28T00:00:00Z",
+				"channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+				"title": "롤토체스 중독자를 위한 50만원대 미니 컴퓨터 조립하기. 역대급 쉽습니다?",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/JFTUzjW0fsI/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/JFTUzjW0fsI/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/JFTUzjW0fsI/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "ITSub잇섭",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-07-28T00:00:00Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "Quv4U-ugOhY"
+			},
+			"snippet": {
+				"publishedAt": "2023-08-27T00:00:00Z",
+				"channelId": "UClzB2iZ5jPoTNz0S-QU6Wiw",
+				"title": "24시간동안 미터 VS 센티미터!! 편히 자려면 몇 미터(m)가 필요할까?!",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/Quv4U-ugOhY/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/Quv4U-ugOhY/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/Quv4U-ugOhY/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "파뿌리",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-08-27T00:00:00Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "xP6ZdUvw0lc"
+			},
+			"snippet": {
+				"publishedAt": "2023-03-28T00:00:00Z",
+				"channelId": "UCWELVAfgzwhHVkQGdlcuIwg",
+				"title": "아이폰 15 지금부터 존버 해야하는 이유 #shorts",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/xP6ZdUvw0lc/default.jpg",
+						"width": 120,
+						"height": 90
+					}
+				},
+				"channelTitle": "티노",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-03-28T00:00:00Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "nbZctrV7zXk"
+			},
+			"snippet": {
+				"publishedAt": "2023-08-24T00:00:00Z",
+				"channelId": "UCUj6rrhMTR9pipbAWBAMvUQ",
+				"title": "문서작업용 노트북 쇼핑",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/nbZctrV7zXk/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/nbZctrV7zXk/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/nbZctrV7zXk/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "침착맨",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-08-24T00:00:00Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "qGIewKHV7B8"
+			},
+			"snippet": {
+				"publishedAt": "2023-08-07T00:00:00Z",
+				"channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+				"title": "한 편으로 끝내드립니다. 갤럭시 Z 플립 5 언빡싱&간단 사용기",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/qGIewKHV7B8/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/qGIewKHV7B8/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/qGIewKHV7B8/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "ITSub잇섭",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-08-07T00:00:00Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "yIM0se_vRPE"
+			},
+			"snippet": {
+				"publishedAt": "2023-08-17T00:00:00Z",
+				"channelId": "UCJKZoVf3RIMfFffjdseqdEg",
+				"title": "요즘 폴더폰이 다시 유행하는 이유",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/yIM0se_vRPE/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/yIM0se_vRPE/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/yIM0se_vRPE/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "디에디트 THE EDIT",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-08-17T00:00:00Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "3bUrnIFhkGg"
+			},
+			"snippet": {
+				"publishedAt": "2023-08-18T00:00:00Z",
+				"channelId": "UCdpbqw5DPdBfaeByMF2Re0g",
+				"title": "오펜하이머 용아맥이 뭔데 십덕아 ㅋㅋ",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/3bUrnIFhkGg/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/3bUrnIFhkGg/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/3bUrnIFhkGg/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "UPSub없섭",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-08-18T00:00:00Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "WTuwB9LVxFs"
+			},
+			"snippet": {
+				"publishedAt": "2023-08-27T00:00:00Z",
+				"channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+				"title": "드디어 꿈꿔왔던 형태의 태블릿이 나왔습니다!? 구글 픽셀 태블릿 첫 인상",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/WTuwB9LVxFs/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/WTuwB9LVxFs/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/WTuwB9LVxFs/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "ITSub잇섭",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-08-27T00:00:00Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "MsCIBhY-VS4"
+			},
+			"snippet": {
+				"publishedAt": "2023-07-31T00:00:00Z",
+				"channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+				"title": "“요새는 다들 아이폰 쓴다”...? 모든 커뮤니티를 달군 소문의 진실 파헤치기",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/MsCIBhY-VS4/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/MsCIBhY-VS4/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/MsCIBhY-VS4/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "ITSub잇섭",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-07-31T00:00:00Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "BjhrFpZ8AM8"
+			},
+			"snippet": {
+				"publishedAt": "2023-08-21T00:00:00Z",
+				"channelId": "UCUyci4TwNYWEUK8tOG-N-gw",
+				"title": "Samsung Galaxy Z Flip 5💜 aesthetic unboxing | Samsung Case | backbone | Genshin Impact",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/BjhrFpZ8AM8/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/BjhrFpZ8AM8/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/BjhrFpZ8AM8/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "apple tree girl unboxing",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-08-21T00:00:00Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "I-MsJOze1R0"
+			},
+			"snippet": {
+				"publishedAt": "2023-08-15T00:00:00Z",
+				"channelId": "UCV77qil5hUvWrMGgWaZa5Tw",
+				"title": "아이폰 15, 이번에는 무조건 일반을 구매하시는 게 이득입니다!",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/I-MsJOze1R0/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/I-MsJOze1R0/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/I-MsJOze1R0/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "아정당",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-08-15T00:00:00Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "SSDoScgwb2c"
+			},
+			"snippet": {
+				"publishedAt": "2023-08-25T00:00:00Z",
+				"channelId": "UCJKZoVf3RIMfFffjdseqdEg",
+				"title": "아이폰 vs 갤럭시 싸우는 게 의미없는 이유...",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/SSDoScgwb2c/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/SSDoScgwb2c/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/SSDoScgwb2c/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "디에디트 THE EDIT",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-08-25T00:00:00Z"
+			}
+		},
+		{
+			"kind": "youtube#searchResult",
+			"id": {
+				"kind": "youtube#video",
+				"videoId": "MhDYiwelu_I"
+			},
+			"snippet": {
+				"publishedAt": "2023-08-14T00:00:00Z",
+				"channelId": "UCdUcjkyZtf-1WJyPPiETF1g",
+				"title": "안드로이드 태블릿 1짱 복귀;; 갤럭시탭 S9 울트라 언빡싱&첫 인상!",
+				"description": "",
+				"thumbnails": {
+					"default": {
+						"url": "https://i.ytimg.com/vi/MhDYiwelu_I/default.jpg",
+						"width": 120,
+						"height": 90
+					},
+					"medium": {
+						"url": "https://i.ytimg.com/vi/MhDYiwelu_I/mqdefault.jpg",
+						"width": 320,
+						"height": 180
+					},
+					"high": {
+						"url": "https://i.ytimg.com/vi/MhDYiwelu_I/hqdefault.jpg",
+						"width": 480,
+						"height": 360
+					}
+				},
+				"channelTitle": "ITSub잇섭",
+				"liveBroadcastContent": "none",
+				"publishTime": "2023-08-14T00:00:00Z"
+			}
+		}
+	]
 }

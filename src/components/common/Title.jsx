@@ -16,8 +16,8 @@ const Title = ({ categorys }) => {
 			) : (
 				<div className="title_container_inner">
 					<img src={icon_recommand} alt="추천 아이콘" />
-					<h2 className="title">{categorys}의 결과</h2>
-					<p className="sub_title">{categorys}채널 검색 결과에요!</p>
+					<h2 className="title">{categorys}</h2>
+					<p className="sub_title">{categorys}와 관련된 검색 결과입니다.</p>
 				</div>
 			)}
 		</div>

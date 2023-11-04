@@ -10,30 +10,14 @@ const Videos = ({ videos, categorys, searchKeyword }) => {
 
 	return (
 		<article className="video_container">
-			<Title categorys="채널검색결과" />
+			{searchKeyword && <Title categorys={searchKeyword} />}
 			<div className="video_container_inner">
 				{videos.map((item, idx) => (
 					<>{item.id.channelId && <VideoCard video={item} key={idx} />}</>
 				))}
 			</div>
-			{/* {videos.map((item, idx) => (
-				<>
-					{item.id.channelId && (
-						<Link to={`/channel/${item.id.channelId}`} className="channel_box">
-							<img
-								src={item.snippet?.thumbnails?.medium?.url}
-								alt={item.snippet?.channelTitle}
-							/>
-							<a href="asd">asd</a>
-						</Link>
-					)}
-				</>
-			))} */}
-			{searchKeyword ? (
-				<Title categorys={searchKeyword} />
-			) : (
-				<Title categorys={categorys} />
-			)}
+
+			{categorys ? <Title categorys={categorys} /> : <Title />}
 			<div className="video_container_inner">
 				{videos.map((item, idx) => (
 					<>{item.id.videoId && <VideoCard video={item} key={idx} />}</>

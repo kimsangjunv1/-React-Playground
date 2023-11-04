@@ -29,7 +29,7 @@ const SearchConts = () => {
 				<div className="result">
 					<em className="keyword">'{searchTerm}'</em> 검색결과
 				</div>
-				<Videos videos={videos} />
+				<Videos videos={videos} searchKeyword={searchTerm} />
 			</Section>
 		</main>
 	);

@@ -14,7 +14,7 @@
 			margin-top: 20px;
 			.play {
 				position: relative;
-				margin-bottom: 40px;
+				margin-bottom: 20px;
 				> div {
 					width: 100% !important;
 					height: 652.44px !important;
@@ -44,6 +44,20 @@
 				justify-content: space-between;
 				margin-bottom: 5px;
 				.channel {
+					display: flex;
+					align-items: center;
+					gap: 5px;
+					p {
+						border: 1px solid #ffffff1c;
+
+						color: white;
+						width: 30px;
+						height: 30px;
+						border-radius: 100px;
+						text-align: center;
+						line-height: 1.9;
+						font-weight: bold;
+					}
 					a {
 						color: white;
 					}

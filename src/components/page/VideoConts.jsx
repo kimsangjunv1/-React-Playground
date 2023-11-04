@@ -67,8 +67,32 @@ const VideoConts = () => {
 
 	if (!videoDetail?.snippet) return <Loader />;
 
+	const elapsedTime = (date) => {
+		const start = new Date(date);
+		const end = new Date();
+
+		const diff = (end - start) / 1000;
+
+		const times = [
+			{ name: "년", milliSeconds: 60 * 60 * 24 * 365 },
+			{ name: "개월", milliSeconds: 60 * 60 * 24 * 30 },
+			{ name: "일", milliSeconds: 60 * 60 * 24 },
+			{ name: "시간", milliSeconds: 60 * 60 },
+			{ name: "분", milliSeconds: 60 },
+		];
+
+		for (const value of times) {
+			const betweenTime = Math.floor(diff / value.milliSeconds);
+
+			if (betweenTime > 0) {
+				return `${betweenTime}${value.name} 전`;
+			}
+		}
+		return "방금 전";
+	};
+
 	const {
-		snippet: { title, channelId, channelTitle, description },
+		snippet: { title, channelId, channelTitle, description, publishedAt },
 		statistics: { viewCount, likeCount },
 	} = videoDetail;
 	return (
@@ -88,6 +112,7 @@ const VideoConts = () => {
 					<span className="title">{title}</span>
 					<div className="videoConts-info">
 						<div className="channel">
+							<p>{channelTitle.slice(0, 2)}</p>
 							<Link to={`/channel/${channelId}`}>{channelTitle}</Link>
 						</div>
 						<div className="count">
@@ -95,6 +120,8 @@ const VideoConts = () => {
 								<img src={Icon_Language} alt="언어" />
 								KO
 							</span>
+
+							<span>{elapsedTime(publishedAt.slice(0, 10))}</span>
 							<span className="view">조회수 : {viewCount}회</span>
 							<span className="like">♥{likeCount}</span>
 						</div>

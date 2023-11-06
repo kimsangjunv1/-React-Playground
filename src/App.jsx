@@ -17,7 +17,26 @@ import {
 } from "./components";
 
 const App = () => {
-	const [selectCategory, setSelectCategory] = useState("ITsub");
+	const [selectCategory, setSelectCategory] = useState("태블릿 갤럭시 아이폰");
+	// const [maxResults, setMaxResults] = useState(10);
+
+	// window.addEventListener("scroll", () => {
+	// 	let winScroll =
+	// 		document.body.scrollTop || document.documentElement.scrollTop;
+	// 	let height =
+	// 		document.documentElement.scrollHeight -
+	// 		document.documentElement.clientHeight;
+
+	// 	if ((winScroll / height) * 100 === 100) {
+	// 		// setMaxResults((state) => state + 10);
+	// 		setMaxResults(maxResults + 10);
+	// 		console.log("maxResults : ", maxResults);
+
+	// 		// fetchAPI(
+	// 		// 	`search?part=snippet&q=${selectCategory}&type=video&maxResults=${maxResults}`
+	// 		// ).then((data) => setVideos(data.items));
+	// 	}
+	// });
 	return (
 		<BrowserRouter>
 			<HeaderConts />

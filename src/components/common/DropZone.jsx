@@ -68,7 +68,6 @@ const DropZone = () => {
 			>
 				닫기
 			</button>
-			<button className="open_btn">열기</button>
 		</div>
 	);
 };

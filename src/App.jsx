@@ -3,6 +3,9 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { useState } from "react";
 // import Categorys from "./components";
 import DropZone from "./components/common/DropZone";
+import Button from "./components/common/Button";
+
+import icon_drop from "./assets/img/icon_drop.svg";
 
 import {
 	MainConts,
@@ -22,6 +25,7 @@ const App = () => {
 				selectCategory={selectCategory}
 				setSelectCategory={setSelectCategory}
 			/>
+			<Button text={"이곳에 원하는 영상을 끌어다 놔주세요"} icon={icon_drop} />
 			<DropZone />
 			<Routes>
 				<Route

@@ -14,11 +14,16 @@ const Videos = ({ videos, categorys, searchKeyword }) => {
 	);
 	if (!videos?.length) return <Loader />;
 
+	let channelContents = videos.filter(
+		(good) => good.id.kind === "youtube#channel"
+	);
+	let videoContents = videos.filter((good) => good.id.kind === "youtube#video");
+	// console.log("testtest : ", testtest);
 	return (
 		<article className="video_container">
 			{searchKeyword && <Title categorys={searchKeyword} />}
 			<div className="video_container_inner">
-				{videos.map((item, idx) => (
+				{channelContents.map((item, idx) => (
 					<>{item.id.channelId ? <VideoCard video={item} key={idx} /> : ""}</>
 				))}
 			</div>
@@ -26,9 +31,9 @@ const Videos = ({ videos, categorys, searchKeyword }) => {
 			{categorys ? <Title categorys={categorys} /> : <Title />}
 			<div className="video_container_inner">
 				{/* 드래그시 저장 및 true 만약 리덕스에서 true인 상태에서 여기에 드랍해주세요에 올라오면 저장 아닐시 없음 false*/}
-				{videos.map((item, idx) => (
+				{videoContents.map((item, idx) => (
 					<div
-						className="boxbox"
+						className="item"
 						onDragStart={() => {
 							enableDrag(true);
 						}}

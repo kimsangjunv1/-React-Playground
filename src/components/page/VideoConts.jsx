@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import ReactPlayer from "react-player";
 import { useParams, Link } from "react-router-dom";
-// import { fetchAPI } from "../utils/fetchAPI";
+import { fetchAPI } from "../utils/fetchAPI";
 import { Videos, Comments, Loader } from "..";
 
 import Icon_Comments from "./../../assets/img/icon_comments.svg";
@@ -16,15 +16,15 @@ const VideoConts = () => {
 	const { id } = useParams();
 	useEffect(() => {
 		// fetchAPI(`videos?part=snippet,statistics&id=${id}`).then(
-		//   (data) => setVideoDetail(data.items[0])
-		//   // (data) => console.log(data.items)
+		// 	(data) => setVideoDetail(data.items[0])
+		// 	// (data) => console.log(data.items)
 		// );
 		// fetchAPI(`search?part=snippet&relatedToVideoId=${id}&type=video`).then(
-		//   (data) => setVideos(data.items)
+		// 	(data) => setVideos(data.items)
 		// );
 		// fetchAPI(`commentThreads?&part=snippet&videoId=${id}`).then(
-		//   (data) => setComments(data.items)
-		//   // (data) => console.log(data.items[0])
+		// 	(data) => setComments(data.items)
+		// 	// (data) => console.log(data.items[0])
 		// );
 
 		// 더미
@@ -62,7 +62,6 @@ const VideoConts = () => {
 			//   });
 		};
 		test();
-		// .then((res) => console.log("?? : ,", videoDetail));
 	}, [id]);
 
 	if (!videoDetail?.snippet) return <Loader />;

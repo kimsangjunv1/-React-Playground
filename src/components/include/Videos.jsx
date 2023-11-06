@@ -13,7 +13,7 @@ const Videos = ({ videos, categorys, searchKeyword }) => {
 			{searchKeyword && <Title categorys={searchKeyword} />}
 			<div className="video_container_inner">
 				{videos.map((item, idx) => (
-					<>{item.id.channelId && <VideoCard video={item} key={idx} />}</>
+					<>{item.id.channelId ? <VideoCard video={item} key={idx} /> : ""}</>
 				))}
 			</div>
 

@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 
-// import { fetchAPI } from "../utils/fetchAPI";
+import { fetchAPI } from "../utils/fetchAPI";
 import { Videos } from "..";
 import Banner from "../common/Banner";
 import Section from "../common/Section";
@@ -12,9 +12,9 @@ const MainConts = ({ selectCategory }) => {
 
 	// Rapid
 	// useEffect(() => {
-	//   fetchAPI(`search?part=snippet&q=${selectCategory}&type=video`).then(
-	//     (data) => setVideos(data.items)
-	//   );
+	// 	fetchAPI(`search?part=snippet&q=${selectCategory}&type=video`).then(
+	// 		(data) => setVideos(data.items)
+	// 	);
 	// }, [selectCategory]);
 
 	// 더미

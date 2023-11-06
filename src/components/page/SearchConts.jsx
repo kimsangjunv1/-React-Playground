@@ -19,16 +19,7 @@ const SearchConts = () => {
 
 	return (
 		<main id="main">
-			{/* <aside id="aside">
-        <Categorys
-          selectCategory={selectCategory}
-          setSelectCategory={setSelectCategory}
-        />
-      </aside> */}
 			<Section>
-				<div className="result">
-					{/* <em className="keyword">'{searchTerm}'</em> 검색결과 */}
-				</div>
 				<Videos videos={videos} searchKeyword={searchTerm} />
 			</Section>
 		</main>

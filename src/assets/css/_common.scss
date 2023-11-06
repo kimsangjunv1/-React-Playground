@@ -19,15 +19,100 @@ body {
 	}
 }
 
+// 드랍 존
+.dropbox {
+	position: fixed;
+	bottom: 20px;
+	left: 50%;
+	transform: translate(-50%, 0);
+	width: 50vw;
+	height: fit-content;
+	/* display: flex; */
+	background: var(--transparent-dark);
+	backdrop-filter: blur(var(--backdrop-filter));
+	-webkit-backdrop-filter: blur(var(--backdrop-filter));
+	border: 2px solid #ffffff26;
+	border-radius: 15px;
+	padding: 10px;
+	.dropbox_inner {
+		border: 3px dotted #11d619;
+		border-radius: 15px;
+		padding: 10px;
+		position: relative;
+		// display: flex;
+		// gap: 20px;
+		grid-template-columns: repeat(4, 1fr);
+		grid-template-rows: repeat(1, minmax(100px, auto));
+		display: grid;
+		&::after {
+			content: "여기에 드랍해주세요";
+			position: absolute;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			height: fit-content;
+			color: #ffffff36;
+			font-weight: 600;
+		}
+		.drophere {
+			position: relative;
+			border-right: 1px solid rgba(255, 255, 255, 0.157);
+			padding-right: 10px;
+			div {
+				width: 100%;
+				height: 100%;
+				background: #182b1f;
+				border-radius: 15px;
+				box-sizing: border-box;
+				img {
+					width: 19px;
+					position: absolute;
+					top: 40%;
+					left: 50%;
+					transform: translate(-50%, -50%);
+				}
+				&::after {
+					content: "여기에 드랍해주세요";
+					position: absolute;
+					top: 60%;
+					left: 50%;
+					transform: translate(-50%, -50%);
+					height: fit-content;
+					color: #11d619;
+					font-weight: 700;
+					white-space: pre;
+				}
+			}
+		}
+		.item {
+			// padding-right: 20px;
+			padding: 0 10px;
+			border-right: 1px solid rgba(255, 255, 255, 0.157);
+			&:last-child {
+				padding-right: 0;
+				border-right: none;
+			}
+			img {
+				border-radius: 15px;
+				margin-bottom: 5px;
+			}
+			p {
+				color: white;
+				font-weight: 700;
+			}
+		}
+	}
+}
+
 #aside {
-	padding: 20px;
-	width: 12vw;
+	width: 200px;
 	min-width: 200px;
-	border-right: 1px solid var(--dark-border-color);
 	position: fixed;
 	left: 0;
-	z-index: 100;
 	top: 70px;
+	z-index: 100;
+	padding: 20px;
+	border-right: 1px solid var(--dark-border-color);
 	background: var(--transparent-dark);
 	backdrop-filter: blur(var(--backdrop-filter));
 	-webkit-backdrop-filter: blur(var(--backdrop-filter));
@@ -53,6 +138,12 @@ body {
 		}
 		&:hover {
 			background: var(--dark-hover-color);
+		}
+
+		.broken {
+			img {
+				border-radius: 0;
+			}
 		}
 	}
 }

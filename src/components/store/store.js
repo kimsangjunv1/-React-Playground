@@ -14,6 +14,7 @@ import { create } from "zustand"; // create로 zustand를 불러옵니다.
 
 // zustand 기본
 const useStore = create((set) => ({
+	expandState: false,
 	dropState: false,
 	dragState: false,
 	data: [],
@@ -21,6 +22,7 @@ const useStore = create((set) => ({
 	removeVideo: (item) => set((state) => ({ data: item })),
 	enableDrop: (item) => set({ dropState: item }),
 	enableDrag: (item) => set({ dragState: item }),
+	enableExpand: (item) => set({ expandState: item }),
 }));
 
 // zustand 기본 + redux devtools 확인용

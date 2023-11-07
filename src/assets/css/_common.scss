@@ -232,11 +232,32 @@ body {
 	left: 0;
 	top: 70px;
 	z-index: 100;
-	padding: 20px;
+	padding: 10px;
 	border-right: 1px solid var(--dark-border-color);
 	background: var(--transparent-dark);
 	backdrop-filter: blur(var(--backdrop-filter));
 	-webkit-backdrop-filter: blur(var(--backdrop-filter));
+
+	.favorite_container,
+	.default_container {
+		height: 40%;
+		overflow: auto;
+	}
+	.expension_container {
+		height: 10%;
+	}
+	.title {
+		padding: 0 10px;
+		color: rgba(255, 255, 255, 0.3);
+		font-size: 14px;
+	}
+
+	hr {
+		width: 70%;
+		margin: 10px auto;
+		border: 0.1px solid rgba(245, 245, 245, 0.1);
+	}
+
 	button {
 		font-size: 14px;
 		transition: 0.25s;
@@ -264,6 +285,29 @@ body {
 		.broken {
 			img {
 				border-radius: 0;
+			}
+		}
+	}
+
+	.favorite_container {
+		.drop_here {
+			background: #11d61714;
+			color: #11d617;
+			border-radius: 5px;
+			text-align: center;
+			padding: 10px;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			gap: 5px;
+			img {
+				width: 17px;
+				// margin-right: 5px;
+			}
+			p {
+				font-size: 12px;
+				font-weight: bold;
 			}
 		}
 	}

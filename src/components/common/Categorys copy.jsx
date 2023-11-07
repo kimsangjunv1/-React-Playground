@@ -26,7 +26,7 @@ const Categorys = ({ selectCategory, setSelectCategory }) => {
 			<p className="title">기본 채널</p>
 			<div className="default_container">
 				{filteredCategory.map((category) => (
-					<Link className="item" to={`/channel/${category.id}`}>
+					<Link className="item" to={`/video/${item.id?.videoId}`}>
 						{category.profile ? (
 							<img src={category.profile} alt="프로파일 이미지" />
 						) : (

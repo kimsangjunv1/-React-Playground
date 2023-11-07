@@ -43,7 +43,10 @@ const Categorys = ({ selectCategory, setSelectCategory }) => {
 			<hr />
 			<p className="title">확장기능</p>
 
-			<div className="extension_container">Expand</div>
+			<div className="extension_container">
+				<button>Expand</button>
+				<button>Settings</button>
+			</div>
 		</aside>
 	);
 };

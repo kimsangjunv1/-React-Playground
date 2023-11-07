@@ -6,8 +6,9 @@ import icon_noimage from "./../../assets/img/icon_noimage.svg";
 import icon_close from "./../../assets/img/icon_close.svg";
 
 const ChannelDropZone = () => {
-	const { channelData, enableChannelDrop, removeChannel, dropChannelState } =
-		useStore((state) => state);
+	const { channelData, enableChannelDrop, removeChannel } = useStore(
+		(state) => state
+	);
 
 	console.log("channelData : ", channelData);
 

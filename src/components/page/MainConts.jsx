@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 
-import { fetchAPI } from "../utils/fetchAPI";
+// import { fetchAPI } from "../utils/fetchAPI";
 import { Videos } from "..";
 import Loader from "./../utils/Loader";
 import Banner from "../common/Banner";

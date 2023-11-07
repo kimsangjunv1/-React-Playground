@@ -3,11 +3,10 @@ import { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
 
 import { fetchAPI } from "../utils/fetchAPI";
-import { Categorys, Videos } from "..";
+import { Videos } from "..";
 import Section from "../common/Section";
 
 const SearchConts = () => {
-	const [selectCategory, setSelectCategory] = useState("webstoryboy");
 	const [videos, setVideos] = useState(null);
 	const { searchTerm } = useParams();
 

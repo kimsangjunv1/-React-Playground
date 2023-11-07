@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { fetchAPI } from "../utils/fetchAPI";
+// import { fetchAPI } from "../utils/fetchAPI";
 import { useParams } from "react-router-dom";
 
 import { Videos } from "..";

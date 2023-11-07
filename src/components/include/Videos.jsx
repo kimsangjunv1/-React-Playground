@@ -1,15 +1,14 @@
-import React, { Fragment } from "react";
+import React from "react";
 
 import { VideoCard, Loader } from "..";
 
 import Title from "../common/Title";
-import { Link } from "react-router-dom";
 
 // ZUSTAND 영역
 import useStore from "../store/store";
 
 const Videos = ({ videos, categorys, searchKeyword }) => {
-	const { addVideo, dropState, enableDrop, enableDrag, data } = useStore(
+	const { addVideo, dropState, enableDrop, enableDrag } = useStore(
 		(state) => state
 	);
 	if (!videos?.length) return <Loader />;

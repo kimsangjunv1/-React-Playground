@@ -1,5 +1,5 @@
 import { create } from "zustand"; // create로 zustand를 불러옵니다.
-import { devtools } from "zustand/middleware"; // redux devtools 확인용
+// import { devtools } from "zustand/middleware"; // redux devtools 확인용
 
 // zustand 기본
 // const useStore = create((set) => ({

@@ -1,6 +1,4 @@
 import React from "react";
-import dummy_screenshot from "./../../assets/img/dummy_screenshot.jpg";
-import icon_drop from "./../../assets/img/icon_drop.svg";
 import icon_close from "./../../assets/img/icon_close.svg";
 import { Link } from "react-router-dom";
 
@@ -8,15 +6,9 @@ import { Link } from "react-router-dom";
 import useStore from "../store/store";
 
 const DropZone = () => {
-	const {
-		data,
-		enableDrop,
-		enableDrag,
-		dragState,
-		dropState,
-		removeVideo,
-		addVideo,
-	} = useStore((state) => state);
+	const { data, enableDrop, enableDrag, dragState, removeVideo } = useStore(
+		(state) => state
+	);
 
 	return (
 		<div className={`dropbox ${dragState ? "open" : "close"}`}>

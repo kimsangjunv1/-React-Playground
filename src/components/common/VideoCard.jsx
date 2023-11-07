@@ -5,6 +5,8 @@ import { Link } from "react-router-dom";
 import icon_check from "./../../assets/img/icon_check.svg";
 import icon_broken from "./../../assets/img/icon_broken.svg";
 
+import useStore from "../store/store";
+
 // video 안에있는 id 안에있는 videoId값과 / video 안에있는 snippet 값
 const VideoCard = ({
 	video: {
@@ -36,6 +38,8 @@ const VideoCard = ({
 		}
 		return "방금 전";
 	};
+	const { addChannel, dropChannelState, enableChannelDrop, enableChannelDrag } =
+		useStore((state) => state);
 
 	// elapsedTime('2022-11-15');
 	return (
@@ -58,7 +62,18 @@ const VideoCard = ({
 				</div>
 				<p className="title">{snippet?.title}</p>
 				<p className="desc">{snippet?.description}</p>
-				<Link to={`/channel/${snippet.channelId}`}>
+				<Link
+					to={`/channel/${snippet.channelId}`}
+					onDragStart={() => {
+						enableChannelDrag(true);
+					}}
+					onDragEnd={() => {
+						if (dropChannelState) {
+							addChannel(snippet);
+						}
+						enableChannelDrop(false);
+					}}
+				>
 					<p className="channel_title">{snippet?.channelTitle}</p>
 					<img src={icon_check} alt="아이콘 체크" />
 					{/* <p>{snippet?.publishedAt}</p> */}

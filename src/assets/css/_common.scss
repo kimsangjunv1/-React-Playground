@@ -259,6 +259,7 @@ body {
 	}
 
 	a {
+		position: relative;
 		font-size: 14px;
 		transition: 0.25s;
 		display: flex;
@@ -301,6 +302,7 @@ body {
 			justify-content: center;
 			align-items: center;
 			gap: 5px;
+			margin-bottom: 10px;
 			img {
 				width: 17px;
 				// margin-right: 5px;
@@ -308,6 +310,30 @@ body {
 			p {
 				font-size: 12px;
 				font-weight: bold;
+			}
+		}
+		.item {
+			.remove_btn {
+				position: absolute;
+				top: 50%;
+				right: 10px;
+				border-radius: 100px;
+				background: rgba(255, 255, 255, 0.0901960784);
+				height: 20px;
+				width: 20px;
+				transform: translate(0, -50%);
+				cursor: pointer;
+				transition: 0.25s;
+				img {
+					width: 8px;
+					filter: contrast(0);
+				}
+				&:hover {
+					background: #11d617;
+					img {
+						filter: contrast(0.5);
+					}
+				}
 			}
 		}
 	}

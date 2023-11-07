@@ -3,8 +3,9 @@ import React from "react";
 import { categories } from "../utils/content";
 import { Link } from "react-router-dom";
 
+import ChannelDropZone from "./ChannelDropZone";
+
 import icon_noimage from "./../../assets/img/icon_noimage.svg";
-import icon_drop from "./../../assets/img/icon_drop.svg";
 
 const Categorys = ({ selectCategory, setSelectCategory }) => {
 	let filteredCategory = categories.filter((good) => good.id);
@@ -12,16 +13,9 @@ const Categorys = ({ selectCategory, setSelectCategory }) => {
 	return (
 		<aside id="aside">
 			<p className="title">내가 보관한 채널</p>
-			<div className="favorite_container">
-				<div className="drop_here">
-					<img src={icon_drop} alt="박스 아이콘" />
-					<p className="channel_title">
-						당신이 원하는 채널을
-						<br />
-						이곳에 드래그 앤 드롭 해주세요
-					</p>
-				</div>
-			</div>
+
+			<ChannelDropZone />
+
 			<hr />
 			<p className="title">기본 채널</p>
 			<div className="default_container">

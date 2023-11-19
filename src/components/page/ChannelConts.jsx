@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-// import { fetchAPI } from "../utils/fetchAPI";
+import { fetchAPI } from "../utils/fetchAPI";
 import { useParams } from "react-router-dom";
 
 import { Videos } from "..";
@@ -14,38 +14,38 @@ const ChannelConts = () => {
 	const { id } = useParams();
 
 	useEffect(() => {
-		// const fetchResults = async () => {
-		// 	const data = await fetchAPI(`channels?part=snippet&id=${id}`);
+		const fetchResults = async () => {
+			const data = await fetchAPI(`channels?part=snippet&id=${id}`);
 
-		// 	console.log(data?.items[0]);
-		// 	setChannelDetail(data?.items[0]);
+			console.log(data?.items[0]);
+			setChannelDetail(data?.items[0]);
 
-		// 	const videosData = await fetchAPI(
-		// 		`search?channelId=${id}&part=snippet&order=date`
-		// 	);
-		// 	setVideos(videosData?.items);
-		// };
-		// fetchResults();
+			const videosData = await fetchAPI(
+				`search?channelId=${id}&part=snippet&order=date`
+			);
+			setVideos(videosData?.items);
+		};
+		fetchResults();
 
 		// 더미
-		const test = () => {
-			fetch(
-				`https://raw.githubusercontent.com/kimsangjunv1/-React-Tech-Tube/main/src/components/utils/channelDetail.json`
-			)
-				.then((res) => res.json())
-				.then((res) => {
-					setChannelDetail(res.items[0]);
-				});
+		// const test = () => {
+		// 	fetch(
+		// 		`https://raw.githubusercontent.com/kimsangjunv1/-React-Tech-Tube/main/src/components/utils/channelDetail.json`
+		// 	)
+		// 		.then((res) => res.json())
+		// 		.then((res) => {
+		// 			setChannelDetail(res.items[0]);
+		// 		});
 
-			fetch(
-				`https://raw.githubusercontent.com/kimsangjunv1/-React-Tech-Tube/main/src/components/utils/search.json`
-			)
-				.then((res) => res.json())
-				.then((res) => {
-					setVideos(res.items);
-				});
-		};
-		test();
+		// 	fetch(
+		// 		`https://raw.githubusercontent.com/kimsangjunv1/-React-Tech-Tube/main/src/components/utils/search.json`
+		// 	)
+		// 		.then((res) => res.json())
+		// 		.then((res) => {
+		// 			setVideos(res.items);
+		// 		});
+		// };
+		// test();
 	}, [id]);
 
 	return (

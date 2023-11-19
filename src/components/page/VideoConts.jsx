@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import ReactPlayer from "react-player";
 import { useParams, Link } from "react-router-dom";
-// import { fetchAPI } from "../utils/fetchAPI";
+import { fetchAPI } from "../utils/fetchAPI";
 import { Videos, Comments, Loader } from "..";
 
 import Icon_Comments from "./../../assets/img/icon_comments.svg";
@@ -15,53 +15,53 @@ const VideoConts = () => {
 	// const [channelInfo, setChannelInfo] = useState(null);
 	const { id } = useParams();
 	useEffect(() => {
-		// fetchAPI(`videos?part=snippet,statistics&id=${id}`).then(
-		// 	(data) => setVideoDetail(data.items[0])
-		// 	// (data) => console.log(data.items)
-		// );
-		// fetchAPI(`search?part=snippet&relatedToVideoId=${id}&type=video`).then(
-		// 	(data) => setVideos(data.items)
-		// );
-		// fetchAPI(`commentThreads?&part=snippet&videoId=${id}`).then(
-		// 	(data) => setComments(data.items)
-		// 	// (data) => console.log(data.items[0])
-		// );
+		fetchAPI(`videos?part=snippet,statistics&id=${id}`).then(
+			(data) => setVideoDetail(data.items[0])
+			// (data) => console.log(data.items)
+		);
+		fetchAPI(`search?part=snippet&relatedToVideoId=${id}&type=video`).then(
+			(data) => setVideos(data.items)
+		);
+		fetchAPI(`commentThreads?&part=snippet&videoId=${id}`).then(
+			(data) => setComments(data.items)
+			// (data) => console.log(data.items[0])
+		);
 
 		// 더미
-		const test = () => {
-			fetch(
-				`https://raw.githubusercontent.com/kimsangjunv1/-React-Tech-Tube/main/src/components/utils/video.json`
-			)
-				.then((res) => res.json())
-				.then((res) => {
-					setVideoDetail(res.items[0]);
-				});
+		// const test = () => {
+		// 	fetch(
+		// 		`https://raw.githubusercontent.com/kimsangjunv1/-React-Tech-Tube/main/src/components/utils/video.json`
+		// 	)
+		// 		.then((res) => res.json())
+		// 		.then((res) => {
+		// 			setVideoDetail(res.items[0]);
+		// 		});
 
-			fetch(
-				`https://raw.githubusercontent.com/kimsangjunv1/-React-Tech-Tube/main/src/components/utils/search.json`
-			)
-				.then((res) => res.json())
-				.then((res) => {
-					setVideos(res.items);
-				});
+		// 	fetch(
+		// 		`https://raw.githubusercontent.com/kimsangjunv1/-React-Tech-Tube/main/src/components/utils/search.json`
+		// 	)
+		// 		.then((res) => res.json())
+		// 		.then((res) => {
+		// 			setVideos(res.items);
+		// 		});
 
-			fetch(
-				`https://raw.githubusercontent.com/kimsangjunv1/-React-Tech-Tube/main/src/components/utils/comment.json`
-			)
-				.then((res) => res.json())
-				.then((res) => {
-					setComments(res.items);
-				});
-			// fetch(
-			//   `https://raw.githubusercontent.com/kimsangjunv1/-React-Tech-Tube/main/src/components/utils/channel.json`
-			// )
-			//   .then((res) => res.json())
-			//   .then((res) => {
-			//     setChannelInfo(res.items[0]);
-			//     console.log("여기? : ", res);
-			//   });
-		};
-		test();
+		// 	fetch(
+		// 		`https://raw.githubusercontent.com/kimsangjunv1/-React-Tech-Tube/main/src/components/utils/comment.json`
+		// 	)
+		// 		.then((res) => res.json())
+		// 		.then((res) => {
+		// 			setComments(res.items);
+		// 		});
+		// 	// fetch(
+		// 	//   `https://raw.githubusercontent.com/kimsangjunv1/-React-Tech-Tube/main/src/components/utils/channel.json`
+		// 	// )
+		// 	//   .then((res) => res.json())
+		// 	//   .then((res) => {
+		// 	//     setChannelInfo(res.items[0]);
+		// 	//     console.log("여기? : ", res);
+		// 	//   });
+		// };
+		// test();
 	}, [id]);
 
 	if (!videoDetail?.snippet) return <Loader />;

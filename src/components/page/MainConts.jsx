@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 
-// import { fetchAPI } from "../utils/fetchAPI";
+import { fetchAPI } from "../utils/fetchAPI";
 import { Videos } from "..";
 import Loader from "./../utils/Loader";
 import Banner from "../common/Banner";
@@ -27,18 +27,18 @@ const MainConts = ({ selectCategory }) => {
 
 	useEffect(() => {
 		// 더미
-		fetch(
-			`https://raw.githubusercontent.com/kimsangjunv1/-React-Tech-Tube/main/src/components/utils/main.json`
-		)
-			.then((res) => res.json())
-			.then((res) => {
-				setVideos(res.items);
-			});
+		// fetch(
+		// 	`https://raw.githubusercontent.com/kimsangjunv1/-React-Tech-Tube/main/src/components/utils/main.json`
+		// )
+		// 	.then((res) => res.json())
+		// 	.then((res) => {
+		// 		setVideos(res.items);
+		// 	});
 
 		// 실제
-		// fetchAPI(
-		// 	`search?part=snippet&q=${selectCategory}&type=video&maxResults=${maxResults}`
-		// ).then((data) => setVideos(data.items));
+		fetchAPI(
+			`search?part=snippet&q=${selectCategory}&type=video&maxResults=${maxResults}`
+		).then((data) => setVideos(data.items));
 	}, [selectCategory]);
 
 	if (!videos?.length) return <Loader />;

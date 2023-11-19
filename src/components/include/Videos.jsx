@@ -8,7 +8,7 @@ import Title from "../common/Title";
 import useStore from "../store/store";
 
 const Videos = ({ videos, categorys, searchKeyword }) => {
-	const { addVideo, dropState, enableDrop, enableDrag } = useStore(
+	const { data, addVideo, dropState, enableDrop, enableDrag } = useStore(
 		(state) => state
 	);
 	if (!videos?.length) return <Loader />;
@@ -40,7 +40,10 @@ const Videos = ({ videos, categorys, searchKeyword }) => {
 						}}
 						onDragEnd={() => {
 							if (dropState) {
-								addVideo(item);
+								let videoList = data.map((good) => good.id.videoId);
+								if (!videoList.includes(item.id.videoId)) {
+									addVideo(item);
+								}
 							}
 							enableDrop(false);
 						}}

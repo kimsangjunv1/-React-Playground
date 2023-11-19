@@ -6,7 +6,8 @@
 		width: 100vw;
 		padding-left: 200px;
 		.section_inner {
-			width: 1300px;
+			width: 100%;
+			max-width: 1300px;
 			margin: 0 auto;
 			margin-top: 70px;
 			padding: 0 20px;
@@ -47,6 +48,7 @@
 					flex-wrap: wrap;
 					gap: 10px;
 					.item {
+						flex-grow: 1;
 						width: 32.7%;
 						.box {
 							width: 100%;

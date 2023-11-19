@@ -35,7 +35,7 @@ const DropZone = () => {
 				{data && (
 					<>
 						{data.map((item, idx) => (
-							<Link className="item" to={`/video/${item.id?.videoId}`}>
+							<div className="item">
 								<button
 									onClick={(event) => {
 										removeVideo(
@@ -45,9 +45,14 @@ const DropZone = () => {
 								>
 									<img src={icon_close} alt="close" />
 								</button>
-								<img src={item.snippet?.thumbnails?.medium?.url} alt="이미지" />
+								<Link to={`/video/${item.id?.videoId}`}>
+									<img
+										src={item.snippet?.thumbnails?.medium?.url}
+										alt="이미지"
+									/>
+								</Link>
 								<p>{item.snippet?.title}</p>
-							</Link>
+							</div>
 						))}
 					</>
 				)}
